@@ -1,0 +1,81 @@
+{
+  "titulo": "Aula 05 — Gerenciamento de Arquivos",
+  "descricao": "Criar, renomear, mover e organizar pastas e arquivos no sistema",
+  "tempo": 8,
+  "dificuldade": "Fácil",
+  "modulo": "Módulo 1 — Computadores e Segurança Digital",
+  "perguntas": [
+    {
+      "id": 1,
+      "pergunta": "Como criar uma nova pasta no computador?",
+      "alternativas": [
+        "Clicar com o botão direito em uma área vazia e escolher Novo > Pasta",
+        "Digitar o nome da pasta na barra de tarefas",
+        "Renomear o disco rígido",
+        "Salvar um arquivo sem extensão"
+      ],
+      "correta": 0,
+      "explicacao": "No Windows, clica-se com o botão direito em uma área vazia, seleciona 'Novo' e depois 'Pasta'."
+    },
+    {
+      "id": 2,
+      "pergunta": "Qual a forma correta de renomear um arquivo?",
+      "alternativas": [
+        "Clicar com o botão direito e escolher 'Renomear'",
+        "Apagar o arquivo e criar outro",
+        "Mover o arquivo para a lixeira",
+        "Reiniciar o computador"
+      ],
+      "correta": 0,
+      "explicacao": "No menu de contexto (botão direito) a opção 'Renomear' permite dar um novo nome ao arquivo."
+    },
+    {
+      "id": 3,
+      "pergunta": "Qual a diferença entre 'Copiar' e 'Recortar'?",
+      "alternativas": [
+        "Copiar duplica o arquivo e recortar move o arquivo para outro local",
+        "Copiar apaga o arquivo e recortar salva",
+        "Não há diferença nenhuma",
+        "Copiar apenas funciona em pastas e recortar em arquivos"
+      ],
+      "correta": 0,
+      "explicacao": "Copiar mantém o original e cria uma duplicata; recortar move o arquivo para o novo destino."
+    },
+    {
+      "id": 4,
+      "pergunta": "Um arquivo chamado 'Resumo.docx' é um documento de:",
+      "alternativas": [
+        "Microsoft Word",
+        "Planilha eletrônica",
+        "Apresentação de slides",
+        "Imagem digital"
+      ],
+      "correta": 0,
+      "explicacao": "A extensão .docx é o formato de documentos do Microsoft Word."
+    },
+    {
+      "id": 5,
+      "pergunta": "Qual prática ajuda a manter os arquivos organizados?",
+      "alternativas": [
+        "Criar pastas por tema e dar nomes claros",
+        "Salvar tudo na área de trabalho",
+        "Deixar todos os arquivos na pasta raiz do disco",
+        "Usar sempre o mesmo nome para arquivos diferentes"
+      ],
+      "correta": 0,
+      "explicacao": "Pastas temáticas e nomes claros facilitam localizar e gerenciar os arquivos."
+    },
+    {
+      "id": 6,
+      "pergunta": "Para mover a pasta 'Estudo' para 'Documentos', o usuário pode:",
+      "alternativas": [
+        "Recortar a pasta e colar no destino desejado",
+        "Digitar o nome da pasta no navegador",
+        "Renomear a pasta para 'Documentos'",
+        "Apagar a pasta e criar outra"
+      ],
+      "correta": 0,
+      "explicacao": "Usar 'Recortar' e depois 'Colar' move a pasta para o novo local mantendo seu conteúdo."
+    }
+  ]
+}

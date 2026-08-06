@@ -1,0 +1,105 @@
+{
+  "titulo": "Aula 01 — Explorando o Mundo dos Computadores",
+  "descricao": "Definições, funções, partes e evolução dos computadores",
+  "tempo": 10,
+  "dificuldade": "Fácil",
+  "modulo": "Módulo 1 — Computadores e Segurança Digital",
+  "perguntas": [
+    {
+      "id": 1,
+      "pergunta": "O que é um computador, de acordo com a definição apresentada em aula?",
+      "alternativas": [
+        "Uma máquina eletrônica que armazena, processa e transmite informações",
+        "Um dispositivo exclusivamente para jogos",
+        "Um programa de software instalado na internet",
+        "Uma rede que conecta várias pessoas"
+      ],
+      "correta": 0,
+      "explicacao": "O computador é uma máquina eletrônica capaz de armazenar, processar e transmitir informações conforme instruções."
+    },
+    {
+      "id": 2,
+      "pergunta": "Quais são exemplos de tipos de computadores mencionados em aula?",
+      "alternativas": [
+        "Desktop, notebook e smartphone",
+        "Mouse, teclado e monitor",
+        "Word, Excel e PowerPoint",
+        "HTML, CSS e JavaScript"
+      ],
+      "correta": 0,
+      "explicacao": "Os computadores existem em vários formatos, como desktops, notebooks e smartphones."
+    },
+    {
+      "id": 3,
+      "pergunta": "Por que usamos o computador no dia a dia?",
+      "alternativas": [
+        "Apenas para entretenimento",
+        "Para realizar tarefas como comunicar, estudar e trabalhar de forma mais rápida",
+        "Somente para armazenar arquivos físicos",
+        "Porque ele substitui completamente o pensamento humano"
+      ],
+      "correta": 1,
+      "explicacao": "O computador agiliza diversas tarefas cotidianas, como comunicação, pesquisa, estudo e trabalho."
+    },
+    {
+      "id": 4,
+      "pergunta": "O que é hardware?",
+      "alternativas": [
+        "Os programas que rodam no computador",
+        "As partes físicas do computador que podem ser tocadas",
+        "Os arquivos salvos na internet",
+        "O sistema de segurança da rede"
+      ],
+      "correta": 1,
+      "explicacao": "Hardware são as partes físicas e tangíveis, como teclado, mouse, monitor e o gabinete."
+    },
+    {
+      "id": 5,
+      "pergunta": "O que é software?",
+      "alternativas": [
+        "As peças internas do computador",
+        "Um tipo de cabo de conexão",
+        "Programas e instruções que fazem o hardware funcionar",
+        "Aparelho de armazenamento externo"
+      ],
+      "correta": 2,
+      "explicacao": "Software são os programas e instruções lógicas que permitem que o hardware execute as tarefas."
+    },
+    {
+      "id": 6,
+      "pergunta": "Qual destas opções é um exemplo de software?",
+      "alternativas": [
+        "Processador Intel",
+        "Memória RAM",
+        "Navegador de internet",
+        "Fonte de alimentação"
+      ],
+      "correta": 2,
+      "explicacao": "Um navegador de internet é um programa (software). Processador, memória e fonte são hardware."
+    },
+    {
+      "id": 7,
+      "pergunta": "Qual diferença marcante existe entre computadores antigos e os atuais?",
+      "alternativas": [
+        "São menores, mais rápidos e mais acessíveis",
+        "Não usam mais eletricidade",
+        "Rodam apenas um único programa",
+        "Não precisam de armazenamento"
+      ],
+      "correta": 0,
+      "explicacao": "A evolução permitiu computadores menores, mais velozes, com mais capacidade e amplamente acessíveis."
+    },
+    {
+      "id": 8,
+      "pergunta": "O que significa usar o computador de forma responsável?",
+      "alternativas": [
+        "Usar por muitas horas sem pausa para aprender mais",
+        "Usar com ética, cuidado com a segurança e bom equilíbrio de tempo",
+        "Compartilhar a senha com amigos",
+        "Descobrir os arquivos do colegas"
+      ],
+      "correta": 1,
+      "explicacao": "Uso responsável envolve respeitar os outros, proteger os próprios dados e equilibrar o tempo de uso."
+    }
+  ]
+}

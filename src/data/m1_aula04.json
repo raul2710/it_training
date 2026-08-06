@@ -1,0 +1,81 @@
+{
+  "titulo": "Aula 04 — Navegação, Modo Anônimo e Histórico",
+  "descricao": "Diferenças entre navegação normal e anônima e registro de histórico",
+  "tempo": 8,
+  "dificuldade": "Fácil",
+  "modulo": "Módulo 1 — Computadores e Segurança Digital",
+  "perguntas": [
+    {
+      "id": 1,
+      "pergunta": "Qual a principal diferença entre navegar no modo normal e no modo anônimo?",
+      "alternativas": [
+        "No modo anônimo o navegador não salva o histórico localmente",
+        "No modo anônimo a internet fica mais rápida",
+        "No modo anônimo os sites não funcionam",
+        "No modo anônimo não é possível abrir páginas"
+      ],
+      "correta": 0,
+      "explicacao": "O modo anônimo não registra o histórico, cookies e dados locais no computador ao fim da sessão."
+    },
+    {
+      "id": 2,
+      "pergunta": "O modo anônimo protege totalmente a sua privacidade?",
+      "alternativas": [
+        "Sim, esconde completamente tudo de todos",
+        "Não, ele não salva no dispositivo, mas provedor e sites ainda podem registrar",
+        "Sim, impede até o provedor de internet de ver",
+        "Não, ele apenas acelera a navegação"
+      ],
+      "correta": 1,
+      "explicacao": "O modo anônimo protege apenas no dispositivo local; o provedor e os sites acessados ainda podem registrar atividades."
+    },
+    {
+      "id": 3,
+      "pergunta": "Quais dados ainda podem ser registrados durante a navegação no modo anônimo?",
+      "alternativas": [
+        "O site acessado pelo provedor de internet",
+        "Nenhum dado, absolutamente nada",
+        "Os arquivos baixados pelo usuário",
+        "O endereço IP de outros usuários"
+      ],
+      "correta": 0,
+      "explicacao": "Mesmo no modo anônimo, o provedor de internet e os próprios sites podem identificar a conexão e o acesso."
+    },
+    {
+      "id": 4,
+      "pergunta": "Em qual situação o modo anônimo pode ser útil no dia a dia?",
+      "alternativas": [
+        "Para navegar sem deixar registros locais no dispositivo",
+        "Para ganhar mais espaço de armazenamento",
+        "Para acessar páginas sem internet",
+        "Para deixar o computador mais rápido permanentemente"
+      ],
+      "correta": 0,
+      "explicacao": "O modo anônimo é útil quando não se quer deixar histórico ou dados locais no dispositivo compartilhado."
+    },
+    {
+      "id": 5,
+      "pergunta": "Qual atalho abre o histórico de navegação no Google Chrome?",
+      "alternativas": [
+        "Ctrl + H",
+        "Ctrl + P",
+        "Ctrl + S",
+        "Alt + F4"
+      ],
+      "correta": 0,
+      "explicacao": "No Chrome, o atalho Ctrl + H (ou Ctrl + Shift + H) abre o histórico de navegação."
+    },
+    {
+      "id": 6,
+      "pergunta": "Para abrir uma nova janela anônima no Google Chrome, o usuário deve:",
+      "alternativas": [
+        "Clicar nos três pontos e selecionar 'Nova janela anônima'",
+        "Desligar e ligar o computador",
+        "Abrir o gerenciador de tarefas",
+        "Apagar o navegador"
+      ],
+      "correta": 0,
+      "explicacao": "No menu dos três pontos do Chrome existe a opção 'Nova janela anônima' (Ctrl + Shift + N)."
+    }
+  ]
+}

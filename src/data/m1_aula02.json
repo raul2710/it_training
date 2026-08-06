@@ -1,0 +1,117 @@
+{
+  "titulo": "Aula 02 — Ameaças Digitais",
+  "descricao": "Malware, phishing, senhas seguras e privacidade online",
+  "tempo": 12,
+  "dificuldade": "Média",
+  "modulo": "Módulo 1 — Computadores e Segurança Digital",
+  "perguntas": [
+    {
+      "id": 1,
+      "pergunta": "O que são ameaças digitais?",
+      "alternativas": [
+        "Ações e riscos que podem prejudicar, roubar ou danificar dados e dispositivos",
+        "Ferramentas de organização de arquivos",
+        "Programas de desenho digital",
+        "Redes sociais de entretenimento"
+      ],
+      "correta": 0,
+      "explicacao": "Ameaças digitais são riscos que visam comprometer a segurança de dados, contas e dispositivos."
+    },
+    {
+      "id": 2,
+      "pergunta": "Qual destes é um tipo de malware?",
+      "alternativas": [
+        "Vírus e ransomware",
+        "Antivírus",
+        "Navegador de internet",
+        "Firewall"
+      ],
+      "correta": 0,
+      "explicacao": "Vírus e ransomware são exemplos de malware (softwares maliciosos). Antivírus e firewall são proteções."
+    },
+    {
+      "id": 3,
+      "pergunta": "O que é phishing?",
+      "alternativas": [
+        "Um golpe que tenta enganar a vítima para obter dados pessoais",
+        "Um jogo de navegação",
+        "Uma técnica de edição de imagem",
+        "Um tipo de senha"
+      ],
+      "correta": 0,
+      "explicacao": "Phishing envia mensagens falsas parecendo legítimas para roubar informações como senhas e dados."
+    },
+    {
+      "id": 4,
+      "pergunta": "O que é roubo de identidade?",
+      "alternativas": [
+        "Perder o acesso ao próprio celular",
+        "Utilizar dados pessoais de outra pessoa sem autorização para cometer fraudes",
+        "Esquecer a senha do e-mail",
+        "Criar uma assinatura digital"
+      ],
+      "correta": 1,
+      "explicacao": "Roubo de identidade acontece quando alguém usa dados de outra pessoa, sem permissão, para fraudes."
+    },
+    {
+      "id": 5,
+      "pergunta": "Qual característica torna uma senha mais segura?",
+      "alternativas": [
+        "Ser curta e fácil de lembrar",
+        "Usar apenas o próprio nome",
+        "Combinar letras, números e símbolos em uma sequência longa e única",
+        "Usar a mesma senha em todos os sites"
+      ],
+      "correta": 2,
+      "explicacao": "Senhas seguras são longas, variadas (letras, números e símbolos) e não são reutilizadas."
+    },
+    {
+      "id": 6,
+      "pergunta": "Qual é um bom hábito de segurança com senhas?",
+      "alternativas": [
+        "Anotar a senha em um aplicativo do próprio dispositivo",
+        "Não alterar a senha nunca",
+        "Dar a senha para amigos confiáveis",
+        "Usar somente o próprio nome como senha"
+      ],
+      "correta": 0,
+      "explicacao": "Anotar em local seguro (como um gerenciador de senhas), sem compartilhar, ajuda a manter contas seguras."
+    },
+    {
+      "id": 7,
+      "pergunta": "Quais riscos a exposição excessiva nas redes sociais pode trazer?",
+      "alternativas": [
+        "Golpes e invasão de privacidade",
+        "Aumento automático da segurança",
+        "Perda dos arquivos do pendrive",
+        "Queda de internet"
+      ],
+      "correta": 0,
+      "explicacao": "Expor informações pessoais nas redes facilita golpes (engenharia social) e compromete a privacidade."
+    },
+    {
+      "id": 8,
+      "pergunta": "Qual dica ajuda a proteger a privacidade online?",
+      "alternativas": [
+        "Compartilhar dados bancários em comentários",
+        "Revisar as configurações de privacidade e evitar publicar dados sensíveis",
+        "Aceitar todas as solicitações de conexão sem verificar",
+        "Fazer login em qualquer dispositivo público"
+      ],
+      "correta": 1,
+      "explicacao": "Ajustar as configurações de privacidade e não divulgar dados sensíveis reduz os riscos online."
+    },
+    {
+      "id": 9,
+      "pergunta": "O que é cyberbullying?",
+      "alternativas": [
+        "Ameaças físicas em encontros escolares",
+        "Ofensas e humilhações repetidas direcionadas a alguém no ambiente digital",
+        "Uma técnica de programação",
+        "Um tipo de vírus de computador"
+      ],
+      "correta": 1,
+      "explicacao": "Cyberbullying é a prática repetida de agressão, ofensa ou humilhação contra alguém por meios digitais."
+    }
+  ]
+}

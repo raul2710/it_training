@@ -1,0 +1,129 @@
+{
+  "titulo": "Revisão — Computadores e Segurança Digital",
+  "descricao": "Revisão geral do módulo para a avaliação",
+  "tempo": 15,
+  "dificuldade": "Média",
+  "modulo": "Módulo 1 — Computadores e Segurança Digital",
+  "perguntas": [
+    {
+      "id": 1,
+      "pergunta": "O que é um computador?",
+      "alternativas": [
+        "Uma máquina eletrônica que armazena, processa e transmite informações",
+        "Um dispositivo apenas para assistir filmes",
+        "Um programa de edição de texto",
+        "Uma rede de conexão entre usuários"
+      ],
+      "correta": 0,
+      "explicacao": "O computador é uma máquina eletrônica capaz de processar, armazenar e transmitir informações."
+    },
+    {
+      "id": 2,
+      "pergunta": "Hardware e software se referem, respectivamente, a:",
+      "alternativas": [
+        "Partes físicas e programas/instruções",
+        "Programas e partes físicas",
+        "Redes e arquivos",
+        "Arquivos e redes"
+      ],
+      "correta": 0,
+      "explicacao": "Hardware são as partes físicas; software são os programas e instruções que as fazem funcionar."
+    },
+    {
+      "id": 3,
+      "pergunta": "O que são ameaças digitais?",
+      "alternativas": [
+        "Riscos que podem prejudicar ou roubar dados e dispositivos",
+        "Ferramentas de proteção do sistema",
+        "Aplicativos de produtividade",
+        "Técnicas de organização de arquivos"
+      ],
+      "correta": 0,
+      "explicacao": "Ameaças digitais são ações que visam comprometer a segurança de dados, contas e dispositivos."
+    },
+    {
+      "id": 4,
+      "pergunta": "O que é phishing?",
+      "alternativas": [
+        "Um golpe que engana o usuário para obter dados pessoais",
+        "Uma ferramenta de backup",
+        "Um tipo de senha forte",
+        "Um navegador de internet"
+      ],
+      "correta": 0,
+      "explicacao": "Phishing usa mensagens falsas que imitam instituições para roubar senhas e dados."
+    },
+    {
+      "id": 5,
+      "pergunta": "Qual característica torna uma senha segura?",
+      "alternativas": [
+        "Sequência longa, variada e exclusiva por serviço",
+        "Ser igual ao nome do usuário",
+        "Ser curta para facilitar o login",
+        "Ser a mesma em todos os sites"
+      ],
+      "correta": 0,
+      "explicacao": "Senhas fortes são longas, misturam caracteres e não são reutilizadas entre serviços."
+    },
+    {
+      "id": 6,
+      "pergunta": "Qual ferramenta adiciona uma camada extra de proteção além da senha?",
+      "alternativas": [
+        "Autenticação de dois fatores (2FA)",
+        "Bloco de notas",
+        "Calculadora do sistema",
+        "Papel de parede"
+      ],
+      "correta": 0,
+      "explicacao": "A verificação em duas etapas (2FA) exige uma confirmação adicional além da senha."
+    },
+    {
+      "id": 7,
+      "pergunta": "Qual risco de expor dados pessoais nas redes sociais?",
+      "alternativas": [
+        "Facilita golpes e compromete a privacidade",
+        "Aumenta a velocidade do computador",
+        "Melhora a qualidade da internet",
+        "Torna as senhas mais seguras"
+      ],
+      "correta": 0,
+      "explicacao": "Informações pessoais expostas podem ser usadas em golpes e violações de privacidade."
+    },
+    {
+      "id": 8,
+      "pergunta": "O modo anônimo do navegador:",
+      "alternativas": [
+        "Não salva o histórico localmente, mas não esconde a navegação do provedor",
+        "Esconde completamente toda a navegação de todos",
+        "Impede o acesso a qualquer site",
+        "Acelera a internet definitivamente"
+      ],
+      "correta": 0,
+      "explicacao": "O modo anônimo limpa dados locais, mas o provedor e os sites acessados ainda podem registrar a atividade."
+    },
+    {
+      "id": 9,
+      "pergunta": "Como organizar arquivos de forma eficiente no computador?",
+      "alternativas": [
+        "Criar pastas por tema com nomes claros",
+        "Salvar todos os arquivos na área de trabalho",
+        "Não usar pastas, apenas arquivos soltos",
+        "Usar sempre o mesmo nome para tudo"
+      ],
+      "correta": 0,
+      "explicacao": "Pastas temáticas e nomes claros facilitam encontrar e gerenciar os arquivos."
+    },
+    {
+      "id": 10,
+      "pergunta": "Qual diferença marcante entre computadores antigos e modernos?",
+      "alternativas": [
+        "São menores, mais rápidos e mais acessíveis",
+        "Não utilizam energia elétrica",
+        "Não possuem memória",
+        "Funcionam sem nenhum software"
+      ],
+      "correta": 0,
+      "explicacao": "A evolução tornou os computadores menores, mais potentes, rápidos e acessíveis à população."
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "titulo": "Aula 03 — Segurança Digital",
+  "descricao": "Importância da segurança, ferramentas e estudos de caso",
+  "tempo": 12,
+  "dificuldade": "Média",
+  "modulo": "Módulo 1 — Computadores e Segurança Digital",
+  "perguntas": [
+    {
+      "id": 1,
+      "pergunta": "O que é segurança digital?",
+      "alternativas": [
+        "Um conjunto de práticas e ferramentas para proteger dados e informações na internet",
+        "A velocidade da conexão de internet",
+        "O antivírus instalado no celular",
+        "Um programa de edição de imagens"
+      ],
+      "correta": 0,
+      "explicacao": "Segurança digital envolve práticas e ferramentas que protegem dados e sistemas contra acessos e golpes."
+    },
+    {
+      "id": 2,
+      "pergunta": "Qual é uma consequência de não proteger nossos dados?",
+      "alternativas": [
+        "Maior velocidade de internet",
+        "Risco de fraudes, roubo de identidade e perda de privacidade",
+        "Computador fica mais leve",
+        "Aumento do espaço de armazenamento"
+      ],
+      "correta": 1,
+      "explicacao": "Sem proteção adequada, os dados podem ser usados em fraudes, gerando prejuízos e perda de privacidade."
+    },
+    {
+      "id": 3,
+      "pergunta": "Quais são três ameaças digitais citadas em aula?",
+      "alternativas": [
+        "Phishing, malware e engenharia social",
+        "CD, DVD e pen drive",
+        "HTML, CSS e JavaScript",
+        "Wifi, Bluetooth e GPS"
+      ],
+      "correta": 0,
+      "explicacao": "Phishing, malware e engenharia social são exemplos clássicos de ameaças digitais."
+    },
+    {
+      "id": 4,
+      "pergunta": "Como o phishing geralmente funciona?",
+      "alternativas": [
+        "Envia mensagens falsas que imitam empresas para capturar dados da vítima",
+        "Faz cópia de segurança dos arquivos",
+        "Atualiza o antivírus automaticamente",
+        "Aumenta a potência do computador"
+      ],
+      "correta": 0,
+      "explicacao": "O phishing se disfarça de mensagem legítima para induzir a vítima a informar dados como senhas."
+    },
+    {
+      "id": 5,
+      "pergunta": "Quais são duas ferramentas de segurança digital?",
+      "alternativas": [
+        "Antivírus e autenticação de dois fatores (2FA)",
+        "Word e Excel",
+        "Play Store e App Store",
+        "Mouse e teclado"
+      ],
+      "correta": 0,
+      "explicacao": "Antivírus detecta ameaças e a verificação em duas etapas (2FA) adiciona uma camada extra de proteção."
+    },
+    {
+      "id": 6,
+      "pergunta": "Como a autenticação de dois fatores (2FA) ajuda a proteger sua conta?",
+      "alternativas": [
+        "Exige uma segunda etapa de verificação além da senha",
+        "Torna a senha desnecessária",
+        "Apaga todos os dados da conta",
+        "Faz login automático sem nenhuma confirmação"
+      ],
+      "correta": 0,
+      "explicacao": "O 2FA exige uma segunda verificação (código ou confirmação), dificultando o acesso por terceiros."
+    },
+    {
+      "id": 7,
+      "pergunta": "No caso de phishing de João, qual seria uma ação preventiva correta?",
+      "alternativas": [
+        "Clicar no link do e-mail para confirmar",
+        "Verificar o remetente e não clicar em links suspeitos",
+        "Enviar a senha para o suporte do e-mail",
+        "Responder o e-mail com os dados pessoais"
+      ],
+      "correta": 1,
+      "explicacao": "Conferir o remetente e evitar links suspeitos evita cair em golpes de phishing."
+    },
+    {
+      "id": 8,
+      "pergunta": "O que é engenharia social?",
+      "alternativas": [
+        "Manipulação psicológica para obter informações confidenciais",
+        "Um programa de criação de redes",
+        "A forma como os computadores se conectam",
+        "Uma técnica de impressão"
+      ],
+      "correta": 0,
+      "explicacao": "A engenharia social usa engano e confiança para convencer a pessoa a revelar dados ou realizar ações."
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+/* ============================================================
+   StudyHub - Animações
+   ============================================================ */
+
+@keyframes fade-in {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes slide-up {
+  from {
+    opacity: 0;
+    transform: translateY(14px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes pop {
+  0% {
+    transform: scale(0.96);
+    opacity: 0;
+  }
+  70% {
+    transform: scale(1.02);
+  }
+  100% {
+    transform: scale(1);
+    opacity: 1;
+  }
+}
+
+@keyframes shimmer {
+  0% {
+    background-position: -200% 0;
+  }
+  100% {
+    background-position: 200% 0;
+  }
+}
+
+.animate-fade-in {
+  animation: fade-in var(--transition) both;
+}
+
+.animate-up {
+  animation: slide-up var(--transition-slow) both;
+}
+
+.animate-pop {
+  animation: pop var(--transition-slow) both;
+}
+
+/* Atrasos em cascata para grades/listas */
+.animate-up:nth-child(2) { animation-delay: 60ms; }
+.animate-up:nth-child(3) { animation-delay: 120ms; }
+.animate-up:nth-child(4) { animation-delay: 180ms; }
+.animate-up:nth-child(5) { animation-delay: 240ms; }
+.animate-up:nth-child(6) { animation-delay: 300ms; }
+.animate-up:nth-child(7) { animation-delay: 360ms; }
+.animate-up:nth-child(8) { animation-delay: 420ms; }
+.animate-up:nth-child(9) { animation-delay: 480ms; }
+
+/* Esqueleto de carregamento */
+.skeleton {
+  border-radius: var(--radius-md);
+  background: linear-gradient(90deg, var(--color-surface-2) 25%, var(--color-surface-3) 50%, var(--color-surface-2) 75%);
+  background-size: 200% 100%;
+  animation: shimmer 1.4s infinite;
+}
+
+/* Respeita a preferência por menos movimento */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
