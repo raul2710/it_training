@@ -1,0 +1,143 @@
+{
+  "id": "c_m1_aula04",
+  "modulo": "Módulo 1 — Computadores e Segurança Digital",
+  "titulo": "Introdução às Configurações de Internet e Navegadores",
+  "subtitulo": "Tipos de conexão, configurações dos navegadores, segurança na navegação e o modo privado.",
+  "tempo": 10,
+  "secoes": [
+    {
+      "titulo": "O que são configurações de internet?",
+      "blocos": [
+        {
+          "tipo": "texto",
+          "texto": "São os ajustes que você faz no dispositivo para conectá-lo à internet e controlar a forma como ele interage com a rede — por exemplo, ajustes no Wi-Fi ou no tipo de conexão (como cabo de rede)."
+        },
+        {
+          "tipo": "lista",
+          "itens": [
+            "Para ter uma conexão mais estável.",
+            "Para melhorar a segurança e a privacidade."
+          ]
+        },
+        {
+          "tipo": "destacado",
+          "texto": "Curiosidade: a internet é formada por várias redes de computadores conectadas entre si, funcionando como uma grande teia global."
+        }
+      ]
+    },
+    {
+      "titulo": "Tipos de conexão com a internet",
+      "blocos": [
+        {
+          "tipo": "cards",
+          "itens": [
+            { "titulo": "Wi-Fi", "descricao": "conexão sem fio, muito usada em casa e lugares públicos. Escolha uma rede segura (com senha)." },
+            { "titulo": "Cabo de rede (Ethernet)", "descricao": "conexão mais rápida e estável, pois usa um cabo físico. Ideal para jogar ou trabalhar com vídeos." }
+          ]
+        },
+        {
+          "tipo": "destacado",
+          "texto": "Curiosidade: o primeiro acesso sem fio à internet foi feito em 1991, com a criação do Wi-Fi."
+        }
+      ]
+    },
+    {
+      "titulo": "O que é um navegador?",
+      "blocos": [
+        {
+          "tipo": "texto",
+          "texto": "Um navegador (browser) é o programa que você usa para acessar sites na internet. Exemplos: Google Chrome, Mozilla Firefox, Microsoft Edge e Safari."
+        },
+        {
+          "tipo": "destacado",
+          "texto": "Curiosidade: o primeiro navegador foi o WorldWideWeb, criado em 1990 por Tim Berners-Lee."
+        }
+      ]
+    },
+    {
+      "titulo": "Configurações básicas de navegadores",
+      "blocos": [
+        {
+          "tipo": "cards",
+          "itens": [
+            { "titulo": "Página inicial", "descricao": "o site que o navegador abre ao iniciar, como Google, Facebook ou uma página personalizada." },
+            { "titulo": "Histórico de navegação", "descricao": "o navegador armazena os sites visitados para facilitar o acesso posterior. Limpar o histórico aumenta a segurança e a velocidade." }
+          ]
+        },
+        {
+          "tipo": "destacado",
+          "texto": "Curiosidade: o Google Chrome guarda seu histórico, mas você pode limpá-lo a qualquer momento nas configurações."
+        }
+      ]
+    },
+    {
+      "titulo": "Como garantir a segurança na navegação",
+      "blocos": [
+        {
+          "tipo": "cards",
+          "itens": [
+            { "titulo": "HTTPS", "descricao": "o \"S\" no final significa que a conexão é segura. Sempre verifique antes de inserir dados pessoais." },
+            { "titulo": "Senhas fortes", "descricao": "use senhas fortes e únicas para cada site importante. Considere um gerenciador de senhas." }
+          ]
+        },
+        {
+          "tipo": "destacado",
+          "texto": "Sites que não usam HTTPS podem ser mais vulneráveis a ataques e ao roubo de dados."
+        }
+      ]
+    },
+    {
+      "titulo": "O que fazer quando a internet não funciona?",
+      "blocos": [
+        {
+          "tipo": "passos",
+          "itens": [
+            { "titulo": "Verifique o Wi-Fi", "descricao": "confirme se o Wi-Fi está ligado." },
+            { "titulo": "Reinicie o roteador", "descricao": "reinicie o roteador ou modem." },
+            { "titulo": "Teste outro dispositivo", "descricao": "se o problema persistir, tente acessar de outro aparelho." }
+          ]
+        },
+        {
+          "tipo": "destacado",
+          "texto": "Muitos problemas de conexão podem ser resolvidos com um simples reinício do roteador."
+        }
+      ]
+    },
+    {
+      "titulo": "Navegação em modo privado",
+      "blocos": [
+        {
+          "tipo": "texto",
+          "texto": "É um modo do navegador em que não são salvos dados de navegação, como cookies e histórico. Use quando não quiser deixar rastros, por exemplo, em computadores públicos."
+        },
+        {
+          "tipo": "destacado",
+          "texto": "Atenção: o modo privado não esconde sua atividade da empresa ou da rede à qual você está conectado — como o provedor de internet."
+        }
+      ]
+    },
+    {
+      "titulo": "Dicas finais para navegar com segurança",
+      "blocos": [
+        {
+          "tipo": "lista",
+          "itens": [
+            "Mantenha o navegador e o sistema operacional atualizados.",
+            "Use senhas fortes e únicas para sites importantes.",
+            "Sempre verifique se o site é seguro antes de fornecer informações pessoais.",
+            "Cuidado com links suspeitos, especialmente em e-mails e redes sociais."
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Conclusão",
+      "blocos": [
+        {
+          "tipo": "destacado",
+          "texto": "Entender as conexões, as configurações e o modo privado ajuda a navegar com mais estabilidade, segurança e privacidade no dia a dia."
+        }
+      ]
+    }
+  ]
+}

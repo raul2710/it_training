@@ -1,0 +1,122 @@
+{
+  "id": "c_m2_aula01",
+  "modulo": "Módulo 2 — Microsoft Word",
+  "titulo": "Introdução ao Microsoft Word",
+  "subtitulo": "O que é o Word, sua interface, como criar e salvar documentos e as ferramentas básicas.",
+  "tempo": 10,
+  "secoes": [
+    {
+      "titulo": "O que é o Microsoft Word?",
+      "blocos": [
+        {
+          "tipo": "texto",
+          "texto": "O Microsoft Word é um editor de texto desenvolvido pela Microsoft, amplamente usado para criar documentos profissionais como currículos, relatórios e cartas. Foi lançado inicialmente em 1983 como Multi-Tool Word e está disponível em várias plataformas: Windows, macOS, Android e iOS."
+        },
+        {
+          "tipo": "destacado",
+          "texto": "Curiosidade: a versão mais antiga do Word tinha uma interface em preto e branco."
+        }
+      ]
+    },
+    {
+      "titulo": "A interface do Microsoft Word",
+      "blocos": [
+        {
+          "tipo": "cards",
+          "itens": [
+            { "titulo": "Barra de Título", "descricao": "mostra o nome do documento." },
+            { "titulo": "Faixa de Opções", "descricao": "contém guias como Arquivo, Página Inicial e Inserir." },
+            { "titulo": "Painel de Documento", "descricao": "onde você escreve e edita o conteúdo." },
+            { "titulo": "Barra de Status", "descricao": "exibe informações como o número de páginas." }
+          ]
+        },
+        {
+          "tipo": "destacado",
+          "texto": "Boas práticas: salve seu trabalho regularmente com o atalho Ctrl + S."
+        }
+      ]
+    },
+    {
+      "titulo": "Criando um novo documento",
+      "blocos": [
+        {
+          "tipo": "passos",
+          "itens": [
+            { "titulo": "Abra o Microsoft Word", "descricao": "para iniciar o programa." },
+            { "titulo": "Clique em Arquivo > Novo", "descricao": "para abrir as opções de novo documento." },
+            { "titulo": "Escolha um modelo", "descricao": "ou selecione \"Documento em Branco\"." }
+          ]
+        },
+        {
+          "tipo": "destacado",
+          "texto": "Use modelos para ganhar tempo em documentos padronizados."
+        }
+      ]
+    },
+    {
+      "titulo": "Como salvar um documento",
+      "blocos": [
+        {
+          "tipo": "passos",
+          "itens": [
+            { "titulo": "Clique em Arquivo > Salvar Como", "descricao": "para escolher onde salvar." },
+            { "titulo": "Escolha o local", "descricao": "onde deseja salvar o arquivo." },
+            { "titulo": "Nomeie o arquivo", "descricao": "e clique em Salvar." }
+          ]
+        },
+        {
+          "tipo": "lista",
+          "itens": [
+            "Use o OneDrive para salvar documentos na nuvem.",
+            "Nomeie seus arquivos de forma clara para facilitar buscas futuras (ex.: \"Documento.docx\")."
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Ferramentas básicas",
+      "blocos": [
+        {
+          "tipo": "cards",
+          "itens": [
+            { "titulo": "Copiar e Colar", "descricao": "Ctrl + C e Ctrl + V." },
+            { "titulo": "Desfazer e Refazer", "descricao": "Ctrl + Z e Ctrl + Y." },
+            { "titulo": "Imprimir", "descricao": "Ctrl + P." },
+            { "titulo": "Selecionar tudo", "descricao": "Ctrl + T." }
+          ]
+        },
+        {
+          "tipo": "destacado",
+          "texto": "Curiosidade: o recurso \"Desfazer\" pode ser usado várias vezes seguidas para corrigir múltiplos erros!"
+        }
+      ]
+    },
+    {
+      "titulo": "Personalizando o Word",
+      "blocos": [
+        {
+          "tipo": "lista",
+          "itens": [
+            "Ajuste temas de cores em Arquivo > Opções > Geral.",
+            "Ative ou desative recursos em Opções > Personalizar Faixa de Opções.",
+            "Ative o modo escuro para reduzir a fadiga ocular.",
+            "Configure atalhos personalizados para ganhar eficiência."
+          ]
+        },
+        {
+          "tipo": "destacado",
+          "texto": "Curiosidade: o Word pode abrir documentos no formato PDF para edição básica."
+        }
+      ]
+    },
+    {
+      "titulo": "Conclusão",
+      "blocos": [
+        {
+          "tipo": "destacado",
+          "texto": "Conhecer a interface, criar e salvar documentos e dominar as ferramentas básicas é o ponto de partida para usar o Word com produtividade e profissionalismo."
+        }
+      ]
+    }
+  ]
+}

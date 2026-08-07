@@ -1,0 +1,116 @@
+{
+  "id": "c_m5_aula06",
+  "modulo": "Módulo 5 — Computação em Nuvem e IA",
+  "titulo": "Como a IA toma decisões? Árvores de Decisão",
+  "subtitulo": "Do empréstimo bancário ao diagnóstico médico — veja como a IA decide passo a passo.",
+  "tempo": 10,
+  "secoes": [
+    {
+      "titulo": "O que é uma Árvore de Decisão?",
+      "blocos": [
+        {
+          "tipo": "texto",
+          "texto": "Árvore de Decisão é um modelo de IA que toma decisões fazendo uma série de perguntas em sequência — como um fluxograma — até chegar a uma resposta final."
+        },
+        {
+          "tipo": "cards",
+          "itens": [
+            { "titulo": "Nó de decisão (losango)", "descricao": "uma pergunta com resposta Sim ou Não (ex.: 'Renda > R$3.000?')." },
+            { "titulo": "Ramo (seta)", "descricao": "o caminho seguido após cada resposta (Sim → / Não →)." },
+            { "titulo": "Folha (retângulo)", "descricao": "a decisão final da IA (ex.: 'Aprovado' ou 'Negado')." }
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Você já usou uma árvore de decisão!",
+      "blocos": [
+        {
+          "tipo": "passos",
+          "itens": [
+            { "titulo": "Tem febre?", "descricao": "NÃO → verificar outros sintomas; SIM → próxima pergunta." },
+            { "titulo": "Febre acima de 38°C?", "descricao": "NÃO → febre baixa, observar e hidratar; SIM → próxima pergunta." },
+            { "titulo": "Tem dor de garganta?", "descricao": "NÃO → provável gripe, repouso; SIM → possível amigdalite, encaminhar ao médico." }
+          ]
+        },
+        {
+          "tipo": "destacado",
+          "texto": "Um médico examina um paciente exatamente como uma árvore de decisão — e a IA faz o mesmo, só que com milhares de perguntas em milissegundos."
+        }
+      ]
+    },
+    {
+      "titulo": "Exemplo: aprovar ou negar um empréstimo",
+      "blocos": [
+        {
+          "tipo": "passos",
+          "itens": [
+            { "titulo": "Renda mensal > R$ 3.000?", "descricao": "NÃO → NEGADO (renda insuficiente). SIM → próxima pergunta." },
+            { "titulo": "Tem dívidas em atraso?", "descricao": "NÃO → verificar histórico. SIM → próxima pergunta." },
+            { "titulo": "Dívida > R$ 5.000?", "descricao": "SIM → NEGADO. NÃO → ANÁLISE manual." },
+            { "titulo": "Histórico de pagamento bom?", "descricao": "SIM → APROVADO. NÃO → NEGADO (mau histórico)." }
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Como ler a árvore: 3 casos reais",
+      "blocos": [
+        {
+          "tipo": "cards",
+          "itens": [
+            { "titulo": "Maria — APROVADA", "descricao": "Renda R$ 4.500, sem dívidas, histórico ótimo. Caminho: renda alta ✓, sem dívidas ✓, histórico bom ✓ → aprovada." },
+            { "titulo": "João — NEGADO", "descricao": "Renda R$ 2.200, nenhuma dívida, histórico excelente, mas renda abaixo de R$ 3.000 → negado (renda insuficiente)." },
+            { "titulo": "Carla — ANÁLISE MANUAL", "descricao": "Renda R$ 5.000, dívida de R$ 3.000 em atraso. Dívida abaixo de R$ 5.000 → análise manual." }
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Árvores de Decisão no mundo real",
+      "blocos": [
+        {
+          "tipo": "cards",
+          "itens": [
+            { "titulo": "Banco/Crédito", "descricao": "aprova cartão, empréstimo ou financiamento (score, renda, dívidas)." },
+            { "titulo": "Diagnóstico médico", "descricao": "identifica doenças com base em sintomas (febre, dor de garganta, tosse)." },
+            { "titulo": "E-commerce", "descricao": "detecta fraudes em compras suspeitas em tempo real." },
+            { "titulo": "Seguros de saúde", "descricao": "calcula o risco de cada cliente para definir o plano ideal." },
+            { "titulo": "Filtro de spam", "descricao": "classifica e-mails entre spam e mensagens legítimas." },
+            { "titulo": "RH e contratações", "descricao": "faz triagem inicial de currículos por critérios objetivos." }
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Vantagens e limitações",
+      "blocos": [
+        {
+          "tipo": "cards",
+          "itens": [
+            { "titulo": "✓ Vantagens", "descricao": "fácil de entender, transparente (sem caixas pretas), rápida e funciona com dados não numéricos (sim/não, alto/baixo)." },
+            { "titulo": "✗ Limitações", "descricao": "pode ter viés se os dados forem injustos, oversimplifica situações complexas, pode ficar enorme e não aprende sozinha (humanos definem as perguntas)." }
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Como a IA aprende a árvore certa?",
+      "blocos": [
+        {
+          "tipo": "passos",
+          "itens": [
+            { "titulo": "Coleta dados históricos", "descricao": "o banco fornece 10.000 exemplos de empréstimos passados, aprovados e negados." },
+            { "titulo": "Testa as melhores perguntas", "descricao": "a IA escolhe a pergunta que melhor divide 'aprovados' de 'negados'." },
+            { "titulo": "Repete para cada ramificação", "descricao": "para cada grupo resultante, repete até as folhas ficarem 'puras'." },
+            { "titulo": "Valida com dados novos", "descricao": "a árvore é testada com clientes que nunca viu; se acertar bem, está pronta." }
+          ]
+        },
+        {
+          "tipo": "destacado",
+          "texto": "Vantagem: transparência. Limitação: pode reproduzir o viés dos dados de treino."
+        }
+      ]
+    }
+  ]
+}

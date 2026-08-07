@@ -1,0 +1,137 @@
+{
+  "id": "c_m1_aula02",
+  "modulo": "Módulo 1 — Computadores e Segurança Digital",
+  "titulo": "Ameaças Digitais",
+  "subtitulo": "Os perigos que podem afetar nossos dados e nossa privacidade online — e como se proteger.",
+  "tempo": 10,
+  "secoes": [
+    {
+      "titulo": "O que são ameaças digitais?",
+      "blocos": [
+        {
+          "tipo": "texto",
+          "texto": "Ameaças digitais são perigos que podem afetar a segurança dos nossos dados e a nossa privacidade online. Exemplos comuns: vírus, malware, phishing e roubo de identidade."
+        },
+        {
+          "tipo": "destacado",
+          "texto": "Curiosidade: o primeiro vírus de computador, chamado \"Creeper\", foi criado em 1971 e exibia a mensagem \"I'm the creeper, catch me if you can!\""
+        }
+      ]
+    },
+    {
+      "titulo": "Malware",
+      "blocos": [
+        {
+          "tipo": "texto",
+          "texto": "Malware é um software malicioso que prejudica seu dispositivo. Ele existe em vários tipos, cada um com um jeito de atacar."
+        },
+        {
+          "tipo": "cards",
+          "itens": [
+            { "titulo": "Vírus", "descricao": "anexa-se a arquivos e se espalha entre dispositivos." },
+            { "titulo": "Worms", "descricao": "replicam-se e se espalham sozinhos." },
+            { "titulo": "Trojans", "descricao": "disfarçam-se de software legítimo." },
+            { "titulo": "Spyware", "descricao": "coleta informações sem o conhecimento do usuário." }
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Phishing",
+      "blocos": [
+        {
+          "tipo": "texto",
+          "texto": "Phishing é uma técnica usada por criminosos para roubar informações pessoais. Eles enviam e-mails falsos que parecem legítimos, direcionando para sites clonados."
+        },
+        {
+          "tipo": "lista",
+          "itens": [
+            "Erros gramaticais no texto da mensagem.",
+            "URLs suspeitas ou diferentes do site oficial.",
+            "Pedidos urgentes de informações pessoais."
+          ]
+        },
+        {
+          "tipo": "destacado",
+          "texto": "Dica: verifique sempre o remetente e não clique em links suspeitos."
+        }
+      ]
+    },
+    {
+      "titulo": "Roubo de identidade",
+      "blocos": [
+        {
+          "tipo": "texto",
+          "texto": "Roubo de identidade é o uso não autorizado de informações pessoais para cometer fraudes. O impacto pode causar prejuízos financeiros, emocionais e legais para a vítima."
+        }
+      ]
+    },
+    {
+      "titulo": "Cyberbullying",
+      "blocos": [
+        {
+          "tipo": "texto",
+          "texto": "Cyberbullying é o bullying praticado por meio digital. Ele pode acontecer por mensagens ofensivas, difamação ou exclusão social online, e afeta profundamente quem sofre."
+        },
+        {
+          "tipo": "lista",
+          "itens": [
+            "Mensagens ofensivas.",
+            "Difamação.",
+            "Exclusão social online."
+          ]
+        },
+        {
+          "tipo": "destacado",
+          "texto": "Dica: denuncie comportamentos abusivos e procure ajuda de adultos confiáveis."
+        }
+      ]
+    },
+    {
+      "titulo": "Senhas seguras",
+      "blocos": [
+        {
+          "tipo": "texto",
+          "texto": "As senhas protegem suas contas e informações pessoais. Uma senha segura é a primeira barreira contra invasões."
+        },
+        {
+          "tipo": "lista",
+          "itens": [
+            "Use combinações de letras maiúsculas e minúsculas, números e símbolos.",
+            "Evite senhas óbvias como \"123456\" ou \"password\"."
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Redes sociais e privacidade",
+      "blocos": [
+        {
+          "tipo": "texto",
+          "texto": "Nas redes sociais, os principais riscos são a exposição excessiva, o roubo de dados e o cyberbullying. É importante cuidar da sua privacidade."
+        },
+        {
+          "tipo": "lista",
+          "itens": [
+            "Ajuste as configurações de privacidade.",
+            "Evite compartilhar informações pessoais, como endereço e número de telefone.",
+            "Pense antes de postar; o que você publica pode ser visto por muitas pessoas."
+          ]
+        },
+        {
+          "tipo": "destacado",
+          "texto": "Curiosidade: mais de 3,6 bilhões de pessoas usam redes sociais no mundo inteiro."
+        }
+      ]
+    },
+    {
+      "titulo": "Conclusão",
+      "blocos": [
+        {
+          "tipo": "destacado",
+          "texto": "Conhecer as ameaças digitais é o primeiro passo para se proteger. Senhas fortes, desconfiança de links suspeitos e cuidado com o que se compartilha ajudam a manter seus dados e sua privacidade seguros."
+        }
+      ]
+    }
+  ]
+}

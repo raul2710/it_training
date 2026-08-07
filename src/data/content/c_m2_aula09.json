@@ -1,0 +1,138 @@
+{
+  "id": "c_m2_aula09",
+  "modulo": "Módulo 2 — Microsoft Word",
+  "titulo": "Guia Referências no Word",
+  "subtitulo": "Sumário automático, notas de rodapé, citações, bibliografia, legendas e índices.",
+  "tempo": 10,
+  "secoes": [
+    {
+      "titulo": "Introdução à guia Referências",
+      "blocos": [
+        {
+          "tipo": "texto",
+          "texto": "A guia \"Referências\" no Word é usada principalmente em trabalhos acadêmicos, textos técnicos e documentos longos. Ela oferece ferramentas para criar sumário automático, adicionar notas de rodapé, inserir citações e bibliografias, criar índice remissivo e gerar legendas com índice de figuras."
+        }
+      ]
+    },
+    {
+      "titulo": "Sumário automático (índice)",
+      "blocos": [
+        {
+          "tipo": "passos",
+          "itens": [
+            { "titulo": "Aplique os estilos de título", "descricao": "no texto (Título 1, Título 2...)." },
+            { "titulo": "Vá até a guia Referências", "descricao": "e clique em Sumário." },
+            { "titulo": "Escolha um modelo", "descricao": "de sumário automático." },
+            { "titulo": "O Word gera o índice", "descricao": "com base nos títulos aplicados." }
+          ]
+        },
+        {
+          "tipo": "destacado",
+          "texto": "Para atualizar o sumário, clique com o botão direito sobre ele e escolha \"Atualizar campo\" — atualizando apenas os números de página ou todo o sumário."
+        }
+      ]
+    },
+    {
+      "titulo": "Notas de rodapé e notas de fim",
+      "blocos": [
+        {
+          "tipo": "cards",
+          "itens": [
+            { "titulo": "Nota de rodapé", "descricao": "aparece no rodapé da página." },
+            { "titulo": "Nota de fim", "descricao": "aparece no final do documento." }
+          ]
+        },
+        {
+          "tipo": "passos",
+          "itens": [
+            { "titulo": "Clique onde deseja a nota", "descricao": "no texto." },
+            { "titulo": "Vá em Referências", "descricao": "e clique em Inserir Nota de Rodapé." },
+            { "titulo": "Digite o conteúdo", "descricao": "da nota." }
+          ]
+        },
+        {
+          "tipo": "destacado",
+          "texto": "Atalho: Ctrl + Alt + F insere uma nota de rodapé."
+        }
+      ]
+    },
+    {
+      "titulo": "Citações e bibliografia",
+      "blocos": [
+        {
+          "tipo": "texto",
+          "texto": "O Word permite inserir citações formatadas e gerar uma bibliografia automática."
+        },
+        {
+          "tipo": "passos",
+          "itens": [
+            { "titulo": "Vá em Referências", "descricao": "e clique em Inserir Citação." },
+            { "titulo": "Escolha Adicionar nova fonte", "descricao": "para cadastrar a referência." },
+            { "titulo": "Preencha os campos", "descricao": "como autor, título e ano." }
+          ]
+        },
+        {
+          "tipo": "destacado",
+          "texto": "Após inserir todas as citações, clique em Bibliografia e escolha um modelo. Você pode mudar o estilo (ABNT, APA, MLA...) em \"Estilo\" na mesma guia."
+        }
+      ]
+    },
+    {
+      "titulo": "Legendas e índice de figuras",
+      "blocos": [
+        {
+          "tipo": "passos",
+          "itens": [
+            { "titulo": "Clique na imagem ou tabela", "descricao": "para selecioná-la." },
+            { "titulo": "Vá em Inserir Legenda", "descricao": "para abrir as opções." },
+            { "titulo": "Escolha o rótulo", "descricao": "Figura, Tabela etc., e digite a descrição." }
+          ]
+        },
+        {
+          "tipo": "destacado",
+          "texto": "Para gerar o índice de figuras, vá até a guia Referências e clique em Inserir Índice de Ilustrações."
+        }
+      ]
+    },
+    {
+      "titulo": "Índice remissivo",
+      "blocos": [
+        {
+          "tipo": "texto",
+          "texto": "O índice remissivo é uma lista alfabética de assuntos abordados no texto, útil em livros e manuais."
+        },
+        {
+          "tipo": "passos",
+          "itens": [
+            { "titulo": "Selecione uma palavra no texto", "descricao": "e clique em Marcar Entrada." },
+            { "titulo": "Repita o processo", "descricao": "com outras palavras." },
+            { "titulo": "Clique em Inserir Índice", "descricao": "para gerar a lista." }
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Boas práticas no uso da guia",
+      "blocos": [
+        {
+          "tipo": "lista",
+          "itens": [
+            "Use estilos de título corretamente para garantir que o sumário funcione.",
+            "Mantenha as fontes organizadas para gerar citações e bibliografia com facilidade.",
+            "Atualize o sumário e o índice de figuras sempre que editar o documento.",
+            "Utilize notas de rodapé para referências, explicações ou comentários sem poluir o texto."
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Conclusão",
+      "blocos": [
+        {
+          "tipo": "destacado",
+          "texto": "Criar sumários automáticos, notas, citações, bibliografias, legendas e índices deixa o documento mais organizado, profissional e conforme as normas acadêmicas."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "id": "c_m5_aula01",
+  "modulo": "Módulo 5 — Computação em Nuvem e IA",
+  "titulo": "Computação em Nuvem: Desvendando o Futuro Digital",
+  "subtitulo": "O que é a nuvem, seus pilares, modelos de serviço e o impacto no nosso dia a dia.",
+  "tempo": 10,
+  "secoes": [
+    {
+      "titulo": "O que é computação em nuvem?",
+      "blocos": [
+        {
+          "tipo": "texto",
+          "texto": "A computação em nuvem é a entrega de recursos de TI sob demanda via internet, com pagamento baseado no uso. Diferente dos métodos tradicionais, ela elimina a necessidade de infraestrutura física local, permitindo acesso flexível e escalável a serviços como armazenamento, processamento e software."
+        },
+        {
+          "tipo": "cards",
+          "itens": [
+            { "titulo": "Armazenamento", "descricao": "Google Drive, OneDrive" },
+            { "titulo": "Processamento", "descricao": "Servidores remotos" },
+            { "titulo": "Software", "descricao": "Microsoft 365" }
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Pilares da nuvem: características essenciais",
+      "blocos": [
+        {
+          "tipo": "cards",
+          "itens": [
+            { "titulo": "Elasticidade/Escalabilidade", "descricao": "Aumenta ou diminui recursos automaticamente, como a Netflix escalando para milhões de assinantes no mundo." },
+            { "titulo": "Autoatendimento", "descricao": "Usuários provisionam recursos sem intervenção humana, agilizando desenvolvimento e implantação." },
+            { "titulo": "Acesso ubíquo", "descricao": "Recursos acessíveis de qualquer lugar e a qualquer hora, em múltiplos dispositivos." },
+            { "titulo": "Medição de serviço", "descricao": "Monitoramento e cobrança baseados no uso real, com transparência e controle de custos." },
+            { "titulo": "Economia de escala", "descricao": "Custos reduzidos graças à infraestrutura massiva compartilhada entre muitos usuários." }
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Modelos de serviço: IaaS, PaaS e SaaS",
+      "blocos": [
+        {
+          "tipo": "cards",
+          "itens": [
+            { "titulo": "IaaS (Infraestrutura)", "descricao": "Infraestrutura básica: servidores virtuais, redes e armazenamento. Você gerencia o sistema operacional e os apps. Ex.: AWS EC2." },
+            { "titulo": "PaaS (Plataforma)", "descricao": "Ambiente completo para desenvolver e executar aplicações sem manter a infraestrutura. Ex.: Google App Engine." },
+            { "titulo": "SaaS (Software)", "descricao": "Softwares acessados direto no navegador, sem instalação ou manutenção. Ex.: Salesforce, Dropbox, Zoom." }
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Modelos de implantação",
+      "blocos": [
+        {
+          "tipo": "cards",
+          "itens": [
+            { "titulo": "Nuvem pública", "descricao": "Recursos compartilhados por muitos usuários e gerenciados por terceiros (AWS, Azure, GCP). Mais econômica e escalável." },
+            { "titulo": "Nuvem privada", "descricao": "Infraestrutura dedicada a uma única organização. Maior controle e segurança, porém mais investimento e gestão interna." },
+            { "titulo": "Nuvem híbrida", "descricao": "Combina pública e privada: dados sensíveis ficam internos (on-premise) e o restante usa a nuvem pública. Ex.: um banco protege dados de clientes em servidor próprio." }
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Grandes provedores",
+      "blocos": [
+        {
+          "tipo": "cards",
+          "itens": [
+            { "titulo": "Amazon Web Services", "descricao": "~31% do mercado. Líder, com vasta gama de serviços." },
+            { "titulo": "Microsoft Azure", "descricao": "~24%. Integração com o ecossistema Microsoft." },
+            { "titulo": "Google Cloud (GCP)", "descricao": "~11%. Forte em IA/ML, big data e containers." },
+            { "titulo": "Outros", "descricao": "Oracle, IBM, Alibaba — soluções específicas e regionais." }
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "A nuvem na rotina diária",
+      "blocos": [
+        {
+          "tipo": "lista",
+          "itens": [
+            "Streaming: Netflix e Spotify entregam conteúdo a milhões sem interrupções.",
+            "Redes sociais: Facebook e Instagram guardam bilhões de fotos e interações.",
+            "Armazenamento: Google Drive e OneDrive liberam acesso de qualquer lugar.",
+            "Colaboração: Google Docs e Microsoft Teams permitem trabalho em tempo real.",
+            "E-commerce: Amazon e Magazine Luiza escalam operações nos picos de demanda."
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Benefícios essenciais",
+      "blocos": [
+        {
+          "tipo": "cards",
+          "itens": [
+            { "titulo": "Redução de custos", "descricao": "Menos gastos com hardware, manutenção e energia." },
+            { "titulo": "Agilidade e inovação", "descricao": "Novos produtos e serviços lançados até 3x mais rápido." },
+            { "titulo": "Confiabilidade", "descricao": "Alta disponibilidade, com até 99,99% de tempo ativo." },
+            { "titulo": "Segurança", "descricao": "Provedores investem pesado em cibersegurança e conformidade." },
+            { "titulo": "Foco no negócio", "descricao": "TI concentra-se em projetos estratégicos, não em infraestrutura." }
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Mercado de trabalho em nuvem",
+      "blocos": [
+        {
+          "tipo": "lista",
+          "itens": [
+            "Demanda crescente: mais de 50% das empresas planejam aumentar investimentos em nuvem.",
+            "Salários atrativos: profissionais de nuvem ganham 15–20% mais que seus pares de TI.",
+            "Cargos em alta: engenheiro de nuvem, arquiteto de soluções, DevOps e especialista em segurança.",
+            "Certificações valorizadas: AWS Certified Solutions Architect, Microsoft Azure Administrator e Google Cloud Engineer."
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Conclusão",
+      "blocos": [
+        {
+          "tipo": "destacado",
+          "texto": "A computação em nuvem é essencial para a agilidade, escala e inovação no mundo digital. Explorar os grandes provedores, buscar certificação e aplicar os conceitos em projetos práticos são os próximos passos."
+        }
+      ]
+    }
+  ]
+}

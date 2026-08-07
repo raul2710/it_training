@@ -13,7 +13,7 @@ export function createHeader() {
     <div class="app-header__left">
       <button class="icon-btn" type="button" data-toggle-sidebar
         aria-label="Alternar menu lateral" aria-expanded="true">${icons.menu}</button>
-      <a class="app-header__brand" href="#/lessons" aria-label="${escapeHtml(BRANDING.name)} - Minhas aulas">
+      <a class="app-header__brand" href="#/lessons" aria-label="${escapeHtml(BRANDING.name)} - Exercícios">
         <img class="app-header__logo" src="${BRANDING.logo}" alt="${escapeHtml(BRANDING.name)}" />
         <span class="app-header__title">${escapeHtml(BRANDING.name)}</span>
       </a>

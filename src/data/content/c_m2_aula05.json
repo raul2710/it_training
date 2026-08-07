@@ -1,0 +1,130 @@
+{
+  "id": "c_m2_aula05",
+  "modulo": "Módulo 2 — Microsoft Word",
+  "titulo": "Inserindo Imagens no Microsoft Word",
+  "subtitulo": "Inserir, formatar, posicionar e usar boas práticas com imagens nos documentos.",
+  "tempo": 10,
+  "secoes": [
+    {
+      "titulo": "Por que usar imagens no Word?",
+      "blocos": [
+        {
+          "tipo": "texto",
+          "texto": "As imagens melhoram a apresentação visual do documento, facilitam a compreensão do conteúdo e tornam o documento mais atraente e profissional."
+        },
+        {
+          "tipo": "lista",
+          "itens": [
+            "Trabalhos escolares.",
+            "Relatórios profissionais.",
+            "Apresentações e panfletos."
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Como inserir uma imagem",
+      "blocos": [
+        {
+          "tipo": "passos",
+          "itens": [
+            { "titulo": "Abra o Microsoft Word", "descricao": "e crie um novo documento ou abra um existente." },
+            { "titulo": "Posicione o cursor", "descricao": "no local onde deseja inserir a imagem." },
+            { "titulo": "Na guia Inserir", "descricao": "clique em Imagens." },
+            { "titulo": "Escolha a origem", "descricao": "Este Dispositivo (arquivo no computador) ou Imagens Online (Bing ou OneDrive)." },
+            { "titulo": "Selecione a imagem", "descricao": "e clique em Inserir." }
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Formatando imagens",
+      "blocos": [
+        {
+          "tipo": "texto",
+          "texto": "Ao selecionar uma imagem, aparece a guia Ferramentas de Imagem, com várias opções de formatação."
+        },
+        {
+          "tipo": "cards",
+          "itens": [
+            { "titulo": "Redimensionar", "descricao": "arraste os cantos da imagem para ajustar o tamanho." },
+            { "titulo": "Recortar", "descricao": "remova partes indesejadas da imagem." },
+            { "titulo": "Estilos de Imagem", "descricao": "aplicam bordas, efeitos e formatos pré-definidos." },
+            { "titulo": "Ajustes", "descricao": "alteram brilho, contraste e cor." }
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Posicionamento de imagens",
+      "blocos": [
+        {
+          "tipo": "passos",
+          "itens": [
+            { "titulo": "Clique na imagem", "descricao": "para selecioná-la." },
+            { "titulo": "Na guia Ferramentas de Imagem", "descricao": "clique em Layout de Texto." },
+            { "titulo": "Escolha a opção", "descricao": "Em Linha com o Texto, Quebra de Texto ou Mais Opções de Layout." }
+          ]
+        },
+        {
+          "tipo": "cards",
+          "itens": [
+            { "titulo": "Em Linha com o Texto", "descricao": "a imagem fica como se fosse um caractere." },
+            { "titulo": "Quebra de Texto", "descricao": "o texto flui ao redor da imagem (quadrado, estreito etc.)." },
+            { "titulo": "Mais Opções de Layout", "descricao": "personaliza posição e alinhamento." }
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Ferramentas avançadas",
+      "blocos": [
+        {
+          "tipo": "cards",
+          "itens": [
+            { "titulo": "Remover Fundo", "descricao": "elimina o plano de fundo da imagem." },
+            { "titulo": "Adicionar Legenda", "descricao": "insere uma descrição abaixo da imagem." },
+            { "titulo": "Hiperlink", "descricao": "transforma a imagem em um link clicável." },
+            { "titulo": "Agrupar", "descricao": "junta várias imagens para movê-las ou formatá-las juntas." }
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Boas práticas no uso de imagens",
+      "blocos": [
+        {
+          "tipo": "lista",
+          "itens": [
+            "Use imagens de alta qualidade e boa resolução.",
+            "Evite excesso de imagens, para não poluir visualmente o documento.",
+            "Certifique-se de que as imagens tenham direitos de uso ou sejam gratuitas.",
+            "Centralize ou alinhe as imagens de forma harmoniosa com o texto."
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Dúvidas frequentes",
+      "blocos": [
+        {
+          "tipo": "cards",
+          "itens": [
+            { "titulo": "Redimensionar sem distorcer", "descricao": "use as alças de canto e segure a tecla Shift para manter a proporção." },
+            { "titulo": "Alinhar ao centro da página", "descricao": "selecione a imagem e use a opção Centralizar na guia Página Inicial." },
+            { "titulo": "Inserir imagem de fundo", "descricao": "na guia Design, clique em Cor da Página > Efeitos de Preenchimento > Imagem." }
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Conclusão",
+      "blocos": [
+        {
+          "tipo": "destacado",
+          "texto": "Inserir e formatar imagens no Word é simples e melhora a qualidade dos documentos. Siga as boas práticas para criar documentos profissionais e visualmente atraentes."
+        }
+      ]
+    }
+  ]
+}

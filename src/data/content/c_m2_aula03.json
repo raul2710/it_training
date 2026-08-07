@@ -1,0 +1,117 @@
+{
+  "id": "c_m2_aula03",
+  "modulo": "Módulo 2 — Microsoft Word",
+  "titulo": "Trabalhando com Tabelas",
+  "subtitulo": "Criar, estruturar, personalizar e converter tabelas para organizar dados no Word.",
+  "tempo": 10,
+  "secoes": [
+    {
+      "titulo": "Dominando o uso de tabelas",
+      "blocos": [
+        {
+          "tipo": "texto",
+          "texto": "As tabelas são importantes para organizar dados de forma estruturada e fácil de ler. Exemplos de aplicação: relatórios, formulários e tabelas comparativas."
+        },
+        {
+          "tipo": "destacado",
+          "texto": "Curiosidade: as tabelas no Word começaram como uma ferramenta simples e hoje oferecem funcionalidades comparáveis a planilhas."
+        }
+      ]
+    },
+    {
+      "titulo": "Criando uma tabela",
+      "blocos": [
+        {
+          "tipo": "passos",
+          "itens": [
+            { "titulo": "Vá em Inserir > Tabela", "descricao": "para começar." },
+            { "titulo": "Escolha o número de linhas e colunas", "descricao": "na grade exibida." },
+            { "titulo": "Alternativa: Desenhar Tabela", "descricao": "para criar manualmente a estrutura." },
+            { "titulo": "Use a Tabela Rápida", "descricao": "para modelos predefinidos, como cronogramas e orçamentos." }
+          ]
+        },
+        {
+          "tipo": "destacado",
+          "texto": "Dica: clique com o botão direito e selecione \"Inserir Linha\" para adicionar novas linhas."
+        }
+      ]
+    },
+    {
+      "titulo": "Estrutura básica de uma tabela",
+      "blocos": [
+        {
+          "tipo": "cards",
+          "itens": [
+            { "titulo": "Célula", "descricao": "unidade básica para inserir texto." },
+            { "titulo": "Linha", "descricao": "conjunto horizontal de células." },
+            { "titulo": "Coluna", "descricao": "conjunto vertical de células." },
+            { "titulo": "Bordas", "descricao": "linhas que definem o contorno da tabela." }
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Personalização de tabelas",
+      "blocos": [
+        {
+          "tipo": "passos",
+          "itens": [
+            { "titulo": "Alterar cores", "descricao": "use Faixa de Opções > Design de Tabela > Sombreamento." },
+            { "titulo": "Estilo de bordas", "descricao": "escolha espessura, cor e estilo no grupo de bordas." },
+            { "titulo": "Mesclar ou dividir células", "descricao": "use Mesclar Células ou Dividir Células no menu Layout." },
+            { "titulo": "Ajustar altura e largura", "descricao": "arraste as bordas ou use AutoAjuste." }
+          ]
+        },
+        {
+          "tipo": "destacado",
+          "texto": "Para tabelas mais sofisticadas, use os estilos pré-definidos em Design de Tabela > Estilos de Tabela."
+        }
+      ]
+    },
+    {
+      "titulo": "Convertendo texto em tabela",
+      "blocos": [
+        {
+          "tipo": "texto",
+          "texto": "O Word permite transformar texto em tabela e vice-versa — muito útil para importar dados de outras fontes, como planilhas."
+        },
+        {
+          "tipo": "cards",
+          "itens": [
+            { "titulo": "Texto para tabela", "descricao": "selecione o texto separado por tabulação ou ponto e vírgula e vá em Inserir > Tabela > Converter Texto em Tabela." },
+            { "titulo": "Tabela para texto", "descricao": "selecione a tabela e vá em Ferramentas de Tabela > Layout > Converter Tabela em Texto." }
+          ]
+        },
+        {
+          "tipo": "destacado",
+          "texto": "Para mesclar células, selecione as células desejadas e clique em Mesclar Células. Também é possível inserir uma linha antes da tabela para adicionar um título."
+        }
+      ]
+    },
+    {
+      "titulo": "Classificando dados em tabelas",
+      "blocos": [
+        {
+          "tipo": "passos",
+          "itens": [
+            { "titulo": "Selecione a tabela", "descricao": "que deseja ordenar." },
+            { "titulo": "Vá em Layout > Classificar", "descricao": "para abrir as opções de ordenação." }
+          ]
+        },
+        {
+          "tipo": "destacado",
+          "texto": "A classificação é útil em listas, como nomes ou números em ordem crescente/decrescente. Dentro de uma tabela, a tecla Tab move para a próxima célula à direita."
+        }
+      ]
+    },
+    {
+      "titulo": "Conclusão",
+      "blocos": [
+        {
+          "tipo": "destacado",
+          "texto": "Criar, estruturar, personalizar e converter tabelas ajuda a apresentar dados de forma clara e organizada, dando um acabamento profissional aos documentos."
+        }
+      ]
+    }
+  ]
+}

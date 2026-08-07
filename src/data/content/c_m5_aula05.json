@@ -1,0 +1,120 @@
+{
+  "id": "c_m5_aula05",
+  "modulo": "Módulo 5 — Computação em Nuvem e IA",
+  "titulo": "O que é Viés (Bias) na IA?",
+  "subtitulo": "Por que uma inteligência artificial pode ser injusta — e como reduzir isso.",
+  "tempo": 10,
+  "secoes": [
+    {
+      "titulo": "O que é viés (bias)?",
+      "blocos": [
+        {
+          "tipo": "texto",
+          "texto": "Viés é quando um sistema de IA trata pessoas ou grupos de forma diferente e injusta, favorecendo alguns e prejudicando outros."
+        },
+        {
+          "tipo": "cards",
+          "itens": [
+            { "titulo": "Professor tendencioso", "descricao": "um professor que sempre dá notas melhores para alunos do front sem perceber." },
+            { "titulo": "Concurso injusto", "descricao": "um concurso de beleza avaliado só por pessoas de uma região desfavoreceria as outras." },
+            { "titulo": "IA tendenciosa", "descricao": "uma IA treinada com dados desbalanceados aprende a ser injusta, como nos exemplos." }
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Como o viés entra na IA?",
+      "blocos": [
+        {
+          "tipo": "passos",
+          "itens": [
+            { "titulo": "Dados desequilibrados", "descricao": "o conjunto de treino tem muito mais exemplos de um grupo do que de outro (ex.: 90% rostos brancos, 10% outras etnias)." },
+            { "titulo": "IA aprende o desequilíbrio", "descricao": "a IA encontra os padrões do grupo majoritário e ignora os minoritários." },
+            { "titulo": "Resultado injusto no mundo real", "descricao": "quando usada, a IA funciona bem para uns e mal para outros (ex.: sistema de segurança nega acesso a certas etnias)." }
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Caso real: reconhecimento facial",
+      "blocos": [
+        {
+          "tipo": "texto",
+          "texto": "Estudo do MIT (2018), da pesquisadora Joy Buolamwini, mostrou que sistemas de reconhecimento facial comerciais erravam muito mais ao identificar mulheres negras do que homens brancos."
+        },
+        {
+          "tipo": "lista",
+          "itens": [
+            "Homens brancos: 1% de erro",
+            "Mulheres brancas: 7%",
+            "Homens negros: 12%",
+            "Mulheres negras: 35%"
+          ]
+        },
+        {
+          "tipo": "destacado",
+          "texto": "Consequência real: uma pessoa inocente foi presa nos EUA por identificação facial incorreta (2020)."
+        }
+      ]
+    },
+    {
+      "titulo": "Outros exemplos de viés no cotidiano",
+      "blocos": [
+        {
+          "tipo": "lista",
+          "itens": [
+            "IA de diagnóstico médico: treinada em pacientes brancos errava mais em pacientes negros.",
+            "IA de análise criminal (COMPAS): previa maior reincidência para réus negros mesmo sem histórico.",
+            "Busca de empregos no Google: anúncios de alto salário apareciam mais para homens.",
+            "Câmera do celular (modo retrato): clareamento e alisamento automáticos alteravam traços de pessoas negras e asiáticas."
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Os 3 tipos principais de viés",
+      "blocos": [
+        {
+          "tipo": "cards",
+          "itens": [
+            { "titulo": "Viés nos dados", "descricao": "o conjunto de treino não representa bem todos os grupos. Solução: coletar dados mais diversificados e balanceados." },
+            { "titulo": "Viés histórico", "descricao": "os dados refletem injustiças que já existem na sociedade (contratações, justiça, crédito). Solução: questionar e corrigir padrões discriminatórios." },
+            { "titulo": "Viés do desenvolvedor", "descricao": "quem cria a IA tem pontos cegos ou preconceitos inconscientes. Solução: equipes diversas e testes com grupos representativos." }
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Como identificar e reduzir o viés?",
+      "blocos": [
+        {
+          "tipo": "passos",
+          "itens": [
+            { "titulo": "Pergunte: quem criou os dados?", "descricao": "os dados representam todos os grupos ou só alguns?" },
+            { "titulo": "Teste com grupos diferentes", "descricao": "meça o desempenho da IA separadamente em cada grupo." },
+            { "titulo": "Diversifique a equipe", "descricao": "pessoas de origens diferentes percebem problemas que equipes homogêneas não veem." },
+            { "titulo": "Seja transparente", "descricao": "informe usuários e autoridades quando a IA cometer erros." }
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Quem é responsável pelo viés?",
+      "blocos": [
+        {
+          "tipo": "cards",
+          "itens": [
+            { "titulo": "Desenvolvedores", "descricao": "devem treinar com dados diversos e testar antes de lançar." },
+            { "titulo": "Governos", "descricao": "devem criar leis que regulem o uso de IA em decisões que afetam pessoas." },
+            { "titulo": "Empresas usuárias", "descricao": "devem auditar os sistemas e ser responsabilizadas pelos danos." },
+            { "titulo": "Nós, usuários", "descricao": "devemos questionar decisões, reportar erros e exigir transparência." }
+          ]
+        },
+        {
+          "tipo": "destacado",
+          "texto": "IA justa é uma responsabilidade coletiva — todos temos um papel a desempenhar."
+        }
+      ]
+    }
+  ]
+}

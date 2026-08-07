@@ -4,20 +4,11 @@ import { storage } from '../storage.js';
 import { icons } from '../icons.js';
 import { $, $$, debounce, escapeHtml } from '../utils.js';
 
-// Carrega automaticamente TODOS os arquivos .json da pasta data/ (escalável).
-const lessonFiles = import.meta.glob('../../data/*.json', { eager: true });
+// Carrega automaticamente TODO o conteúdo teórico da pasta data/content/ (escalável).
+const aulaFiles = import.meta.glob('../../data/content/*.json', { eager: true });
 
-const DIFFICULTIES = ['Fácil', 'Média', 'Difícil'];
-
-const DIFFICULTY_CLASS = {
-  'Fácil': 'badge--success',
-  'Média': 'badge--warning',
-  'Difícil': 'badge--danger'
-};
-
-/** Retorna a lista de aulas ordenada por título. */
-export function loadLessons() {
-  return Object.entries(lessonFiles)
+export function loadAulas() {
+  return Object.entries(aulaFiles)
     .map(([path, data]) => ({
       ...data,
       id: path.split('/').pop().replace(/\.json$/, '')
@@ -25,8 +16,8 @@ export function loadLessons() {
     .sort((a, b) => String(a.titulo).localeCompare(String(b.titulo), 'pt-BR', { numeric: true }));
 }
 
-export function getLesson(id) {
-  return loadLessons().find((lesson) => lesson.id === id) || null;
+export function getAula(id) {
+  return loadAulas().find((aula) => aula.id === id) || null;
 }
 
 /** Extrai o número do módulo para ordenação ("Módulo 10" > "Módulo 2"). */
@@ -37,42 +28,42 @@ function moduleNumber(name) {
 }
 
 /** Agrupa aulas por módulo, ordenando módulos e aulas internamente. */
-function groupByModule(lessons) {
+function groupByModule(aulas) {
   const groups = new Map();
 
-  for (const lesson of lessons) {
-    const name = lesson.modulo || 'Módulo';
+  for (const aula of aulas) {
+    const name = aula.modulo || 'Módulo';
     if (!groups.has(name)) groups.set(name, []);
-    groups.get(name).push(lesson);
+    groups.get(name).push(aula);
   }
 
   return Array.from(groups.entries())
     .map(([name, items]) => ({
       name,
-      lessons: items.sort((a, b) =>
+      aulas: items.sort((a, b) =>
         String(a.titulo).localeCompare(String(b.titulo), 'pt-BR', { numeric: true })
       )
     }))
     .sort((a, b) => moduleNumber(a.name) - moduleNumber(b.name));
 }
 
-/** Listagem de aulas organizada por módulos (cards expansíveis). */
-export function lessonsPage() {
-  const lessons = loadLessons();
-  const modules = groupByModule(lessons);
+/** Material teórico (aulas) organizado por módulos (cards expansíveis). */
+export function aulasPage() {
+  const aulas = loadAulas();
+  const modules = groupByModule(aulas);
   const app = document.createElement('div');
   app.className = 'app-shell';
 
   app.appendChild(createHeader());
-  app.appendChild(createSidebar({ active: 'lessons' }));
+  app.appendChild(createSidebar({ active: 'aulas' }));
 
   const main = document.createElement('main');
-  main.className = 'main-content lessons';
+  main.className = 'main-content aulas';
   main.innerHTML = `
     <header class="page-head animate-fade-in">
       <div>
-        <h1 class="page-title">Exercícios</h1>
-        <p class="page-subtitle">Bem-vindo(a), ${escapeHtml(storage.get('name') || 'aluno')}. Escolha um módulo e uma aula para começar.</p>
+        <h1 class="page-title">Aulas</h1>
+        <p class="page-subtitle">Bem-vindo(a), ${escapeHtml(storage.get('name') || 'aluno')}. Leia o material teórico de cada aula antes de fazer os exercícios.</p>
       </div>
     </header>
 
@@ -81,40 +72,31 @@ export function lessonsPage() {
         ${icons.search}
         <input class="input" type="search" data-search placeholder="Buscar aula..." aria-label="Buscar por aula" />
       </div>
-      <label class="field field--select">
-        <span class="visually-hidden">Filtrar por dificuldade</span>
-        <select class="select" data-difficulty aria-label="Filtrar por dificuldade">
-          <option value="">Todas as dificuldades</option>
-          ${DIFFICULTIES.map((level) => `<option value="${level}">${level}</option>`).join('')}
-        </select>
-      </label>
-      <span class="badge badge--neutral" data-count>${lessons.length} aulas</span>
+      <span class="badge badge--neutral" data-count>${aulas.length} aulas</span>
     </div>
 
     <div class="modules" data-modules></div>
   `;
   app.appendChild(main);
 
-  const matchesFilter = (lesson, query, difficulty) =>
-    (!query ||
-      String(lesson.titulo).toLowerCase().includes(query) ||
-      String(lesson.descricao || '').toLowerCase().includes(query)) &&
-    (!difficulty || lesson.dificuldade === difficulty);
+  const matchesFilter = (aula, query) =>
+    !query ||
+    String(aula.titulo).toLowerCase().includes(query) ||
+    String(aula.subtitulo || '').toLowerCase().includes(query);
 
-  const renderModules = (query = '', difficulty = '') => {
-    const hasFilter = Boolean(query || difficulty);
+  const renderModules = (query = '') => {
+    const hasFilter = Boolean(query);
 
     const withMatches = modules.map((module) => ({
       ...module,
-      matched: module.lessons.filter((lesson) => matchesFilter(lesson, query, difficulty))
+      matched: module.aulas.filter((aula) => matchesFilter(aula, query))
     }));
 
     // Com filtro ativo, módulos sem correspondência ficam ocultos.
     const visible = hasFilter ? withMatches.filter((module) => module.matched.length > 0) : withMatches;
     const matchedTotal = withMatches.reduce((sum, module) => sum + module.matched.length, 0);
 
-    $('[data-count]', main).textContent =
-      `${matchedTotal} ${matchedTotal === 1 ? 'aula' : 'aulas'}`;
+    $('[data-count]', main).textContent = `${matchedTotal} ${matchedTotal === 1 ? 'aula' : 'aulas'}`;
 
     if (!visible.length) {
       $('[data-modules]', main).innerHTML =
@@ -150,13 +132,10 @@ export function lessonsPage() {
   });
 
   const onSearch = debounce((value) => {
-    renderModules(value.trim().toLowerCase(), $('[data-difficulty]', main).value);
+    renderModules(value.trim().toLowerCase());
   }, 200);
 
   $('[data-search]', main).addEventListener('input', (event) => onSearch(event.target.value));
-  $('[data-difficulty]', main).addEventListener('change', (event) => {
-    renderModules($('[data-search]', main).value.trim().toLowerCase(), event.target.value);
-  });
 
   renderModules();
   return app;
@@ -178,30 +157,29 @@ function moduleCard(module, index, open) {
       </button>
       <div class="module-card__body" id="${bodyId}" data-module-body ${open ? '' : 'hidden'}>
         <div class="lessons-grid">
-          ${module.matched.map(lessonCard).join('')}
+          ${module.matched.map(aulaCard).join('')}
         </div>
       </div>
     </section>
   `;
 }
 
-function lessonCard(lesson) {
-  const total = lesson.perguntas?.length ?? 0;
-  const difficulty = DIFFICULTIES.includes(lesson.dificuldade) ? lesson.dificuldade : 'Média';
+function aulaCard(aula) {
+  const sections = aula.secoes?.length ?? 0;
   return `
     <article class="lesson-card card animate-up">
       <div class="lesson-card__header">
         <span class="lesson-card__icon">${icons.book}</span>
-        <span class="badge ${DIFFICULTY_CLASS[difficulty]}">${escapeHtml(difficulty)}</span>
+        <span class="badge badge--neutral">Teoria</span>
       </div>
-      <h2 class="lesson-card__title">${escapeHtml(lesson.titulo)}</h2>
-      <p class="lesson-card__desc">${escapeHtml(lesson.descricao)}</p>
+      <h2 class="lesson-card__title">${escapeHtml(aula.titulo)}</h2>
+      <p class="lesson-card__desc">${escapeHtml(aula.subtitulo)}</p>
       <div class="lesson-card__meta">
-        <span class="lesson-card__meta-item">${icons.list} ${total} ${total === 1 ? 'questão' : 'questões'}</span>
-        <span class="lesson-card__meta-item">${icons.clock} ${lesson.tempo} min</span>
+        <span class="lesson-card__meta-item">${icons.list} ${sections} ${sections === 1 ? 'seção' : 'seções'}</span>
+        <span class="lesson-card__meta-item">${icons.clock} ${aula.tempo} min</span>
       </div>
-      <a class="btn btn--primary btn--block" href="#/quiz/${encodeURIComponent(lesson.id)}">
-        Iniciar ${icons.arrowRight}
+      <a class="btn btn--primary btn--block" href="#/aula/${encodeURIComponent(aula.id)}">
+        Ler aula ${icons.arrowRight}
       </a>
     </article>
   `;

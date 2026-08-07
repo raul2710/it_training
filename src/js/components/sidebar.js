@@ -19,8 +19,11 @@ export function createSidebar({ active = '' } = {}) {
   sidebar.setAttribute('aria-label', 'Menu lateral');
   sidebar.innerHTML = `
     <nav class="sidebar__nav" aria-label="Navegação principal">
+      <a class="sidebar__link ${active === 'aulas' ? 'is-active' : ''}" href="#/aulas" aria-current="${active === 'aulas' ? 'page' : 'false'}">
+        ${icons.book}<span>Aulas</span>
+      </a>
       <a class="sidebar__link ${active === 'lessons' ? 'is-active' : ''}" href="#/lessons" aria-current="${active === 'lessons' ? 'page' : 'false'}">
-        ${icons.book}<span>Minhas aulas</span>
+        ${icons.list}<span>Exercícios</span>
       </a>
     </nav>
     <div class="sidebar__footer">

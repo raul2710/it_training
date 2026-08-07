@@ -1,0 +1,182 @@
+{
+  "id": "c_m1_aula05",
+  "modulo": "Módulo 1 — Computadores e Segurança Digital",
+  "titulo": "Pastas e Arquivos",
+  "subtitulo": "Como gerenciar, criar e organizar seus arquivos no computador.",
+  "tempo": 10,
+  "secoes": [
+    {
+      "titulo": "O que são arquivos?",
+      "blocos": [
+        {
+          "tipo": "texto",
+          "texto": "Arquivo é uma unidade de armazenamento de dados — por exemplo, um documento, foto ou vídeo. Cada arquivo guarda um tipo específico de conteúdo."
+        },
+        {
+          "tipo": "cards",
+          "itens": [
+            { "titulo": "Documentos", "descricao": ".docx, .pdf" },
+            { "titulo": "Imagens", "descricao": ".jpg, .png" },
+            { "titulo": "Áudio", "descricao": ".mp3, .wav" },
+            { "titulo": "Vídeos", "descricao": ".mp4, .avi" }
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "O que são pastas?",
+      "blocos": [
+        {
+          "tipo": "texto",
+          "texto": "Pasta é um contêiner virtual usado para armazenar e organizar arquivos."
+        },
+        {
+          "tipo": "lista",
+          "itens": [
+            "Podem conter outras pastas (subpastas).",
+            "Facilitam o acesso rápido aos arquivos."
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Diferença entre arquivos e pastas",
+      "blocos": [
+        {
+          "tipo": "cards",
+          "itens": [
+            { "titulo": "Arquivo", "descricao": "guarda um conteúdo específico (documento, foto, vídeo)." },
+            { "titulo": "Pasta", "descricao": "armazena e organiza vários arquivos e subpastas." }
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Como criar uma pasta",
+      "blocos": [
+        {
+          "tipo": "passos",
+          "itens": [
+            { "titulo": "Clique com o botão direito", "descricao": "na área desejada." },
+            { "titulo": "Escolha a opção", "descricao": "\"Novo\" → \"Pasta\"." },
+            { "titulo": "Renomeie", "descricao": "a pasta para identificá-la." }
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Como renomear arquivos e pastas",
+      "blocos": [
+        {
+          "tipo": "passos",
+          "itens": [
+            { "titulo": "Clique com o botão direito", "descricao": "no arquivo ou pasta." },
+            { "titulo": "Selecione Renomear", "descricao": "a opção \"Renomear\"." },
+            { "titulo": "Digite o novo nome", "descricao": "e pressione Enter." }
+          ]
+        },
+        {
+          "tipo": "destacado",
+          "texto": "Renomear um arquivo ou pasta é mudar o nome para algo mais descritivo."
+        }
+      ]
+    },
+    {
+      "titulo": "Tipos de arquivos e suas extensões",
+      "blocos": [
+        {
+          "tipo": "texto",
+          "texto": "A extensão identifica o tipo de cada arquivo, indicando ao sistema como abri-lo. Exemplos: .docx, .jpg, .mp3."
+        },
+        {
+          "tipo": "cards",
+          "itens": [
+            { "titulo": ".docx", "descricao": "documento de texto (Word)." },
+            { "titulo": ".pdf", "descricao": "documento portátil." },
+            { "titulo": ".jpg / .png", "descricao": "imagens." },
+            { "titulo": ".mp3 / .wav", "descricao": "áudio." },
+            { "titulo": ".mp4 / .avi", "descricao": "vídeos." }
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Organização de arquivos e pastas",
+      "blocos": [
+        {
+          "tipo": "lista",
+          "itens": [
+            "Crie pastas temáticas (Trabalho, Estudos, Fotos).",
+            "Use nomes claros e datas (ex.: \"Relatório_Fevereiro2024.docx\").",
+            "Evite salvar tudo na área de trabalho."
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Como mover arquivos entre pastas",
+      "blocos": [
+        {
+          "tipo": "passos",
+          "itens": [
+            { "titulo": "Clique com o botão direito", "descricao": "no arquivo desejado." },
+            { "titulo": "Escolha Recortar ou Copiar", "descricao": "a opção \"Recortar\" ou \"Copiar\"." },
+            { "titulo": "Vá até a pasta de destino", "descricao": "e selecione \"Colar\"." }
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Exclusão de arquivos e pastas",
+      "blocos": [
+        {
+          "tipo": "passos",
+          "itens": [
+            { "titulo": "Clique com o botão direito", "descricao": "no arquivo ou pasta." },
+            { "titulo": "Selecione Excluir", "descricao": "a opção \"Excluir\"." },
+            { "titulo": "Vai para a Lixeira", "descricao": "o item será enviado para a Lixeira." }
+          ]
+        },
+        {
+          "tipo": "destacado",
+          "texto": "Dica: verifique a Lixeira antes de esvaziá-la."
+        }
+      ]
+    },
+    {
+      "titulo": "Pesquisa de arquivos",
+      "blocos": [
+        {
+          "tipo": "lista",
+          "itens": [
+            "Use a barra de pesquisa no Explorador de Arquivos.",
+            "Filtre por tipo ou data.",
+            "Atalho: Ctrl + F."
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Proteção e backup",
+      "blocos": [
+        {
+          "tipo": "lista",
+          "itens": [
+            "Faça backups regularmente.",
+            "Use senhas para proteger arquivos sensíveis.",
+            "Evite nomes genéricos como \"Novo Documento\"."
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Conclusão",
+      "blocos": [
+        {
+          "tipo": "destacado",
+          "texto": "Gerenciar pastas e arquivos com organização torna o computador mais fácil de usar e protege seus dados. Boas práticas evitam arquivos perdidos e nomes confusos."
+        }
+      ]
+    }
+  ]
+}

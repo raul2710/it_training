@@ -1,0 +1,152 @@
+{
+  "id": "c_m2_aula04",
+  "modulo": "Módulo 2 — Microsoft Word",
+  "titulo": "Trabalhando com Listas e Numeração",
+  "subtitulo": "Criar e personalizar listas com marcadores, números e subníveis para organizar o documento.",
+  "tempo": 10,
+  "secoes": [
+    {
+      "titulo": "Introdução às listas e numeração",
+      "blocos": [
+        {
+          "tipo": "texto",
+          "texto": "As listas ajudam a organizar informações de forma clara e estruturada. No Word, você pode criar listas com marcadores e números para destacar tópicos e facilitar a leitura."
+        },
+        {
+          "tipo": "destacado",
+          "texto": "Dica: use listas para resumir ideias e evitar sobrecarregar o documento com muito texto."
+        }
+      ]
+    },
+    {
+      "titulo": "Tipos de listas no Word",
+      "blocos": [
+        {
+          "tipo": "cards",
+          "itens": [
+            { "titulo": "Listas com Marcadores", "descricao": "usadas para itens sem sequência específica." },
+            { "titulo": "Listas Numeradas", "descricao": "ideais para etapas sequenciais ou hierárquicas." },
+            { "titulo": "Listas Híbridas", "descricao": "combinação de marcadores e números para maior organização." }
+          ]
+        },
+        {
+          "tipo": "destacado",
+          "texto": "Escolha o tipo de lista conforme a natureza do conteúdo apresentado."
+        }
+      ]
+    },
+    {
+      "titulo": "Criando uma lista com marcadores",
+      "blocos": [
+        {
+          "tipo": "passos",
+          "itens": [
+            { "titulo": "Selecione o local", "descricao": "onde deseja criar a lista." },
+            { "titulo": "Insira uma caixa de texto", "descricao": "ou clique no espaço de texto." },
+            { "titulo": "Clique no ícone de marcadores", "descricao": "na aba Página Inicial." },
+            { "titulo": "Digite os itens", "descricao": "pressionando Enter para adicionar novos itens." }
+          ]
+        },
+        {
+          "tipo": "destacado",
+          "texto": "Curiosidade: você pode personalizar os marcadores com símbolos ou imagens!"
+        }
+      ]
+    },
+    {
+      "titulo": "Criando uma lista numerada",
+      "blocos": [
+        {
+          "tipo": "passos",
+          "itens": [
+            { "titulo": "Clique no espaço de texto", "descricao": "ou insira uma caixa de texto." },
+            { "titulo": "Clique no ícone de Numeração", "descricao": "na aba Página Inicial." },
+            { "titulo": "Digite os itens", "descricao": "pressionando Enter para cada item." },
+            { "titulo": "Altere o estilo", "descricao": "clique na seta ao lado do ícone e escolha outro formato (1, 2, 3 ou I, II, III)." }
+          ]
+        },
+        {
+          "tipo": "destacado",
+          "texto": "Use listas numeradas para guiar o leitor por etapas de forma lógica."
+        }
+      ]
+    },
+    {
+      "titulo": "Personalizando listas",
+      "blocos": [
+        {
+          "tipo": "lista",
+          "itens": [
+            "Alterar estilo de marcadores ou números: clique com o botão direito na lista e selecione \"Marcadores\" ou \"Numeração\", escolhendo símbolos, cores ou tamanhos.",
+            "Mudar recuos e espaçamento: use a régua ou as opções de espaçamento no menu \"Parágrafo\"."
+          ]
+        },
+        {
+          "tipo": "destacado",
+          "texto": "Personalizar listas pode torná-las mais atraentes, mas evite exageros para manter a legibilidade."
+        }
+      ]
+    },
+    {
+      "titulo": "Trabalhando com subníveis",
+      "blocos": [
+        {
+          "tipo": "passos",
+          "itens": [
+            { "titulo": "Crie uma lista básica", "descricao": "para começar." },
+            { "titulo": "Pressione Tab", "descricao": "para mover um item para o próximo nível." },
+            { "titulo": "Pressione Shift + Tab", "descricao": "para retornar ao nível anterior." }
+          ]
+        },
+        {
+          "tipo": "destacado",
+          "texto": "Subníveis são úteis para organizar ideias complexas, como tópicos e subtópicos."
+        }
+      ]
+    },
+    {
+      "titulo": "Usando cores e fontes em listas",
+      "blocos": [
+        {
+          "tipo": "passos",
+          "itens": [
+            { "titulo": "Selecione o texto da lista", "descricao": "que deseja alterar." },
+            { "titulo": "Na aba Página Inicial", "descricao": "use as opções de cor da fonte, negrito e itálico." },
+            { "titulo": "Experimente cores contrastantes", "descricao": "para melhorar a visibilidade." }
+          ]
+        },
+        {
+          "tipo": "destacado",
+          "texto": "Destaque palavras-chave ou pontos importantes, mas mantenha a consistência visual."
+        }
+      ]
+    },
+    {
+      "titulo": "Dicas para usar listas com eficiência",
+      "blocos": [
+        {
+          "tipo": "lista",
+          "itens": [
+            "Use listas curtas e diretas.",
+            "Limite a 5–7 itens por bloco para evitar excesso de informação.",
+            "Alinhe as listas ao layout do documento para manter a organização.",
+            "Combine listas com imagens para enriquecer a apresentação."
+          ]
+        },
+        {
+          "tipo": "destacado",
+          "texto": "Curiosidade: estudos mostram que listas tornam o conteúdo até 40% mais fácil de ser lembrado."
+        }
+      ]
+    },
+    {
+      "titulo": "Conclusão",
+      "blocos": [
+        {
+          "tipo": "destacado",
+          "texto": "Usar marcadores, numeração, subníveis e personalização de forma consistente torna o documento mais claro, organizado e fácil de ler."
+        }
+      ]
+    }
+  ]
+}

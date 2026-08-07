@@ -1,0 +1,153 @@
+{
+  "id": "c_m2_aula07",
+  "modulo": "Módulo 2 — Microsoft Word",
+  "titulo": "Cabeçalhos e Rodapés",
+  "subtitulo": "Inserir cabeçalho, rodapé, numeração de páginas e data automática no documento.",
+  "tempo": 10,
+  "secoes": [
+    {
+      "titulo": "O que são cabeçalhos e rodapés?",
+      "blocos": [
+        {
+          "tipo": "cards",
+          "itens": [
+            { "titulo": "Cabeçalho", "descricao": "área na parte superior da página para inserir texto, números ou imagens." },
+            { "titulo": "Rodapé", "descricao": "área na parte inferior da página com a mesma finalidade." }
+          ]
+        },
+        {
+          "tipo": "destacado",
+          "texto": "Eles adicionam informações consistentes em todas as páginas (título do documento, número da página, data) e tornam o documento mais organizado e profissional."
+        }
+      ]
+    },
+    {
+      "titulo": "Como inserir cabeçalhos e rodapés",
+      "blocos": [
+        {
+          "tipo": "passos",
+          "itens": [
+            { "titulo": "Na guia Inserir", "descricao": "clique em Cabeçalho ou Rodapé." },
+            { "titulo": "Escolha um estilo", "descricao": "pré-definido ou selecione Editar Cabeçalho/Rodapé." },
+            { "titulo": "Digite o texto", "descricao": "como título do documento ou nome do autor." },
+            { "titulo": "Clique em Fechar Cabeçalho e Rodapé", "descricao": "para sair do modo de edição." }
+          ]
+        },
+        {
+          "tipo": "destacado",
+          "texto": "Você pode personalizar o cabeçalho e o rodapé para cada página ou usar o mesmo em todo o documento."
+        }
+      ]
+    },
+    {
+      "titulo": "Inserindo números de página",
+      "blocos": [
+        {
+          "tipo": "passos",
+          "itens": [
+            { "titulo": "Na guia Inserir", "descricao": "clique em Número de Página." },
+            { "titulo": "Escolha a posição", "descricao": "como topo da página ou rodapé, e o estilo." },
+            { "titulo": "O Word insere automaticamente", "descricao": "a numeração em todas as páginas." }
+          ]
+        },
+        {
+          "tipo": "destacado",
+          "texto": "Use a opção Formato do Número de Página para personalizar o estilo (ex.: números romanos ou letras)."
+        }
+      ]
+    },
+    {
+      "titulo": "Inserindo data e hora automáticas",
+      "blocos": [
+        {
+          "tipo": "passos",
+          "itens": [
+            { "titulo": "No modo de edição de cabeçalho/rodapé", "descricao": "clique na guia Inserir." },
+            { "titulo": "Selecione Data e Hora", "descricao": "na opções." },
+            { "titulo": "Escolha o formato", "descricao": "e marque a opção Atualizar Automaticamente." },
+            { "titulo": "Clique em OK", "descricao": "para inserir." }
+          ]
+        },
+        {
+          "tipo": "destacado",
+          "texto": "A data e a hora serão atualizadas automaticamente sempre que o documento for aberto."
+        }
+      ]
+    },
+    {
+      "titulo": "Formatando cabeçalhos e rodapés",
+      "blocos": [
+        {
+          "tipo": "cards",
+          "itens": [
+            { "titulo": "Fonte", "descricao": "altera estilo, tamanho e cor do texto." },
+            { "titulo": "Alinhamento", "descricao": "ajusta o texto à esquerda, centralizado ou à direita." },
+            { "titulo": "Bordas e sombreamento", "descricao": "adiciona linhas ou cores de fundo." },
+            { "titulo": "Inserir elementos", "descricao": "adiciona imagens, números de página ou campos automáticos." }
+          ]
+        },
+        {
+          "tipo": "destacado",
+          "texto": "Exemplo prático: insira uma linha horizontal abaixo do cabeçalho para separá-lo do conteúdo."
+        }
+      ]
+    },
+    {
+      "titulo": "Cabeçalhos e rodapés diferentes para páginas pares/ímpares",
+      "blocos": [
+        {
+          "tipo": "passos",
+          "itens": [
+            { "titulo": "Na guia Layout", "descricao": "clique em Configurar Página." },
+            { "titulo": "Na aba Layout", "descricao": "marque a opção de cabeçalhos e rodapés diferentes para páginas ímpares e pares." },
+            { "titulo": "Edite separadamente", "descricao": "o cabeçalho e o rodapé das páginas ímpares e pares." }
+          ]
+        },
+        {
+          "tipo": "destacado",
+          "texto": "Útil para documentos impressos que serão encadernados."
+        }
+      ]
+    },
+    {
+      "titulo": "Removendo cabeçalhos e rodapés",
+      "blocos": [
+        {
+          "tipo": "passos",
+          "itens": [
+            { "titulo": "Clique duas vezes", "descricao": "no cabeçalho ou rodapé para editá-lo ou clique com o botão direito." },
+            { "titulo": "Selecione o conteúdo", "descricao": "e pressione Delete." },
+            { "titulo": "Clique em Fechar Cabeçalho e Rodapé", "descricao": "para sair do modo de edição." }
+          ]
+        },
+        {
+          "tipo": "destacado",
+          "texto": "Você também pode usar a opção Remover Cabeçalho/Rodapé na guia Inserir."
+        }
+      ]
+    },
+    {
+      "titulo": "Boas práticas no uso de cabeçalhos e rodapés",
+      "blocos": [
+        {
+          "tipo": "lista",
+          "itens": [
+            "Mantenha a simplicidade: evite textos longos ou muitos elementos.",
+            "Use fontes legíveis: escolha fontes profissionais e tamanhos adequados.",
+            "Inclua informações úteis: números de página, título do documento e data.",
+            "Verifique a consistência: garanta que o cabeçalho e o rodapé sejam iguais em todas as páginas."
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Conclusão",
+      "blocos": [
+        {
+          "tipo": "destacado",
+          "texto": "Cabeçalhos e rodapés são essenciais para documentos profissionais. O Word oferece opções para personalizar e automatizar informações, e boas práticas garantem clareza e consistência."
+        }
+      ]
+    }
+  ]
+}

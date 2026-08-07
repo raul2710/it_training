@@ -1,0 +1,118 @@
+{
+  "id": "c_m2_aula02",
+  "modulo": "Módulo 2 — Microsoft Word",
+  "titulo": "Formatação de Texto",
+  "subtitulo": "Personalizando fonte, alinhamento, espaçamento, estilos e destaques no documento.",
+  "tempo": 10,
+  "secoes": [
+    {
+      "titulo": "O que é formatação de texto?",
+      "blocos": [
+        {
+          "tipo": "texto",
+          "texto": "Formatação de texto é a personalização do estilo do texto em documentos. Ela engloba mudanças de fonte, tamanho, cor e alinhamento."
+        },
+        {
+          "tipo": "destacado",
+          "texto": "Escolha fontes simples para documentos formais, como Arial ou Times New Roman."
+        }
+      ]
+    },
+    {
+      "titulo": "Alterando a fonte",
+      "blocos": [
+        {
+          "tipo": "passos",
+          "itens": [
+            { "titulo": "Selecione o texto", "descricao": "que você deseja formatar." },
+            { "titulo": "Vá para a guia Página Inicial", "descricao": "para acessar as opções de fonte." },
+            { "titulo": "No grupo Fonte", "descricao": "escolha um estilo, tamanho e cor." }
+          ]
+        },
+        {
+          "tipo": "lista",
+          "itens": [
+            "Negrito: Ctrl + N.",
+            "Itálico: Ctrl + I.",
+            "Sublinhado: Ctrl + S.",
+            "Aumentar o tamanho da fonte rapidamente: Ctrl + Shift + >.",
+            "Abrir o menu de alteração de fontes: Ctrl + Shift + F."
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Alinhamento de texto",
+      "blocos": [
+        {
+          "tipo": "passos",
+          "itens": [
+            { "titulo": "Selecione o parágrafo", "descricao": "que deseja alinhar." },
+            { "titulo": "Na guia Página Inicial", "descricao": "clique nos botões de alinhamento." },
+            { "titulo": "Escolha a opção", "descricao": "à esquerda, ao centro, à direita ou justificado." }
+          ]
+        },
+        {
+          "tipo": "destacado",
+          "texto": "Boas práticas: utilize alinhamento justificado para textos profissionais."
+        }
+      ]
+    },
+    {
+      "titulo": "Espaçamento entre linhas",
+      "blocos": [
+        {
+          "tipo": "passos",
+          "itens": [
+            { "titulo": "Selecione o texto", "descricao": "que deseja ajustar." },
+            { "titulo": "Clique em Espaçamento entre Linhas", "descricao": "no grupo Parágrafo." },
+            { "titulo": "Escolha uma opção", "descricao": "como \"1,5\" ou \"2,0\"." }
+          ]
+        },
+        {
+          "tipo": "destacado",
+          "texto": "Para textos acadêmicos, use espaçamento 2,0."
+        }
+      ]
+    },
+    {
+      "titulo": "Usando estilos rápidos",
+      "blocos": [
+        {
+          "tipo": "texto",
+          "texto": "Na guia Página Inicial, explore o grupo \"Estilos\" e escolha entre Títulos, Subtítulos ou Corpo do Texto. Os estilos aplicam formatação a um parágrafo ou título inteiro, e facilitam a criação de índices."
+        },
+        {
+          "tipo": "destacado",
+          "texto": "O estilo \"Título 1\" aplica um destaque normalmente usado para títulos de seção, com fonte maior e em negrito."
+        }
+      ]
+    },
+    {
+      "titulo": "Aplicando destaques",
+      "blocos": [
+        {
+          "tipo": "texto",
+          "texto": "Use o botão de Realce de Texto para destacar palavras ou frases e experimente cores diferentes para categorizar informações."
+        },
+        {
+          "tipo": "lista",
+          "itens": [
+            "Evite excesso de destaques para não poluir o documento.",
+            "Use Ctrl + T para selecionar todo o texto rapidamente.",
+            "O botão \"Limpar Formatação\" remove qualquer formatação aplicada ao texto selecionado."
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Conclusão",
+      "blocos": [
+        {
+          "tipo": "destacado",
+          "texto": "Dominar a formatação de texto — fonte, alinhamento, espaçamento, estilos e realce — torna os documentos mais claros, organizados e profissionais."
+        }
+      ]
+    }
+  ]
+}

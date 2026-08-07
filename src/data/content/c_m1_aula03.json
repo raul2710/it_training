@@ -1,0 +1,139 @@
+{
+  "id": "c_m1_aula03",
+  "modulo": "Módulo 1 — Computadores e Segurança Digital",
+  "titulo": "Segurança Digital",
+  "subtitulo": "Como proteger seus dados e dispositivos com ferramentas e boas práticas contra ameaças online.",
+  "tempo": 10,
+  "secoes": [
+    {
+      "titulo": "Por que a segurança digital é essencial?",
+      "blocos": [
+        {
+          "tipo": "texto",
+          "texto": "O número de ataques cibernéticos cresceu 300% nos últimos 5 anos, trazendo consequências como roubos financeiros, exposição de dados pessoais e danos à reputação. No cenário global, empresas perdem bilhões por ano e uma identidade é roubada a cada 2 segundos."
+        },
+        {
+          "tipo": "destacado",
+          "texto": "Segurança digital é a proteção de dados e dispositivos contra ameaças online, garantindo privacidade, integridade e segurança na internet."
+        }
+      ]
+    },
+    {
+      "titulo": "Principais ameaças digitais",
+      "blocos": [
+        {
+          "tipo": "cards",
+          "itens": [
+            { "titulo": "Phishing", "descricao": "golpes via e-mail e mensagens que simulam empresas confiáveis para roubar dados." },
+            { "titulo": "Ransomware", "descricao": "sequestra arquivos e exige pagamento de resgate." },
+            { "titulo": "Spyware", "descricao": "espiona as atividades do usuário." },
+            { "titulo": "Malware", "descricao": "software malicioso que rouba ou destrói informações." }
+          ]
+        },
+        {
+          "tipo": "destacado",
+          "texto": "Dica: sempre analise os links antes de clicar e evite baixar arquivos de fontes desconhecidas."
+        }
+      ]
+    },
+    {
+      "titulo": "Ferramentas de segurança",
+      "blocos": [
+        {
+          "tipo": "texto",
+          "texto": "Para proteger seus dispositivos, você pode contar com várias ferramentas. Use as confiáveis e mantenha todas atualizadas."
+        },
+        {
+          "tipo": "cards",
+          "itens": [
+            { "titulo": "Antivírus", "descricao": "detecta e remove ameaças." },
+            { "titulo": "Firewall", "descricao": "bloqueia acessos não autorizados." },
+            { "titulo": "VPN", "descricao": "protege a conexão em redes públicas." },
+            { "titulo": "2FA", "descricao": "autenticação de dois fatores, segurança extra para logins." },
+            { "titulo": "Gerenciador de senhas", "descricao": "cria e armazena senhas fortes." }
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Estudo de caso: phishing",
+      "blocos": [
+        {
+          "tipo": "texto",
+          "texto": "João recebeu um e-mail dizendo que sua conta bancária seria bloqueada caso não confirmasse os dados. Ele clicou no link e inseriu suas informações. Resultado: dados bancários roubados e perda de R$ 5.000 em poucas horas."
+        },
+        {
+          "tipo": "lista",
+          "itens": [
+            "Nunca clique em links suspeitos.",
+            "Bancos nunca pedem informações sensíveis por e-mail.",
+            "Verifique a URL e ligue direto para a instituição se estiver em dúvida."
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Protegendo redes Wi-Fi",
+      "blocos": [
+        {
+          "tipo": "texto",
+          "texto": "Ao usar redes públicas há riscos: hackers podem interceptar seus dados e sites sem HTTPS deixam suas informações vulneráveis."
+        },
+        {
+          "tipo": "lista",
+          "itens": [
+            "Use VPNs para proteger sua navegação.",
+            "Evite realizar transações bancárias em redes públicas.",
+            "Desative o Wi-Fi quando não estiver em uso."
+          ]
+        },
+        {
+          "tipo": "destacado",
+          "texto": "Curiosidade: mais de 60% dos ataques em redes públicas ocorrem em cafeterias e aeroportos."
+        }
+      ]
+    },
+    {
+      "titulo": "Estudo de caso: engenharia social",
+      "blocos": [
+        {
+          "tipo": "texto",
+          "texto": "Maria recebeu uma ligação de alguém que dizia ser da empresa de internet. O golpista pediu para instalar um programa para \"resolver problemas\". O software era um spyware que monitorou sua digitação, capturando senhas e dados bancários. Resultado: perda de R$ 10.000 e acesso indevido a contas."
+        },
+        {
+          "tipo": "lista",
+          "itens": [
+            "Sempre verifique a identidade de quem está ligando.",
+            "Empresas confiáveis não pedem instalação de software por telefone."
+          ]
+        },
+        {
+          "tipo": "destacado",
+          "texto": "Engenharia social é a manipulação psicológica para obter informações confidenciais."
+        }
+      ]
+    },
+    {
+      "titulo": "Boas práticas nas redes sociais",
+      "blocos": [
+        {
+          "tipo": "lista",
+          "itens": [
+            "Não compartilhe informações pessoais sensíveis.",
+            "Configure suas postagens para \"amigos\" ou \"privado\".",
+            "Revise as permissões dos aplicativos conectados às redes sociais."
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Conclusão",
+      "blocos": [
+        {
+          "tipo": "destacado",
+          "texto": "A segurança digital depende de atenção e de bons hábitos: analisar links, blindar as redes Wi-Fi, usar ferramentas confiáveis e desconfiar de pedidos urgentes de dados."
+        }
+      ]
+    }
+  ]
+}

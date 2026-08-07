@@ -1,5 +1,7 @@
 import { storage } from './storage.js';
 import { homePage } from './pages/home.js';
+import { aulasPage } from './pages/aulas.js';
+import { aulaPage } from './pages/aula.js';
 import { lessonsPage } from './pages/lessons.js';
 import { quizPage } from './pages/quiz.js';
 import { resultPage } from './pages/result.js';
@@ -8,6 +10,8 @@ const HOME_HASH = '#/';
 
 const routes = [
   { name: 'home', pattern: /^#\/?$/, view: homePage },
+  { name: 'aulas', pattern: /^#\/aulas$/, view: aulasPage },
+  { name: 'aula', pattern: /^#\/aula\/([^/]+)$/, view: aulaPage, params: ['aulaId'] },
   { name: 'lessons', pattern: /^#\/lessons$/, view: lessonsPage },
   { name: 'quiz', pattern: /^#\/quiz\/([^/]+)$/, view: quizPage, params: ['lessonId'] },
   { name: 'result', pattern: /^#\/result$/, view: resultPage }

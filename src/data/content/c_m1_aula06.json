@@ -1,0 +1,212 @@
+{
+  "id": "c_m1_aula06",
+  "modulo": "Módulo 1 — Computadores e Segurança Digital",
+  "titulo": "Digitação: Desenvolvendo Velocidade e Precisão",
+  "subtitulo": "Postura correta, conhecimento do teclado e exercícios para digitar com rapidez e precisão.",
+  "tempo": 10,
+  "secoes": [
+    {
+      "titulo": "Por que digitar bem é importante?",
+      "blocos": [
+        {
+          "tipo": "texto",
+          "texto": "Digitar bem é um passo essencial para aumentar a produtividade e a eficiência no uso do computador, seja no trabalho, na escola ou no dia a dia."
+        },
+        {
+          "tipo": "cards",
+          "itens": [
+            { "titulo": "Produtividade", "descricao": "você realiza tarefas mais rapidamente." },
+            { "titulo": "Precisão", "descricao": "reduz erros ao digitar textos e números." },
+            { "titulo": "Saúde", "descricao": "evita dores e lesões por esforço repetitivo (LER/DORT)." },
+            { "titulo": "Competitividade", "descricao": "habilidade valorizada no mercado de trabalho." }
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Como se posicionar corretamente",
+      "blocos": [
+        {
+          "tipo": "texto",
+          "texto": "A postura correta é essencial para evitar dores e lesões ao longo do tempo."
+        },
+        {
+          "tipo": "lista",
+          "itens": [
+            "Corpo: sente-se com as costas retas, apoiadas na cadeira; pés apoiados no chão ou em suporte adequado.",
+            "Braços e mãos: cotovelos a 90 graus; pulsos levemente inclinados, sem apoiar diretamente na mesa.",
+            "Tela e teclado: a tela deve estar na altura dos olhos; o teclado a uma distância confortável, com os braços relaxados."
+          ]
+        },
+        {
+          "tipo": "destacado",
+          "texto": "Dica: faça pausas a cada 20 minutos para descansar os olhos e as mãos."
+        }
+      ]
+    },
+    {
+      "titulo": "Áreas do teclado",
+      "blocos": [
+        {
+          "tipo": "cards",
+          "itens": [
+            { "titulo": "Fileira inicial", "descricao": "base para os movimentos dos dedos (ASDF JKLÇ)." },
+            { "titulo": "Fileira superior", "descricao": "contém as teclas QWERTY e outras acima da fileira inicial." },
+            { "titulo": "Fileira inferior", "descricao": "inclui ZXCVB e outras abaixo da fileira inicial." },
+            { "titulo": "Teclado numérico", "descricao": "útil para cálculos rápidos, presente em teclados maiores." }
+          ]
+        },
+        {
+          "tipo": "destacado",
+          "texto": "Dica: mantenha os dedos na fileira inicial e mova-os apenas para alcançar as outras fileiras."
+        }
+      ]
+    },
+    {
+      "titulo": "Posição inicial das mãos",
+      "blocos": [
+        {
+          "tipo": "lista",
+          "itens": [
+            "Fileira inicial: dedos da mão esquerda ficam sobre ASDF; dedos da mão direita ficam sobre JKLÇ.",
+            "Os polegares descansam na barra de espaço.",
+            "Os relevos nas teclas F e J servem de guia para posicionar os dedos sem olhar para o teclado."
+          ]
+        },
+        {
+          "tipo": "destacado",
+          "texto": "Prática: coloque as mãos no teclado e identifique as teclas iniciais com os olhos fechados."
+        }
+      ]
+    },
+    {
+      "titulo": "Teclas de funções (F1–F12)",
+      "blocos": [
+        {
+          "tipo": "lista",
+          "itens": [
+            "F1: abre o menu de ajuda no programa ativo.",
+            "F2: renomeia um arquivo ou pasta no Windows.",
+            "F3: abre a busca no programa ativo ou no sistema.",
+            "F4: com Alt + F4 fecha o programa; em navegadores abre o histórico de endereços.",
+            "F5: atualiza a página ou o conteúdo da janela ativa.",
+            "F6: alterna entre elementos de uma janela ou navegador.",
+            "F7: ativa a verificação ortográfica (ex.: no Word).",
+            "F8: opção de inicialização avançada em computadores.",
+            "F9: atualiza campos no Word ou envia/recebe e-mails no Outlook.",
+            "F10: ativa a barra de menu no programa ativo.",
+            "F11: alterna o modo de tela cheia.",
+            "F12: abre a opção \"Salvar como\" em programas como o Word."
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Principais teclas de controle",
+      "blocos": [
+        {
+          "tipo": "cards",
+          "itens": [
+            { "titulo": "Ctrl", "descricao": "usada em atalhos, como Ctrl + C (copiar) e Ctrl + V (colar)." },
+            { "titulo": "Alt", "descricao": "facilita o acesso a menus e atalhos, como Alt + Tab (alternar janelas)." },
+            { "titulo": "Esc", "descricao": "cancela uma ação ou fecha menus e janelas de ajuda." },
+            { "titulo": "Windows", "descricao": "abre o menu Iniciar; com combinações, como ⊞ + D (mostrar área de trabalho)." },
+            { "titulo": "Shift", "descricao": "digita letras maiúsculas ou acessa o caractere superior das teclas duplas (ex.: ! na tecla 1)." },
+            { "titulo": "Caps Lock", "descricao": "alterna entre digitar tudo em maiúsculas ou minúsculas." },
+            { "titulo": "Tab", "descricao": "move o cursor para o próximo campo ou elemento." },
+            { "titulo": "Fn", "descricao": "ativa funções secundárias das teclas (ex.: ajustar brilho ou volume), comum em laptops." }
+          ]
+        },
+        {
+          "tipo": "lista",
+          "itens": [
+            "Insert: alterna entre os modos Inserção e Substituição.",
+            "Home: move o cursor para o início da linha ou documento.",
+            "End: move o cursor para o final da linha ou documento.",
+            "Page Up / Page Down: rolam a tela uma página por vez.",
+            "Delete: exclui o caractere à frente do cursor ou um item selecionado."
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Conhecendo o teclado numérico",
+      "blocos": [
+        {
+          "tipo": "lista",
+          "itens": [
+            "Teclas numéricas (0–9): digitação rápida de números, em grade de 3x3, com o 0 abaixo da tecla 8.",
+            "Operadores matemáticos: + (adição), - (subtração), * (multiplicação), / (divisão).",
+            "Enter: finaliza uma operação ou confirma um número digitado.",
+            "Num Lock: ativa ou desativa as funções numéricas do teclado numérico.",
+            "Del: apaga caracteres à frente do cursor em alguns teclados numéricos.",
+            "Ponto decimal: insere números decimais (ex.: 3.14)."
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Prática inicial",
+      "blocos": [
+        {
+          "tipo": "passos",
+          "itens": [
+            { "titulo": "Digite padrões repetidos", "descricao": "asdf jklç asdf jklç · qwer uiop qwer uiop · zxcv mnbv zxcv mnbv." },
+            { "titulo": "Não olhe para o teclado", "descricao": "foque em manter as mãos na posição inicial." },
+            { "titulo": "Comece devagar", "descricao": "priorize a precisão antes da velocidade." }
+          ]
+        },
+        {
+          "tipo": "destacado",
+          "texto": "Atividade: pratique por 5 minutos e registre a quantidade de palavras corretas digitadas."
+        }
+      ]
+    },
+    {
+      "titulo": "Exercícios avançados",
+      "blocos": [
+        {
+          "tipo": "texto",
+          "texto": "Avance para palavras e frases simples, mantendo a postura correta e corrigindo os erros apenas após terminar o exercício."
+        },
+        {
+          "tipo": "lista",
+          "itens": [
+            "Palavras: amor, casa, livro, tempo, fácil.",
+            "Frases: \"Eu gosto de digitar.\" e \"A prática leva à perfeição.\"."
+          ]
+        },
+        {
+          "tipo": "destacado",
+          "texto": "Dica: use um cronômetro de 2 minutos e tente melhorar sua velocidade e precisão a cada rodada."
+        }
+      ]
+    },
+    {
+      "titulo": "Avaliação e resultados",
+      "blocos": [
+        {
+          "tipo": "lista",
+          "itens": [
+            "Minha velocidade de digitação aumentou?",
+            "Estou errando menos?",
+            "Consigo manter as mãos na posição correta sem olhar para o teclado?"
+          ]
+        },
+        {
+          "tipo": "destacado",
+          "texto": "Dedique 10 minutos por dia para praticar e use sites ou aplicativos de digitação para medir seu progresso."
+        }
+      ]
+    },
+    {
+      "titulo": "Conclusão",
+      "blocos": [
+        {
+          "tipo": "destacado",
+          "texto": "A prática leva à perfeição. Continue treinando e, em pouco tempo, você será um digitador rápido e preciso!"
+        }
+      ]
+    }
+  ]
+}

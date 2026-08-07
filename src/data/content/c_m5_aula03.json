@@ -1,0 +1,107 @@
+{
+  "id": "c_m5_aula03",
+  "modulo": "Módulo 5 — Computação em Nuvem e IA",
+  "titulo": "O que são Dados e por que são tão importantes para a IA?",
+  "subtitulo": "O significado de dado, seus tipos e como dados alimentam (ou prejudicam) a IA.",
+  "tempo": 10,
+  "secoes": [
+    {
+      "titulo": "O que são dados?",
+      "blocos": [
+        {
+          "tipo": "texto",
+          "texto": "Dados são qualquer informação que pode ser registrada e guardada: fotos que você tira, e-mails que envia, músicas que ouve. Tudo o que fazemos no mundo digital gera dados."
+        },
+        {
+          "tipo": "cards",
+          "itens": [
+            { "titulo": "Texto", "descricao": "Mensagens, comentários, notícias" },
+            { "titulo": "Imagens", "descricao": "Fotos, vídeos, radiografias" },
+            { "titulo": "Números", "descricao": "Preços, temperatura, notas" },
+            { "titulo": "Sons", "descricao": "Músicas, voz, ruídos" }
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "A IA aprende como um aluno",
+      "blocos": [
+        {
+          "tipo": "cards",
+          "itens": [
+            { "titulo": "O aluno", "descricao": "Estuda provas antigas, aprende com os erros, melhora com a prática e usa exemplos para entender." },
+            { "titulo": "A IA", "descricao": "Analisa milhões de exemplos, identifica padrões e erros, e usa dados para aprender." }
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Exemplo prático: reconhecimento de gatos",
+      "blocos": [
+        {
+          "tipo": "passos",
+          "itens": [
+            { "titulo": "Mostrar muitas fotos", "descricao": "A IA recebe 1 milhão de fotos com e sem gatos." },
+            { "titulo": "Dizer o que é cada foto", "descricao": "Cada foto é marcada: 'gato' ou 'não é gato'." },
+            { "titulo": "IA encontra padrões", "descricao": "Ela aprende: orelhas pontudas, bigodes, olhos..." },
+            { "titulo": "Testar com foto nova", "descricao": "A IA reconhece gatos em fotos que nunca viu." }
+          ]
+        },
+        {
+          "tipo": "destacado",
+          "texto": "Sem dados, a IA não consegue aprender nada — os dados são o combustível dela."
+        }
+      ]
+    },
+    {
+      "titulo": "Por que mais dados = IA mais inteligente?",
+      "blocos": [
+        {
+          "tipo": "cards",
+          "itens": [
+            { "titulo": "Dados em quantidade", "descricao": "A IA aprende padrões reais, comete menos erros e funciona em situações diversas." },
+            { "titulo": "Poucos dados", "descricao": "A IA chuta mais do que acerta, com resultado pouco confiável e falhas em casos novos." }
+          ]
+        },
+        {
+          "tipo": "destacado",
+          "texto": "Quantidade não basta: a qualidade importa. 'Lixo entra, lixo sai' — dados ruins fazem a IA aprender errado."
+        }
+      ]
+    },
+    {
+      "titulo": "De onde vêm os dados?",
+      "blocos": [
+        {
+          "tipo": "lista",
+          "itens": [
+            "Celulares: fotos, localização, apps.",
+            "Internet: sites, redes sociais, pesquisas.",
+            "Sensores: temperatura, câmeras, GPS.",
+            "Bancos de dados: hospitais, lojas, empresas.",
+            "Pessoas: avaliações, comentários, cliques."
+          ]
+        },
+        {
+          "tipo": "destacado",
+          "texto": "2,5 quintilhões de bytes de dados são gerados por dia no mundo!"
+        }
+      ]
+    },
+    {
+      "titulo": "O que aprendemos hoje?",
+      "blocos": [
+        {
+          "tipo": "lista",
+          "itens": [
+            "Dados são informações registradas — texto, foto, número, som.",
+            "A IA aprende com dados, assim como um aluno aprende com exemplos.",
+            "Quanto mais dados (e de qualidade), mais inteligente a IA fica.",
+            "Tudo o que fazemos no celular e na internet gera dados.",
+            "Dados são o combustível que faz a IA funcionar."
+          ]
+        }
+      ]
+    }
+  ]
+}

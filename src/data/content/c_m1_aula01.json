@@ -1,0 +1,132 @@
+{
+  "id": "c_m1_aula01",
+  "modulo": "Módulo 1 — Computadores e Segurança Digital",
+  "titulo": "Introdução aos Computadores",
+  "subtitulo": "O que é um computador, suas partes, como funciona e como evoluiu até os dias de hoje.",
+  "tempo": 10,
+  "secoes": [
+    {
+      "titulo": "O que é um computador?",
+      "blocos": [
+        {
+          "tipo": "texto",
+          "texto": "O computador é uma máquina que nos ajuda a realizar várias tarefas, como escrever, jogar, estudar e conversar com amigos. Ele existe em vários formatos, como computador de mesa (desktop), notebook, tablet e smartphone."
+        },
+        {
+          "tipo": "destacado",
+          "texto": "Curiosidade: o primeiro computador do mundo, o ENIAC, ocupava o tamanho de uma sala inteira!"
+        }
+      ]
+    },
+    {
+      "titulo": "Por que usamos computadores?",
+      "blocos": [
+        {
+          "tipo": "cards",
+          "itens": [
+            { "titulo": "Estudar", "descricao": "pesquisas e assistir aulas." },
+            { "titulo": "Criar", "descricao": "desenhos e textos." },
+            { "titulo": "Entretenimento", "descricao": "jogos e filmes." }
+          ]
+        },
+        {
+          "tipo": "destacado",
+          "texto": "Usar o computador com responsabilidade é essencial para aproveitar o que ele oferece de melhor."
+        }
+      ]
+    },
+    {
+      "titulo": "Como funciona um computador?",
+      "blocos": [
+        {
+          "tipo": "texto",
+          "texto": "O computador é como uma equipe, em que cada parte tem um papel: receber, processar e entregar os dados."
+        },
+        {
+          "tipo": "cards",
+          "itens": [
+            { "titulo": "Entrada de dados", "descricao": "teclado, mouse e microfone." },
+            { "titulo": "Processamento", "descricao": "a \"cabeça\" do computador, o processador." },
+            { "titulo": "Saída de dados", "descricao": "tela, impressora e caixas de som." }
+          ]
+        },
+        {
+          "tipo": "destacado",
+          "texto": "Curiosidade: o processador realiza milhões de cálculos em um segundo!"
+        }
+      ]
+    },
+    {
+      "titulo": "Principais partes do computador",
+      "blocos": [
+        {
+          "tipo": "cards",
+          "itens": [
+            { "titulo": "Hardware", "descricao": "as partes que você pode tocar, como teclado, mouse e monitor." },
+            { "titulo": "Software", "descricao": "os programas que ajudam o computador a funcionar, como jogos, navegadores de internet e editores de texto." }
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Como os computadores evoluíram?",
+      "blocos": [
+        {
+          "tipo": "cards",
+          "itens": [
+            { "titulo": "Antes", "descricao": "grandes e lentos, como o ENIAC." },
+            { "titulo": "Hoje", "descricao": "pequenos, rápidos e presentes em quase todos os lugares, como nos celulares." }
+          ]
+        },
+        {
+          "tipo": "destacado",
+          "texto": "Curiosidade: o primeiro laptop foi criado em 1981 e pesava mais de 10 kg!"
+        }
+      ]
+    },
+    {
+      "titulo": "Computadores no nosso dia a dia",
+      "blocos": [
+        {
+          "tipo": "lista",
+          "itens": [
+            "Escolas: laboratórios de informática.",
+            "Casas: para estudos e jogos.",
+            "Hospitais: máquinas que salvam vidas.",
+            "Bancos: caixas eletrônicos."
+          ]
+        },
+        {
+          "tipo": "destacado",
+          "texto": "Use o computador como uma ferramenta de aprendizado!"
+        }
+      ]
+    },
+    {
+      "titulo": "Regras de uso para computadores",
+      "blocos": [
+        {
+          "tipo": "lista",
+          "itens": [
+            "Não comer perto do computador.",
+            "Fazer pausas para descansar os olhos.",
+            "Pedir ajuda a um adulto ao usar a internet."
+          ]
+        },
+        {
+          "tipo": "destacado",
+          "texto": "Um bom uso ajuda a cuidar do equipamento e da saúde!"
+        }
+      ]
+    },
+    {
+      "titulo": "Conclusão",
+      "blocos": [
+        {
+          "tipo": "destacado",
+          "texto": "Os computadores evoluíram muito e estão presentes em quase tudo o que fazemos. Entender como eles funcionam e usá-los com responsabilidade é o primeiro passo para aproveitar essa tecnologia no futuro."
+        }
+      ]
+    }
+  ]
+}

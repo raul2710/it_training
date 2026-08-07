@@ -1,0 +1,144 @@
+{
+  "id": "c_m5_aula04",
+  "modulo": "Módulo 5 — Computação em Nuvem e IA",
+  "titulo": "O que é um Algoritmo?",
+  "subtitulo": "De receitas de bolo ao feed do Instagram — algoritmos estão em tudo.",
+  "tempo": 10,
+  "secoes": [
+    {
+      "titulo": "O que é um algoritmo?",
+      "blocos": [
+        {
+          "tipo": "texto",
+          "texto": "Algoritmo é uma sequência de passos ordenados para resolver um problema ou realizar uma tarefa."
+        },
+        {
+          "tipo": "cards",
+          "itens": [
+            { "titulo": "Ordenado", "descricao": "Os passos têm uma ordem certa." },
+            { "titulo": "Finito", "descricao": "Tem começo e fim definidos." },
+            { "titulo": "Preciso", "descricao": "Cada passo é claro e sem dúvida." }
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Exemplo: a receita de bolo é um algoritmo",
+      "blocos": [
+        {
+          "tipo": "passos",
+          "itens": [
+            { "titulo": "Pré-aqueça o forno", "descricao": "a 180°C." },
+            { "titulo": "Misture os ingredientes", "descricao": "farinha, açúcar e ovos." },
+            { "titulo": "Adicione", "descricao": "o leite e o óleo." },
+            { "titulo": "Bata", "descricao": "por 5 minutos." },
+            { "titulo": "Despeje", "descricao": "na forma untada." },
+            { "titulo": "Asse", "descricao": "por 40 minutos." },
+            { "titulo": "Verifique", "descricao": "espete um palito — saiu limpo? Pronto!" }
+          ]
+        },
+        {
+          "tipo": "cards",
+          "itens": [
+            { "titulo": "Entrada", "descricao": "ingredientes e temperatura." },
+            { "titulo": "Processo", "descricao": "misturar, bater, assar." },
+            { "titulo": "Condição", "descricao": "'saiu limpo?'." },
+            { "titulo": "Saída", "descricao": "o bolo pronto!" }
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "As 3 estruturas de qualquer algoritmo",
+      "blocos": [
+        {
+          "tipo": "cards",
+          "itens": [
+            { "titulo": "Sequência", "descricao": "Passos executados um após o outro. Ex.: acorde → escove os dentes → tome banho → vista-se." },
+            { "titulo": "Decisão (Se/Senão)", "descricao": "Verifica uma condição e toma um caminho. Ex.: SE está chovendo → pegue o guarda-chuva; SENÃO → sem guarda-chuva." },
+            { "titulo": "Repetição (Loop)", "descricao": "Repete um bloco de ações várias vezes. Ex.: ENQUANTO tiver louça → lave um prato." }
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Algoritmo no dia a dia: o semáforo",
+      "blocos": [
+        {
+          "tipo": "passos",
+          "itens": [
+            { "titulo": "Luz VERMELHA", "descricao": "espere 30 segundos." },
+            { "titulo": "Luz AMARELA", "descricao": "atenção por 5 segundos." },
+            { "titulo": "Luz VERDE", "descricao": "passe por 25 segundos." },
+            { "titulo": "REPETE", "descricao": "o ciclo volta ao início — um loop infinito." }
+          ]
+        },
+        {
+          "tipo": "lista",
+          "itens": [
+            "Sequência: vermelho → amarelo → verde, sempre nessa ordem.",
+            "Decisão: SE verde o motorista passa; SE vermelho ele para.",
+            "Repetição: o ciclo se repete para sempre."
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Algoritmos estão em todo o seu celular",
+      "blocos": [
+        {
+          "tipo": "cards",
+          "itens": [
+            { "titulo": "Instagram", "descricao": "decide quais posts aparecem no feed com base nos likes e no tempo gasto." },
+            { "titulo": "YouTube", "descricao": "recomenda vídeos pelo que você assistiu e por quanto tempo." },
+            { "titulo": "Spotify", "descricao": "cria playlists automáticas analisando ritmo, tom e histórico." },
+            { "titulo": "Google Maps", "descricao": "calcula a rota mais rápida testando milhares de caminhos em segundos." },
+            { "titulo": "Shopee/Amazon", "descricao": "recomendam produtos pelas suas buscas e compras anteriores." },
+            { "titulo": "Câmera", "descricao": "detecta rostos e ajusta foco e iluminação automaticamente." }
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Como o algoritmo do Instagram decide o feed?",
+      "blocos": [
+        {
+          "tipo": "passos",
+          "itens": [
+            { "titulo": "Abrir o app", "descricao": "o algoritmo inicia e carrega dados sobre você." },
+            { "titulo": "Analisar o histórico", "descricao": "quais posts curtiu e quanto tempo olhou cada um." },
+            { "titulo": "Classificar o conteúdo", "descricao": "pontua cada post por relevância, tempo de postagem e interações." },
+            { "titulo": "Decidir", "descricao": "SE pontuação alta → mostra primeiro; SENÃO → vai para baixo." },
+            { "titulo": "Exibir o feed ordenado", "descricao": "os posts com maior pontuação aparecem no topo." }
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Algoritmo × Inteligência Artificial",
+      "blocos": [
+        {
+          "tipo": "cards",
+          "itens": [
+            { "titulo": "Algoritmo comum", "descricao": "regras escritas por humanos; faz exatamente o que foi programado; não muda sozinho; previsível e controlável (semáforo, receita)." },
+            { "titulo": "Algoritmo de IA", "descricao": "aprende as regras a partir de dados; melhora sozinho; adapta-se a situações novas; pode ser difícil de explicar (feed, reconhecimento facial)." }
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "O que aprendemos hoje?",
+      "blocos": [
+        {
+          "tipo": "lista",
+          "itens": [
+            "Algoritmo é uma sequência de passos ordenados para resolver um problema.",
+            "Todo algoritmo tem: sequência, decisão (Se/Senão) e repetição (loop).",
+            "Exemplos reais: receita de bolo, semáforo, GPS e feeds de redes sociais.",
+            "A IA também é um algoritmo — mas aprende sozinho com os dados!"
+          ]
+        }
+      ]
+    }
+  ]
+}

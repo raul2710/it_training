@@ -1,0 +1,135 @@
+{
+  "id": "c_m2_aula06",
+  "modulo": "Módulo 2 — Microsoft Word",
+  "titulo": "Inserindo Links e Hiperlinks",
+  "subtitulo": "Criar hiperlinks para páginas web, e-mails, arquivos e seções internas do documento.",
+  "tempo": 10,
+  "secoes": [
+    {
+      "titulo": "O que são links e hiperlinks?",
+      "blocos": [
+        {
+          "tipo": "cards",
+          "itens": [
+            { "titulo": "Link", "descricao": "um endereço que direciona para uma página da web, e-mail ou arquivo." },
+            { "titulo": "Hiperlink", "descricao": "um texto ou imagem clicável que contém um link embutido." }
+          ]
+        },
+        {
+          "tipo": "destacado",
+          "texto": "Os links facilitam a navegação, o acesso a informações adicionais e tornam o documento mais interativo e profissional."
+        }
+      ]
+    },
+    {
+      "titulo": "Tipos de links",
+      "blocos": [
+        {
+          "tipo": "cards",
+          "itens": [
+            { "titulo": "Páginas da web", "descricao": "direcionam para sites externos." },
+            { "titulo": "E-mails", "descricao": "abrem o cliente de e-mail com destinatário pré-definido." },
+            { "titulo": "Documentos internos", "descricao": "direcionam para seções, páginas ou arquivos dentro do documento." },
+            { "titulo": "Arquivos locais", "descricao": "abrem arquivos salvos no computador." }
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Como inserir um link",
+      "blocos": [
+        {
+          "tipo": "passos",
+          "itens": [
+            { "titulo": "Selecione o texto ou imagem", "descricao": "que deseja transformar em hiperlink." },
+            { "titulo": "Na guia Inserir", "descricao": "clique em Link (ou use o atalho Ctrl + K)." },
+            { "titulo": "No campo Endereço", "descricao": "insira o URL, e-mail ou caminho do arquivo." },
+            { "titulo": "Clique em OK", "descricao": "para criar o hiperlink." }
+          ]
+        },
+        {
+          "tipo": "destacado",
+          "texto": "Exemplo: transforme o texto \"Visite nosso site\" em um link para \"https://www.exemplo.com\"."
+        }
+      ]
+    },
+    {
+      "titulo": "Links para e-mails",
+      "blocos": [
+        {
+          "tipo": "passos",
+          "itens": [
+            { "titulo": "Selecione o texto ou imagem", "descricao": "que deseja transformar." },
+            { "titulo": "Clique em Link", "descricao": "ou use o atalho Ctrl + K." },
+            { "titulo": "Digite mailto:", "descricao": "seguido do e-mail (ex.: mailto:contato@exemplo.com)." },
+            { "titulo": "Clique em OK", "descricao": "para confirmar." }
+          ]
+        },
+        {
+          "tipo": "destacado",
+          "texto": "Ao clicar no link, o cliente de e-mail padrão será aberto com o endereço pré-preenchido."
+        }
+      ]
+    },
+    {
+      "titulo": "Links para documentos internos",
+      "blocos": [
+        {
+          "tipo": "passos",
+          "itens": [
+            { "titulo": "Insira um marcador ou título", "descricao": "no local do documento que deseja vincular." },
+            { "titulo": "Selecione o texto ou imagem", "descricao": "para o hiperlink." },
+            { "titulo": "Clique em Link", "descricao": "ou use Ctrl + K." },
+            { "titulo": "Escolha Colocar neste documento", "descricao": "e selecione o marcador ou título." },
+            { "titulo": "Clique em OK", "descricao": "para concluir." }
+          ]
+        },
+        {
+          "tipo": "destacado",
+          "texto": "Exemplo: crie um índice clicável que direcione para seções específicas do documento."
+        }
+      ]
+    },
+    {
+      "titulo": "Links para arquivos locais",
+      "blocos": [
+        {
+          "tipo": "passos",
+          "itens": [
+            { "titulo": "Selecione o texto ou imagem", "descricao": "para o hiperlink." },
+            { "titulo": "Clique em Link", "descricao": "ou use Ctrl + K." },
+            { "titulo": "No campo Endereço", "descricao": "insira o caminho do arquivo ou use o botão Procurar." },
+            { "titulo": "Clique em OK", "descricao": "para concluir." }
+          ]
+        },
+        {
+          "tipo": "destacado",
+          "texto": "Ao clicar no link, o arquivo será aberto no programa correspondente."
+        }
+      ]
+    },
+    {
+      "titulo": "Boas práticas no uso de links",
+      "blocos": [
+        {
+          "tipo": "lista",
+          "itens": [
+            "Use textos descritivos, como \"Visite nosso site\" em vez de \"Clique aqui\".",
+            "Verifique se todos os links estão funcionando corretamente.",
+            "Evite sobrecarregar o documento com muitos links.",
+            "Informe ao usuário se o link direciona para um site externo."
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Conclusão",
+      "blocos": [
+        {
+          "tipo": "destacado",
+          "texto": "Links e hiperlinks tornam os documentos mais interativos e funcionais. É possível vincular páginas da web, e-mails, seções internas e arquivos locais — seguindo boas práticas de clareza e usabilidade."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "id": "c_m5_aula02",
+  "modulo": "Módulo 5 — Computação em Nuvem e IA",
+  "titulo": "Introdução à Inteligência Artificial: Uma Nova Era",
+  "subtitulo": "O que é IA, seus pilares, aplicações no dia a dia e os desafios éticos.",
+  "tempo": 10,
+  "secoes": [
+    {
+      "titulo": "O que é Inteligência Artificial?",
+      "blocos": [
+        {
+          "tipo": "texto",
+          "texto": "A IA é o campo da ciência da computação que simula a inteligência humana: a capacidade das máquinas de raciocinar, aprender e resolver problemas de forma autônoma. O Teste de Turing (1950) foi um marco importante para avaliar essa capacidade."
+        },
+        {
+          "tipo": "lista",
+          "itens": [
+            "IA Fraca (Estreita): projetada para uma tarefa específica, como jogar xadrez ou reconhecer voz.",
+            "IA Forte (Geral): capacidade cognitiva semelhante à humana, resolvendo qualquer problema intelectual.",
+            "Super IA: hipotética, excede a inteligência humana em todos os aspectos."
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Pilares essenciais: como funciona?",
+      "blocos": [
+        {
+          "tipo": "cards",
+          "itens": [
+            { "titulo": "Aprendizado de Máquina (Machine Learning)", "descricao": "Algoritmos aprendem padrões em grandes volumes de dados. A Netflix prevê filmes com ~93% de acurácia pelas preferências do usuário." },
+            { "titulo": "Aprendizado Profundo (Deep Learning)", "descricao": "Usa redes neurais complexas inspiradas no cérebro. O reconhecimento facial da Meta atinge 97% de precisão." },
+            { "titulo": "PLN (Linguagem Natural)", "descricao": "Máquinas entendem e geram texto/voz. O Google Translate chega a 98% de precisão." }
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "IA no nosso dia a dia",
+      "blocos": [
+        {
+          "tipo": "cards",
+          "itens": [
+            { "titulo": "Assistentes virtuais", "descricao": "Siri, Alexa e Google Assistant, usados por metade dos usuários globais." },
+            { "titulo": "Recomendações", "descricao": "Amazon, Spotify e YouTube recomendam conteúdo aumentando o engajamento em até 30%." },
+            { "titulo": "Mapas", "descricao": "Google Maps e Waze otimizam rotas em tempo real." },
+            { "titulo": "Segurança", "descricao": "IA detecta 99,9% dos e-mails maliciosos." }
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "IA na indústria e negócios",
+      "blocos": [
+        {
+          "tipo": "lista",
+          "itens": [
+            "Saúde: diagnóstico por imagem com IA é 80% mais rápido, como o IBM Watson Health em oncologia.",
+            "Finanças: detecção de fraudes reduz em até 70% as transações fraudulentas.",
+            "Manufatura: robótica e automação elevam a produtividade em 20%, como nas fábricas da Tesla (80% de automação)."
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Plataformas de IA em destaque",
+      "blocos": [
+        {
+          "tipo": "cards",
+          "itens": [
+            { "titulo": "Google AI", "descricao": "TensorFlow (código aberto) e Google Cloud AI Platform." },
+            { "titulo": "AWS", "descricao": "Amazon SageMaker para treinar modelos e Rekognition para imagem/vídeo." },
+            { "titulo": "Microsoft Azure AI", "descricao": "Azure Machine Learning e Cognitive Services (visão, fala, linguagem)." },
+            { "titulo": "OpenAI", "descricao": "ChatGPT (linguagem) e DALL-E (geração de imagens)." },
+            { "titulo": "Hugging Face", "descricao": "Plataforma open-source com mais de 100 mil modelos de PLN." }
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "IA e o mercado de trabalho",
+      "blocos": [
+        {
+          "tipo": "lista",
+          "itens": [
+            "Criação de novas profissões: cientistas de dados, engenheiros de ML e especialistas em ética de IA.",
+            "Previsão de 97 milhões de novos empregos (Fórum Econômico Mundial).",
+            "Tarefas repetitivas são automatizadas, exigindo requalificação para áreas de maior valor.",
+            "Salários de profissionais de IA são 20–30% acima da média de TI."
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Desafios e ética na IA",
+      "blocos": [
+        {
+          "tipo": "lista",
+          "itens": [
+            "Viés algorítmico: dados tendenciosos podem gerar decisões discriminatórias.",
+            "Privacidade de dados: coleta e uso de informações pessoais exigem rigorosa proteção.",
+            "Segurança cibernética: sistemas autônomos podem ter vulnerabilidades.",
+            "Regulamentação: leis e padrões são essenciais para um desenvolvimento justo e responsável."
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "O futuro da IA",
+      "blocos": [
+        {
+          "tipo": "cards",
+          "itens": [
+            { "titulo": "IA generativa", "descricao": "Cria conteúdo original (texto, imagem e música) de forma autônoma." },
+            { "titulo": "XAI (IA explicável)", "descricao": "Foco em entender como os modelos tomam decisões, aumentando a transparência." },
+            { "titulo": "Nuvem e edge computing", "descricao": "Processamento mais rápido e distribuído para IA em tempo real." },
+            { "titulo": "AGI", "descricao": "IA de inteligência humana completa, ainda em desenvolvimento." }
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Conclusão",
+      "blocos": [
+        {
+          "tipo": "destacado",
+          "texto": "A IA já está integrada à nossa vida e continuará evoluindo. Compreender seus fundamentos é essencial para o sucesso profissional e pessoal na próxima década."
+        }
+      ]
+    }
+  ]
+}

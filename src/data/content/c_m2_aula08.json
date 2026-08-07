@@ -1,0 +1,123 @@
+{
+  "id": "c_m2_aula08",
+  "modulo": "Módulo 2 — Microsoft Word",
+  "titulo": "Controle Ortográfico, Seções e Quebras de Página",
+  "subtitulo": "Revisão ortográfica e gramatical, autocorreção, dicionário e quebras de página.",
+  "tempo": 10,
+  "secoes": [
+    {
+      "titulo": "O que é controle ortográfico?",
+      "blocos": [
+        {
+          "tipo": "texto",
+          "texto": "O controle ortográfico é uma ferramenta que verifica erros de ortografia e gramática nos textos. As quebras de página, por sua vez, são recursos para dividir o conteúdo entre páginas de forma organizada."
+        },
+        {
+          "tipo": "destacado",
+          "texto": "O objetivo da aula é entender como usar essas ferramentas para melhorar a qualidade dos textos."
+        }
+      ]
+    },
+    {
+      "titulo": "Importância do controle ortográfico",
+      "blocos": [
+        {
+          "tipo": "texto",
+          "texto": "O controle ortográfico evita erros que comprometem a credibilidade do texto e facilita a comunicação clara e profissional."
+        },
+        {
+          "tipo": "destacado",
+          "texto": "Exemplos de erros comuns: troca de \"mas\" por \"mais\" e de \"a\" por \"há\"."
+        }
+      ]
+    },
+    {
+      "titulo": "Como funciona o controle ortográfico",
+      "blocos": [
+        {
+          "tipo": "lista",
+          "itens": [
+            "Verificação automática em tempo real.",
+            "Sugestões de correção.",
+            "Personalização: adicionar palavras ao dicionário."
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Limitações do controle ortográfico",
+      "blocos": [
+        {
+          "tipo": "texto",
+          "texto": "O controle ortográfico não identifica todos os erros de contexto (ex.: \"forma\" vs. \"fôrma\") e depende da configuração do idioma."
+        },
+        {
+          "tipo": "destacado",
+          "texto": "Dica: a revisão humana é indispensável."
+        }
+      ]
+    },
+    {
+      "titulo": "Introdução às quebras de página",
+      "blocos": [
+        {
+          "tipo": "texto",
+          "texto": "As quebras de página são marcadores que indicam onde o texto deve ser dividido entre páginas."
+        },
+        {
+          "tipo": "lista",
+          "itens": [
+            "Organizar documentos longos (trabalhos acadêmicos, relatórios).",
+            "Evitar que títulos ou parágrafos fiquem isolados."
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Tipos de quebras de página",
+      "blocos": [
+        {
+          "tipo": "cards",
+          "itens": [
+            { "titulo": "Quebra de página simples", "descricao": "insere uma nova página." },
+            { "titulo": "Quebra de seção", "descricao": "divide o documento em partes com formatações diferentes." },
+            { "titulo": "Quebra de linha", "descricao": "controla a divisão de linhas sem mudar de página." }
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Como inserir quebras de página",
+      "blocos": [
+        {
+          "tipo": "passos",
+          "itens": [
+            { "titulo": "Posicione o cursor", "descricao": "onde deseja a quebra." },
+            { "titulo": "Use o atalho Ctrl + Enter", "descricao": "ou o menu \"Inserir\", para criar a quebra." }
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Boas práticas com quebras de página",
+      "blocos": [
+        {
+          "tipo": "lista",
+          "itens": [
+            "Evite quebras desnecessárias.",
+            "Revise o layout após inserir quebras."
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Conclusão",
+      "blocos": [
+        {
+          "tipo": "destacado",
+          "texto": "O controle ortográfico é essencial para textos precisos e as quebras de página ajudam na organização visual. Sempre revise manualmente seus textos."
+        }
+      ]
+    }
+  ]
+}
