@@ -1,0 +1,109 @@
+{
+  "id": "c_m3_aula06",
+  "modulo": "Módulo 3 — Microsoft Excel",
+  "titulo": "Gráficos no Excel",
+  "subtitulo": "Por que usar gráficos, os principais tipos, como criá-los passo a passo e dicas de formatação.",
+  "tempo": 10,
+  "secoes": [
+    {
+      "titulo": "Por que usar gráficos?",
+      "blocos": [
+        {
+          "tipo": "texto",
+          "texto": "Gráficos transformam números em imagens, deixando os dados muito mais fáceis de entender. Eles facilitam a análise, a comparação entre valores e deixam apresentações e relatórios muito mais profissionais."
+        },
+        {
+          "tipo": "lista",
+          "itens": [
+            "Visualização clara de conjuntos grandes de dados.",
+            "Facilita a comparação entre categorias e períodos.",
+            "Apresentações mais atrativas e profissionais.",
+            "Exemplo: vendas mensais representadas em gráfico de colunas."
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Tipos de gráficos no Excel",
+      "blocos": [
+        {
+          "tipo": "cards",
+          "itens": [
+            { "titulo": "Colunas/Barras", "descricao": "comparação entre categorias." },
+            { "titulo": "Linhas", "descricao": "tendência ao longo do tempo." },
+            { "titulo": "Pizza", "descricao": "proporções de um todo." },
+            { "titulo": "Área", "descricao": "dados cumulativos ao longo do tempo." },
+            { "titulo": "Dispersão (XY)", "descricao": "relação entre duas variáveis." }
+          ]
+        },
+        {
+          "tipo": "destacado",
+          "texto": "Escolha o tipo de gráfico conforme a mensagem que deseja transmitir: compare, mostre tendência ou divida em partes."
+        }
+      ]
+    },
+    {
+      "titulo": "Criando um gráfico passo a passo",
+      "blocos": [
+        {
+          "tipo": "passos",
+          "itens": [
+            { "titulo": "Selecione os dados", "descricao": "a tabela com os valores a representar." },
+            { "titulo": "Clique em Inserir", "descricao": "e procure as opções de gráficos." },
+            { "titulo": "Escolha o tipo", "descricao": "por exemplo, gráfico de colunas." },
+            { "titulo": "Ajuste o gráfico", "descricao": "gerado automaticamente com botão de opções." }
+          ]
+        },
+        {
+          "tipo": "destacado",
+          "texto": "O gráfico é criado automaticamente sobre a tabela selecionada e pode ser movido ou redimensionado."
+        }
+      ]
+    },
+    {
+      "titulo": "Editando um gráfico",
+      "blocos": [
+        {
+          "tipo": "lista",
+          "itens": [
+            "Clique no título para editar o texto.",
+            "Posicione ou remova as legendas conforme necessário.",
+            "Ajuste a escala dos eixos.",
+            "Personalize as cores no menu Design."
+          ]
+        },
+        {
+          "tipo": "destacado",
+          "texto": "Um gráfico bem editado conta uma história clara a partir dos seus dados."
+        }
+      ]
+    },
+    {
+      "titulo": "Dicas de formatação",
+      "blocos": [
+        {
+          "tipo": "cards",
+          "itens": [
+            { "titulo": "Cores contrastantes", "descricao": "melhoram a visualização." },
+            { "titulo": "Menos é mais", "descricao": "evite poluição visual." },
+            { "titulo": "Rótulos", "descricao": "esclarecem os dados importantes." },
+            { "titulo": "Exportar", "descricao": "use o gráfico em outros programas." }
+          ]
+        },
+        {
+          "tipo": "destacado",
+          "texto": "Um gráfico limpo e objetivo comunica os dados com muito mais eficiência."
+        }
+      ]
+    },
+    {
+      "titulo": "Conclusão",
+      "blocos": [
+        {
+          "tipo": "destacado",
+          "texto": "Gráficos transformam dados em visualizações claras e profissionais. O Excel oferece vários tipos para diferentes usos, e a personalização melhora a apresentação final. Na próxima aula, veremos as tabelas dinâmicas."
+        }
+      ]
+    }
+  ]
+}
