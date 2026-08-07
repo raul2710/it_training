@@ -1,0 +1,139 @@
+{
+  "id": "c_m3_aula07",
+  "modulo": "Módulo 3 — Microsoft Excel",
+  "titulo": "Tabelas Dinâmicas",
+  "subtitulo": "O que são tabelas dinâmicas, como criá-las, os conceitos-chave e como montar relatórios com elas.",
+  "tempo": 10,
+  "secoes": [
+    {
+      "titulo": "O que é uma tabela dinâmica?",
+      "blocos": [
+        {
+          "tipo": "texto",
+          "texto": "A tabela dinâmica é uma ferramenta do Excel que resume e analisa grandes volumes de dados rapidamente, sem digitar fórmulas. Com poucos cliques, você conta, soma e compara informações de várias formas diferentes."
+        },
+        {
+          "tipo": "cards",
+          "itens": [
+            { "titulo": "Resumir", "descricao": "contar funcionários por departamento." },
+            { "titulo": "Calcular", "descricao": "média salarial por cidade." },
+            { "titulo": "Comparar", "descricao": "vendas por mês." }
+          ]
+        },
+        {
+          "tipo": "destacado",
+          "texto": "A tabela dinâmica não modifica os dados originais: ela cria um relatório à parte."
+        }
+      ]
+    },
+    {
+      "titulo": "Transformando dados em tabela",
+      "blocos": [
+        {
+          "tipo": "passos",
+          "itens": [
+            { "titulo": "Selecione os dados", "descricao": "incluindo os cabeçalhos das colunas." },
+            { "titulo": "Clique em Inserir > Tabela", "descricao": "e confirme marcando a opção de cabeçalhos." },
+            { "titulo": "Verifique o intervalo", "descricao": "e clique em OK para criar a tabela." }
+          ]
+        },
+        {
+          "tipo": "destacado",
+          "texto": "Transformar os dados em Tabela Excel (Ctrl + T) é o primeiro passo para criar tabelas dinâmicas com segurança."
+        }
+      ]
+    },
+    {
+      "titulo": "Criando uma tabela dinâmica",
+      "blocos": [
+        {
+          "tipo": "passos",
+          "itens": [
+            { "titulo": "Selecione a tabela", "descricao": "de dados transformada no passo anterior." },
+            { "titulo": "Clique em Inserir > Tabela Dinâmica", "descricao": "e escolha uma nova planilha." },
+            { "titulo": "Monte o relatório", "descricao": "arrastando os campos para linhas, colunas e valores." },
+            { "titulo": "Organize a planilha", "descricao": "renomeando as abas para fácil identificação." }
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Conceitos-chave",
+      "blocos": [
+        {
+          "tipo": "cards",
+          "itens": [
+            { "titulo": "Linhas", "descricao": "o que será comparado, como cidade ou contrato." },
+            { "titulo": "Colunas", "descricao": "agrupam por categoria, de forma opcional." },
+            { "titulo": "Valores", "descricao": "o que será medido, como contagem ou soma." },
+            { "titulo": "Segmentações", "descricao": "filtros visuais interativos para facilitar a análise." }
+          ]
+        },
+        {
+          "tipo": "destacado",
+          "texto": "Arraste os campos no painel de campos da tabela dinâmica para montar o relatório do jeito que você precisa."
+        }
+      ]
+    },
+    {
+      "titulo": "Calculando idade e faixa etária",
+      "blocos": [
+        {
+          "tipo": "texto",
+          "texto": "Antes de montar relatórios com dados de pessoas, é comum criar colunas de cálculo, como idade e faixa etária, usando fórmulas que referenciam as colunas da tabela."
+        },
+        {
+          "tipo": "texto",
+          "texto": "Para a idade: =INT((HOJE()-[@dt_nasc])/365). Para a faixa etária: =SE([@idade]<30;\"<30 anos\";SE([@idade]<=45;\"30-45 anos\";\">45 anos\"))."
+        },
+        {
+          "tipo": "destacado",
+          "texto": "Dica: redimensione a tabela para incluir as novas colunas criadas, mantendo os dados sempre atualizados."
+        }
+      ]
+    },
+    {
+      "titulo": "Organizando planilhas para relatórios",
+      "blocos": [
+        {
+          "tipo": "texto",
+          "texto": "Um bom trabalho com tabelas dinâmicas termina com planilhas organizadas, cada uma dedicada a um relatório, e um painel geral reunindo os gráficos e filtros."
+        },
+        {
+          "tipo": "lista",
+          "itens": [
+            "Planilha para quantidade por contrato.",
+            "Planilha para média salarial por sede.",
+            "Planilha para quantidade por faixa etária.",
+            "Planilha cruzando faixa etária e contrato.",
+            "Dashboard com gráficos e filtros interativos."
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Exercício prático",
+      "blocos": [
+        {
+          "tipo": "passos",
+          "itens": [
+            { "titulo": "Abra uma planilha com dados reais", "descricao": "de funcionários ou vendas." },
+            { "titulo": "Transforme os dados em tabela", "descricao": "usando Inserir > Tabela." },
+            { "titulo": "Crie 4 tabelas dinâmicas", "descricao": "para responder diferentes perguntas." },
+            { "titulo": "Calcule idade e faixa etária", "descricao": "com as fórmulas aprendidas." },
+            { "titulo": "Adicione filtros e gráficos", "descricao": "montando um dashboard final." }
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Conclusão",
+      "blocos": [
+        {
+          "tipo": "destacado",
+          "texto": "As tabelas dinâmicas resumem e analisam grandes volumes de dados com poucos cliques. Com elas, você monta relatórios poderosos e dashboards interativos. Continue praticando para dominar o Excel!"
+        }
+      ]
+    }
+  ]
+}
