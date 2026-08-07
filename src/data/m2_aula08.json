@@ -1,0 +1,105 @@
+{
+  "titulo": "Aula 08 — Controle Ortográfico, Seções e Quebras de Página",
+  "descricao": "Revisão ortográfica e gramatical, autocorreção, dicionário e quebras de página",
+  "tempo": 10,
+  "dificuldade": "Média",
+  "modulo": "Módulo 2 — Microsoft Word",
+  "perguntas": [
+    {
+      "id": 1,
+      "pergunta": "Qual atalho abre a ferramenta de revisão ortográfica e gramatical?",
+      "alternativas": [
+        "F7",
+        "Ctrl + K",
+        "Ctrl + Enter",
+        "Ctrl + N"
+      ],
+      "correta": 0,
+      "explicacao": "Pressionar F7 inicia a revisão ortográfica e gramatical do texto."
+    },
+    {
+      "id": 2,
+      "pergunta": "O que o Word faz quando encontra um erro de ortografia?",
+      "alternativas": [
+        "Sublinha a palavra e oferece sugestões de correção",
+        "Apaga a palavra automaticamente",
+        "Centraliza o texto",
+        "Salva o documento em PDF"
+      ],
+      "correta": 0,
+      "explicacao": "O Word sublinha a palavra incorreta e sugere correções para você aplicar."
+    },
+    {
+      "id": 3,
+      "pergunta": "Como adicionar uma palavra que está correta ao dicionário personalizado?",
+      "alternativas": [
+        "Clicar com o botão direito na palavra e escolher \"Adicionar ao dicionário\"",
+        "Pressionar Enter várias vezes",
+        "Aplicar negrito na palavra",
+        "Excluir a palavra do texto"
+      ],
+      "correta": 0,
+      "explicacao": "O menu de contexto \"Adicionar ao dicionário\" evita que o Word marque a palavra como erro."
+    },
+    {
+      "id": 4,
+      "pergunta": "Onde configurar a autocorreção no Word?",
+      "alternativas": [
+        "Arquivo > Opções > Revisão de Texto > Opções de Autocorreção",
+        "Inserir > Símbolo",
+        "Referências > Nota de Rodapé",
+        "Exibir > Régua"
+      ],
+      "correta": 0,
+      "explicacao": "As opções de autocorreção ficam em Arquivo > Opções > Revisão de Texto."
+    },
+    {
+      "id": 5,
+      "pergunta": "O que é a autocorreção do Word?",
+      "alternativas": [
+        "Substituir automaticamente abreviações por palavras completas, como \"vc\" por \"você\"",
+        "Aumentar o tamanho da fonte do documento",
+        "Imprimir o documento em cores",
+        "Inserir tabelas automaticamente"
+      ],
+      "correta": 0,
+      "explicacao": "A autocorreção troca automaticamente abreviaturas (ex.: pq → porque) ao digitar."
+    },
+    {
+      "id": 6,
+      "pergunta": "Qual atalho insere uma quebra de página no Word?",
+      "alternativas": [
+        "Ctrl + Enter",
+        "Ctrl + K",
+        "F7",
+        "Ctrl + V"
+      ],
+      "correta": 0,
+      "explicacao": "Ctrl + Enter insere a quebra de página, iniciando uma nova página."
+    },
+    {
+      "id": 7,
+      "pergunta": "Para que servem as quebras de página?",
+      "alternativas": [
+        "Dividir o conteúdo entre páginas de forma organizada",
+        "Apagar todas as páginas do documento",
+        "Inserir uma imagem centralizada",
+        "Alterar a cor da fonte"
+      ],
+      "correta": 0,
+      "explicacao": "As quebras de página permitem organizar seções, mantendo cada parte em páginas próprias."
+    },
+    {
+      "id": 8,
+      "pergunta": "Como salvar o documento no formato PDF?",
+      "alternativas": [
+        "Arquivo > Salvar Como e escolher PDF (*.pdf) no tipo de arquivo",
+        "Página Inicial > Negrito",
+        "Inserir > Tabela",
+        "Referências > Sumário"
+      ],
+      "correta": 0,
+      "explicacao": "Em Arquivo > Salvar Como você seleciona PDF na lista de tipos para salvar o arquivo."
+    }
+  ]
+}

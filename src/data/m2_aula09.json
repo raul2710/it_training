@@ -1,0 +1,129 @@
+{
+  "titulo": "Aula 09 — Guia Referências",
+  "descricao": "Sumário automático, notas de rodapé, citações, bibliografia, legendas e índices",
+  "tempo": 12,
+  "dificuldade": "Difícil",
+  "modulo": "Módulo 2 — Microsoft Word",
+  "perguntas": [
+    {
+      "id": 1,
+      "pergunta": "Qual é a base para criar um sumário automático no Word?",
+      "alternativas": [
+        "Aplicar os estilos de título (ex.: Título 1) aos tópicos",
+        "Digitar os tópicos em letras maiúsculas",
+        "Inserir uma tabela com as páginas",
+        "Salvar o documento como PDF"
+      ],
+      "correta": 0,
+      "explicacao": "Os estilos de título são a base para o Word gerar o sumário automaticamente."
+    },
+    {
+      "id": 2,
+      "pergunta": "Como inserir um sumário automático no Word?",
+      "alternativas": [
+        "Referências > Sumário e escolher um modelo automático",
+        "Inserir > Tabela",
+        "Página Inicial > Negrito",
+        "Exibir > Layout de Impressão"
+      ],
+      "correta": 0,
+      "explicacao": "O sumário automático é gerado pela guia Referências > Sumário, escolhendo um modelo."
+    },
+    {
+      "id": 3,
+      "pergunta": "O que é uma nota de rodapé?",
+      "alternativas": [
+        "Uma explicação complementar exibida no rodapé da página",
+        "Um número das páginas no topo",
+        "Uma imagem inserida no final do texto",
+        "Um tipo de índice com endereços"
+      ],
+      "correta": 0,
+      "explicacao": "A nota de rodapé detalha termos ou conceitos sem poluir o corpo do texto."
+    },
+    {
+      "id": 4,
+      "pergunta": "Como adicionar uma citação cadastrando uma nova fonte bibliográfica?",
+      "alternativas": [
+        "Referências > Inserir Citação > Adicionar Nova Fonte",
+        "Página Inicial > Espelhamento",
+        "Inserir > Imagens > Este dispositivo",
+        "Referências > Marcar Entrada"
+      ],
+      "correta": 0,
+      "explicacao": "A opção \"Adicionar Nova Fonte\" cadastra a fonte e a vincula à citação no texto."
+    },
+    {
+      "id": 5,
+      "pergunta": "O que é a bibliografia automática?",
+      "alternativas": [
+        "A lista das fontes citadas, gerada automaticamente pelo Word",
+        "Uma imagem do documento",
+        "Um tipo de numeração de página",
+        "Um cabeçalho pré-definido"
+      ],
+      "correta": 0,
+      "explicacao": "A bibliografia reúne automaticamente as fontes cadastradas nas citações do texto."
+    },
+    {
+      "id": 6,
+      "pergunta": "Como inserir uma legenda em uma imagem?",
+      "alternativas": [
+        "Selecionar a imagem e usar Referências > Inserir Legenda",
+        "Pressionar Ctrl + Enter na imagem",
+        "Inserir > Tabela",
+        "Exibir > Régua"
+      ],
+      "correta": 0,
+      "explicacao": "A legenda é adicionada pela guia Referências > Inserir Legenda."
+    },
+    {
+      "id": 7,
+      "pergunta": "O que é o índice de ilustrações?",
+      "alternativas": [
+        "A lista das imagens do documento com suas legendas",
+        "A lista de endereços de e-mail",
+        "O somatório das páginas",
+        "Um tipo de tabela"
+      ],
+      "correta": 0,
+      "explicacao": "O índice de ilustrações lista as imagens com suas legendas, permitindo localizá-las."
+    },
+    {
+      "id": 8,
+      "pergunta": "Como marcar uma palavra para criar um índice remissivo?",
+      "alternativas": [
+        "Selecionar a palavra e usar Referências > Marcar Entrada",
+        "Aplicar negrito na palavra",
+        "Inserir uma nota de rodapé",
+        "Centralizar a palavra"
+      ],
+      "correta": 0,
+      "explicacao": "A palavra é marcada como entrada no índice remissivo pela opção Marcar Entrada."
+    },
+    {
+      "id": 9,
+      "pergunta": "Como atualizar o sumário ou os índices após alterações no texto?",
+      "alternativas": [
+        "Clicar com o botão direito e escolher \"Atualizar Campo\"",
+        "Salvar o documento várias vezes",
+        "Renomear o arquivo",
+        "Apagar e recriar o documento"
+      ],
+      "correta": 0,
+      "explicacao": "Atualizar Campo recompõe sumário e índices com as alterações mais recentes."
+    },
+    {
+      "id": 10,
+      "pergunta": "Para que serve o índice remissivo em um documento?",
+      "alternativas": [
+        "Ajudar o leitor a localizar rapidamente termos importantes",
+        "Definir a cor da fonte",
+        "Inserir bordas na tabela",
+        "Contar as páginas automaticamente"
+      ],
+      "correta": 0,
+      "explicacao": "O índice remissivo organiza termos-chave para o leitor encontrá-los com facilidade."
+    }
+  ]
+}

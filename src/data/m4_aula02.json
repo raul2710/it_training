@@ -1,0 +1,105 @@
+{
+  "titulo": "Aula 02 — Formatação de Texto",
+  "descricao": "Caixas de texto, fontes, tamanhos, cores e efeitos de texto no slide",
+  "tempo": 10,
+  "dificuldade": "Média",
+  "modulo": "Módulo 4 — Microsoft PowerPoint",
+  "perguntas": [
+    {
+      "id": 1,
+      "pergunta": "Onde encontrar a opção \"Caixa de Texto\" no PowerPoint?",
+      "alternativas": [
+        "Na guia Inserir",
+        "Na guia Transições",
+        "Na guia Apresentação de Slides",
+        "Na guia Exibir"
+      ],
+      "correta": 0,
+      "explicacao": "A Caixa de Texto é inserida pela guia Inserir, clicando e arrastando no slide."
+    },
+    {
+      "id": 2,
+      "pergunta": "Onde alterar a fonte e o tamanho do texto selecionado?",
+      "alternativas": [
+        "Na guia Página Inicial",
+        "Na guia Inserir > Formas",
+        "Na guia Transições",
+        "Na guia Revisão > Ortografia"
+      ],
+      "correta": 0,
+      "explicacao": "As opções de fonte, tamanho e cor ficam na guia Página Inicial."
+    },
+    {
+      "id": 3,
+      "pergunta": "Por que é importante usar fontes simples e legíveis no slide?",
+      "alternativas": [
+        "Facilitam a leitura e a compreensão do público",
+        "Deixam o slide mais pesado",
+        "Impedem a aplicação de temas",
+        "São obrigatórias para salvar o arquivo"
+      ],
+      "correta": 0,
+      "explicacao": "Fontes simples garantem legibilidade, impactando diretamente a compreensão do público."
+    },
+    {
+      "id": 4,
+      "pergunta": "Qual deve ser a relação entre o título e o corpo do texto?",
+      "alternativas": [
+        "O título deve ser maior e mais visível que o corpo",
+        "O corpo deve ser maior que o título",
+        "Os dois devem ter o mesmo tamanho",
+        "O título deve ficar oculto"
+      ],
+      "correta": 0,
+      "explicacao": "O título em destaque orienta a atenção; o corpo fica legível e organizado."
+    },
+    {
+      "id": 5,
+      "pergunta": "Onde aplicar sombra no texto (efeito de texto)?",
+      "alternativas": [
+        "Na guia Formato > Efeitos de Texto > Sombra",
+        "Na guia Transições > Corte",
+        "Na guia Animações > Girar",
+        "Na guia Exibir > Régua"
+      ],
+      "correta": 0,
+      "explicacao": "O efeito de sombra no texto é aplicado na guia Formato, em Efeitos de Texto."
+    },
+    {
+      "id": 6,
+      "pergunta": "O que melhora a clareza e o impacto visual de um slide?",
+      "alternativas": [
+        "Escolha adequada de cores e alinhamento do texto",
+        "Usar o maior número de fontes diferentes",
+        "Colocar todo o texto em maiúsculas",
+        "Apagar os espaços entre linhas"
+      ],
+      "correta": 0,
+      "explicacao": "Cores que contrastam e bom alinhamento melhoram clareza e impacto visual."
+    },
+    {
+      "id": 7,
+      "pergunta": "Como evitar que os efeitos de texto distraiam o público?",
+      "alternativas": [
+        "Usar efeitos discretos e em pontos estratégicos",
+        "Aplicar efeitos em todas as palavras",
+        "Usar cores chamativas em todo o texto",
+        "Nunca usar efeitos"
+      ],
+      "correta": 0,
+      "explicacao": "Efeitos sutis, aplicados com moderação, destacam sem desviar a atenção do conteúdo."
+    },
+    {
+      "id": 8,
+      "pergunta": "Por que revisar ortografia e gramática na apresentação?",
+      "alternativas": [
+        "Contribui para uma apresentação mais profissional",
+        "Aumenta o tamanho da fonte",
+        "Cria animações automaticamente",
+        "Insere imagens no slide"
+      ],
+      "correta": 0,
+      "explicacao": "Texto revisado transmite credibilidade e profissionalismo ao público."
+    }
+  ]
+}

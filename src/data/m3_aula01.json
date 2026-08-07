@@ -1,0 +1,105 @@
+{
+  "titulo": "Aula 01 — Primeiros Passos no Excel",
+  "descricao": "Criar uma planilha simples, formatar dados e usar funções básicas",
+  "tempo": 10,
+  "dificuldade": "Fácil",
+  "modulo": "Módulo 3 — Microsoft Excel",
+  "perguntas": [
+    {
+      "id": 1,
+      "pergunta": "Qual opção cria uma nova planilha no Excel?",
+      "alternativas": [
+        "Nova Pasta de Trabalho",
+        "Salvar Como",
+        "Inserir Gráfico",
+        "Mesclar Células"
+      ],
+      "correta": 0,
+      "explicacao": "Uma nova planilha é criada pela opção \"Nova Pasta de Trabalho\"."
+    },
+    {
+      "id": 2,
+      "pergunta": "Para escrever na célula A1, o que você deve fazer?",
+      "alternativas": [
+        "Clicar na célula A1 e digitar o texto",
+        "Pressionar F7 na célula A1",
+        "Inserir um gráfico na célula A1",
+        "Mesclar a célula A1 com a B1"
+      ],
+      "correta": 0,
+      "explicacao": "Conteúdo é digitado diretamente clicando na célula desejada."
+    },
+    {
+      "id": 3,
+      "pergunta": "Qual atalho aplica negrito às células selecionadas?",
+      "alternativas": [
+        "Ctrl + B",
+        "Ctrl + Enter",
+        "Ctrl + K",
+        "F7"
+      ],
+      "correta": 0,
+      "explicacao": "Ctrl + B (bold) aplica o negrito às células selecionadas no Excel."
+    },
+    {
+      "id": 4,
+      "pergunta": "Como ajustar automaticamente a largura de uma coluna?",
+      "alternativas": [
+        "Clicar duas vezes entre as colunas A e B",
+        "Pressionar Ctrl + Enter",
+        "Aplicar negrito à coluna",
+        "Inserir uma nova planilha"
+      ],
+      "correta": 0,
+      "explicacao": "Um duplo clique na divisória entre colunas ajusta a largura automaticamente ao conteúdo."
+    },
+    {
+      "id": 5,
+      "pergunta": "Qual fórmula calcula a média das idades de B2 até B6?",
+      "alternativas": [
+        "=MÉDIA(B2:B6)",
+        "=SOMA(B2:B6)",
+        "=MÁXIMO(B2:B6)",
+        "=MÍNIMO(B2:B6)"
+      ],
+      "correta": 0,
+      "explicacao": "A função MÉDIA calcula a média aritmética do intervalo B2:B6."
+    },
+    {
+      "id": 6,
+      "pergunta": "Como adicionar bordas a toda a tabela?",
+      "alternativas": [
+        "Selecionar a tabela e escolher \"Todas as Bordas\" em Bordas",
+        "Pressionar Ctrl + B na tabela",
+        "Inserir um gráfico de pizza",
+        "Salvar como PDF"
+      ],
+      "correta": 0,
+      "explicacao": "Com a tabela selecionada, a opção \"Todas as Bordas\" desenha linhas em todas as células."
+    },
+    {
+      "id": 7,
+      "pergunta": "Como centralizar o texto dos cabeçalhos A1:C1?",
+      "alternativas": [
+        "Selecionar A1:C1 e clicar em Centralizar",
+        "Pressionar Ctrl + Enter",
+        "Aplicar negrito em todas as células",
+        "Inserir uma tabela dinâmica"
+      ],
+      "correta": 0,
+      "explicacao": "O botão Centralizar alinha horizontalmente o conteúdo das células selecionadas."
+    },
+    {
+      "id": 8,
+      "pergunta": "Qual é a extensão de um arquivo salvo no Excel?",
+      "alternativas": [
+        ".xlsx",
+        ".docx",
+        ".pptx",
+        ".pdf"
+      ],
+      "correta": 0,
+      "explicacao": "Planilhas do Excel são salvas com a extensão .xlsx."
+    }
+  ]
+}

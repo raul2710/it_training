@@ -1,0 +1,105 @@
+{
+  "titulo": "Aula 06 — Inserindo Links e Hiperlinks",
+  "descricao": "Criar hiperlinks para páginas web, e-mails, arquivos e seções internas do documento",
+  "tempo": 10,
+  "dificuldade": "Média",
+  "modulo": "Módulo 2 — Microsoft Word",
+  "perguntas": [
+    {
+      "id": 1,
+      "pergunta": "Qual atalho abre a caixa para inserir um hiperlink no Word?",
+      "alternativas": [
+        "Ctrl + K",
+        "Ctrl + Enter",
+        "F7",
+        "Ctrl + N"
+      ],
+      "correta": 0,
+      "explicacao": "O atalho Ctrl + K abre a janela Inserir Hiperlink."
+    },
+    {
+      "id": 2,
+      "pergunta": "Onde fica a opção \"Link\" para criar um hiperlink?",
+      "alternativas": [
+        "Na guia Inserir > Link",
+        "Na guia Página Inicial > Negrito",
+        "Na aba Exibir > Régua",
+        "Na guia Referências > Sumário"
+      ],
+      "correta": 0,
+      "explicacao": "A opção Link fica na guia Inserir, e também pode ser acionada por Ctrl + K."
+    },
+    {
+      "id": 3,
+      "pergunta": "Qual prefixo é usado para criar um link de e-mail no Word?",
+      "alternativas": [
+        "mailto:",
+        "www.",
+        "https://",
+        "file://"
+      ],
+      "correta": 0,
+      "explicacao": "O prefixo \"mailto:\" seguido do endereço cria um link que abre o envio de e-mail."
+    },
+    {
+      "id": 4,
+      "pergunta": "Como criar um hiperlink para uma seção do próprio documento?",
+      "alternativas": [
+        "Usar a opção \"Colocar neste Documento\" na janela de hiperlink",
+        "Digitar o endereço de um site externo",
+        "Pressionar F7",
+        "Inserir uma tabela"
+      ],
+      "correta": 0,
+      "explicacao": "A opção \"Colocar neste Documento\" permite apontar o link para uma seção ou título interno."
+    },
+    {
+      "id": 5,
+      "pergunta": "O que é um hiperlink em um documento?",
+      "alternativas": [
+        "Um texto ou elemento clicável que leva a outro destino",
+        "Uma imagem que não pode ser movida",
+        "Um estilo de fonte pré-definido",
+        "Um tipo de tabela com bordas"
+      ],
+      "correta": 0,
+      "explicacao": "Hiperlink é um elemento clicável que direciona para outra página, e-mail, arquivo ou seção."
+    },
+    {
+      "id": 6,
+      "pergunta": "Como inserir um link para um arquivo salvo no computador?",
+      "alternativas": [
+        "Pressionar Ctrl + K e clicar em Procurar para selecionar o arquivo",
+        "Digitar o endereço www na frente do arquivo",
+        "Usar a opção \"Este dispositivo\" da guia Inserir",
+        "Aplicar o estilo Título 1"
+      ],
+      "correta": 0,
+      "explicacao": "No hiperlink, a opção Procurar permite escolher um arquivo local como destino do link."
+    },
+    {
+      "id": 7,
+      "pergunta": "Como verificar se os links do documento estão funcionando?",
+      "alternativas": [
+        "Passar o mouse sobre o link e clicar para conferir o destino",
+        "Pressionar F7 em todos os links",
+        "Salvar o documento como PDF",
+        "Centralizar todos os links"
+      ],
+      "correta": 0,
+      "explicacao": "Testar os links clicando neles (ou conferindo o destino ao passar o mouse) garante que funcionam."
+    },
+    {
+      "id": 8,
+      "pergunta": "Qual a vantagem de usar hiperlinks internos em vez de copiar e colar o texto da seção?",
+      "alternativas": [
+        "Navegação rápida e documento mais organizado",
+        "O documento fica sem imagens",
+        "A fonte fica maior automaticamente",
+        "O texto é salvo como PDF sozinho"
+      ],
+      "correta": 0,
+      "explicacao": "Hiperlinks internos permitem saltar para seções com um clique, mantendo o documento limpo e organizado."
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "titulo": "Revisão — Relatório Profissional (AV2)",
+  "descricao": "Revisão integrada das aulas 5 a 8: imagens, links, cabeçalhos/rodapés e ortografia",
+  "tempo": 15,
+  "dificuldade": "Média",
+  "modulo": "Módulo 2 — Microsoft Word",
+  "perguntas": [
+    {
+      "id": 1,
+      "pergunta": "Como inserir uma imagem que está salva no computador?",
+      "alternativas": [
+        "Guia Inserir > Imagens > Este dispositivo",
+        "Guia Página Inicial > Negrito",
+        "Guia Referências > Sumário",
+        "Guia Exibir > Régua"
+      ],
+      "correta": 0,
+      "explicacao": "A imagem do computador é inserida por Inserir > Imagens > \"Este dispositivo\"."
+    },
+    {
+      "id": 2,
+      "pergunta": "Qual opção de layout faz o texto fluir ao redor da imagem?",
+      "alternativas": [
+        "Quebra de texto (ex.: Quadrado)",
+        "Alinhamento justificado",
+        "Negrito com cor",
+        "Modo de Leitura"
+      ],
+      "correta": 0,
+      "explicacao": "A quebra de texto (Disposição de Texto) posiciona o texto ao redor da imagem."
+    },
+    {
+      "id": 3,
+      "pergunta": "Como adicionar uma legenda abaixo da imagem?",
+      "alternativas": [
+        "Referências > Inserir Legenda",
+        "Inserir > Tabela",
+        "Página Inicial > Parágrafo",
+        "Exibir > Layout de Impressão"
+      ],
+      "correta": 0,
+      "explicacao": "A legenda é inserida pela guia Referências, na opção Inserir Legenda."
+    },
+    {
+      "id": 4,
+      "pergunta": "Qual atalho insere um hiperlink no Word?",
+      "alternativas": [
+        "Ctrl + K",
+        "Ctrl + Enter",
+        "F7",
+        "Ctrl + N"
+      ],
+      "correta": 0,
+      "explicacao": "O atalho Ctrl + K abre a janela de inserção de hiperlink."
+    },
+    {
+      "id": 5,
+      "pergunta": "Que prefixo cria um link para um e-mail?",
+      "alternativas": [
+        "mailto:",
+        "www.",
+        "file://",
+        "https://"
+      ],
+      "correta": 0,
+      "explicacao": "O prefixo \"mailto:\" gera um link que abre o envio de e-mail para o endereço informado."
+    },
+    {
+      "id": 6,
+      "pergunta": "Como criar um link interno que leve a uma seção do mesmo documento?",
+      "alternativas": [
+        "Usar a opção \"Colocar neste Documento\" no hiperlink",
+        "Digitar o endereço de um site",
+        "Inserir uma nova tabela",
+        "Aplicar sombreamento"
+      ],
+      "correta": 0,
+      "explicacao": "A opção \"Colocar neste Documento\" aponta o link para uma seção ou título interno."
+    },
+    {
+      "id": 7,
+      "pergunta": "Como inserir numeração de páginas e data automática?",
+      "alternativas": [
+        "Guia Inserir > Número de Página e Data e Hora",
+        "Guia Página Inicial > Numeração da lista",
+        "Guia Referências > Marcar Entrada",
+        "Guia Exibir > Janela"
+      ],
+      "correta": 0,
+      "explicacao": "Número de Página e Data e Hora ficam na guia Inserir; a data pode se atualizar automaticamente."
+    },
+    {
+      "id": 8,
+      "pergunta": "Qual atalho abre a revisão ortográfica e gramatical?",
+      "alternativas": [
+        "F7",
+        "Ctrl + K",
+        "Ctrl + Enter",
+        "Ctrl + N"
+      ],
+      "correta": 0,
+      "explicacao": "F7 aciona a revisão ortográfica e gramatical do documento."
+    },
+    {
+      "id": 9,
+      "pergunta": "Como adicionar uma palavra correta que o Word marcou como erro ao dicionário?",
+      "alternativas": [
+        "Clique com o botão direito na palavra > \"Adicionar ao dicionário\"",
+        "Pressionar Ctrl + Enter",
+        "Apagar a palavra",
+        "Centralizar a palavra"
+      ],
+      "correta": 0,
+      "explicacao": "O menu de contexto permite adicionar a palavra ao dicionário personalizado."
+    },
+    {
+      "id": 10,
+      "pergunta": "Como usar quebras de página para organizar um relatório?",
+      "alternativas": [
+        "Inserir Ctrl + Enter antes de cada seção ou título novo",
+        "Digitar tudo no mesmo parágrafo",
+        "Apagar as seções antigas",
+        "Reduzir o tamanho da fonte"
+      ],
+      "correta": 0,
+      "explicacao": "As quebras de página (Ctrl + Enter) iniciam novas páginas para cada seção, organizando o documento."
+    }
+  ]
+}

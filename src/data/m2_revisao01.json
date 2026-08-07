@@ -1,0 +1,129 @@
+{
+  "titulo": "Revisão — Microsoft Word (AV1)",
+  "descricao": "Revisão dos conceitos das aulas 1 a 3: documento, formatação de texto e tabelas",
+  "tempo": 15,
+  "dificuldade": "Média",
+  "modulo": "Módulo 2 — Microsoft Word",
+  "perguntas": [
+    {
+      "id": 1,
+      "pergunta": "Qual opção cria um novo documento em branco no Word?",
+      "alternativas": [
+        "Documento em Branco",
+        "Salvar Como",
+        "Inserir Tabela",
+        "Número de Página"
+      ],
+      "correta": 0,
+      "explicacao": "Na tela inicial, a opção \"Documento em Branco\" inicia um arquivo vazio."
+    },
+    {
+      "id": 2,
+      "pergunta": "O que acontece quando justificamos um parágrafo?",
+      "alternativas": [
+        "O texto fica alinhado nas margens esquerda e direita",
+        "O texto fica centralizado na página",
+        "As letras viram maiúsculas",
+        "O parágrafo é apagado"
+      ],
+      "correta": 0,
+      "explicacao": "Justificar distribui o texto tocando as duas margens, formando bordas alinhadas."
+    },
+    {
+      "id": 3,
+      "pergunta": "Onde fica a opção de espaçamento entre linhas?",
+      "alternativas": [
+        "Na guia Layout",
+        "Na guia Inserir",
+        "Na aba Referências",
+        "Na aba Exibir"
+      ],
+      "correta": 0,
+      "explicacao": "O espaçamento entre linhas e parágrafos é ajustado na guia Layout."
+    },
+    {
+      "id": 4,
+      "pergunta": "Qual ferramenta destaca palavras em negrito e itálico?",
+      "alternativas": [
+        "Os botões B e I da guia Página Inicial",
+        "O botão de numeração",
+        "A opção de margens",
+        "A régua horizontal"
+      ],
+      "correta": 0,
+      "explicacao": "Negrito (B) e itálico (I) destacam palavras-chave na guia Página Inicial."
+    },
+    {
+      "id": 5,
+      "pergunta": "Como mesclar as duas primeiras colunas de uma tabela?",
+      "alternativas": [
+        "Selecionar as células e escolher \"Mesclar Células\"",
+        "Pressionar Ctrl + Enter",
+        "Aplicar sombreamento",
+        "Inserir uma nova linha"
+      ],
+      "correta": 0,
+      "explicacao": "Selecionando as células, o menu de contexto oferece \"Mesclar Células\" para uni-las."
+    },
+    {
+      "id": 6,
+      "pergunta": "Como adicionar linhas abaixo da primeira linha da tabela?",
+      "alternativas": [
+        "Na aba Layout da tabela, usar \"Inserir Abaixo\"",
+        "Na guia Exibir, clicar em Régua",
+        "Na guia Referências, inserir sumário",
+        "Na guia Página Inicial, aplicar negrito"
+      ],
+      "correta": 0,
+      "explicacao": "A aba Layout da tabela oferece \"Inserir Abaixo\" para acrescentar linhas."
+    },
+    {
+      "id": 7,
+      "pergunta": "Onde aplicar sombreamento na linha do cabeçalho da tabela?",
+      "alternativas": [
+        "Na aba Design de Tabela > Sombreamento",
+        "Na guia Inserir > Imagens",
+        "Na guia Exibir > Janela",
+        "Na guia Página Inicial > Fonte"
+      ],
+      "correta": 0,
+      "explicacao": "O sombreamento (cor de fundo) é aplicado pela aba Design de Tabela."
+    },
+    {
+      "id": 8,
+      "pergunta": "Qual espessura de borda foi usada na tabela do exercício de revisão?",
+      "alternativas": [
+        "1,5 pt",
+        "0,5 pt",
+        "3 pt",
+        "5 pt"
+      ],
+      "correta": 0,
+      "explicacao": "O exercício aplicou bordas com espessura de 1,5 pt e cor personalizada."
+    },
+    {
+      "id": 9,
+      "pergunta": "Como salvar o documento com o nome \"Revisao_Word.docx\"?",
+      "alternativas": [
+        "Arquivo > Salvar Como e digitar o nome",
+        "Página Inicial > Negrito",
+        "Inserir > Tabela",
+        "Exibir > Modo de Leitura"
+      ],
+      "correta": 0,
+      "explicacao": "Em Arquivo > Salvar Como você define o nome e a extensão .docx."
+    },
+    {
+      "id": 10,
+      "pergunta": "Como criar a pasta \"Exercícios de Word\" no explorador de arquivos?",
+      "alternativas": [
+        "Clique direito em área vazia > Novo > Pasta e renomear",
+        "Digitar \"pasta\" no Word",
+        "Pressionar F7",
+        "Salvar como PDF"
+      ],
+      "correta": 0,
+      "explicacao": "A pasta é criada no explorador pelo menu Novo > Pasta e depois renomeada."
+    }
+  ]
+}

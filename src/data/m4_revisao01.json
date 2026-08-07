@@ -1,0 +1,129 @@
+{
+  "titulo": "Revisão — Recursos do PowerPoint (AV4)",
+  "descricao": "Revisão de transições, animações, tabelas e SmartArt no PowerPoint",
+  "tempo": 15,
+  "dificuldade": "Média",
+  "modulo": "Módulo 4 — Microsoft PowerPoint",
+  "perguntas": [
+    {
+      "id": 1,
+      "pergunta": "Qual guia é usada para aplicar transições entre slides?",
+      "alternativas": [
+        "Transições",
+        "Animações",
+        "Inserir",
+        "Design"
+      ],
+      "correta": 0,
+      "explicacao": "As transições são aplicadas na guia Transições, escolhendo o efeito de troca de slide."
+    },
+    {
+      "id": 2,
+      "pergunta": "Qual guia é usada para animar elementos dentro de um slide?",
+      "alternativas": [
+        "Animações",
+        "Transições",
+        "Exibir",
+        "Arquivo"
+      ],
+      "correta": 0,
+      "explicacao": "As animações dos elementos são configuradas na guia Animações."
+    },
+    {
+      "id": 3,
+      "pergunta": "Como aplicar a animação \"Aparecer\" em um título?",
+      "alternativas": [
+        "Selecionar o título e escolher \"Aparecer\" na guia Animações",
+        "Aplicar uma transição de slide",
+        "Inserir uma tabela",
+        "Alterar o tema"
+      ],
+      "correta": 0,
+      "explicacao": "Com o título selecionado, escolha a animação Aparecer na guia Animações."
+    },
+    {
+      "id": 4,
+      "pergunta": "Como mesclar as células da primeira linha da tabela para criar um título?",
+      "alternativas": [
+        "Selecionar a linha, clicar com o botão direito e escolher \"Mesclar Células\"",
+        "Pressionar Ctrl + M",
+        "Inserir SmartArt",
+        "Aplicar negrito"
+      ],
+      "correta": 0,
+      "explicacao": "O menu de contexto da seleção oferece \"Mesclar Células\" para unir a linha em um título."
+    },
+    {
+      "id": 5,
+      "pergunta": "Onde escolher o estilo da tabela na revisão?",
+      "alternativas": [
+        "Na guia Design",
+        "Na guia Inserir > Tabela",
+        "Na guia Transições",
+        "Na guia Exibir"
+      ],
+      "correta": 0,
+      "explicacao": "Os estilos de tabela ficam na guia Design, ajustando cores das linhas e colunas."
+    },
+    {
+      "id": 6,
+      "pergunta": "Qual a importância de organizar informações em tabelas?",
+      "alternativas": [
+        "Facilita a leitura e a comparação dos dados",
+        "Oculta informações importantes",
+        "Substitui imagens",
+        "Cria animações"
+      ],
+      "correta": 0,
+      "explicacao": "Tabelas organizam dados em linhas e colunas, facilitando a leitura e a comparação."
+    },
+    {
+      "id": 7,
+      "pergunta": "Qual categoria de SmartArt representa um processo com etapas?",
+      "alternativas": [
+        "Processo",
+        "Relacionamento",
+        "Pirâmide",
+        "Lista"
+      ],
+      "correta": 0,
+      "explicacao": "A categoria Processo mostra etapas em sequência, ideal para fluxos."
+    },
+    {
+      "id": 8,
+      "pergunta": "Quando é melhor usar um SmartArt em vez de uma tabela?",
+      "alternativas": [
+        "Para mostrar processos ou hierarquias de forma visual",
+        "Para comparar números e valores exatos",
+        "Para salvar a apresentação",
+        "Para inserir vídeos"
+      ],
+      "correta": 0,
+      "explicacao": "SmartArt é melhor para processos e hierarquias; tabelas, para comparação de dados."
+    },
+    {
+      "id": 9,
+      "pergunta": "Como ajustar o ritmo das animações em um slide?",
+      "alternativas": [
+        "Na guia Animações > Opções de animação e tempo",
+        "Na guia Transições > Desfoque",
+        "Na guia Design > Temas",
+        "Na guia Exibir > Régua"
+      ],
+      "correta": 0,
+      "explicacao": "O tempo das animações é ajustado nas opções de duração da guia Animações."
+    },
+    {
+      "id": 10,
+      "pergunta": "O que é importante ao escolher transições para uma apresentação escolar?",
+      "alternativas": [
+        "Equilibrar efeitos para não distrair do conteúdo",
+        "Usar todas as transições em um único slide",
+        "Evitar qualquer efeito",
+        "Aplicar animações de texto sempre"
+      ],
+      "correta": 0,
+      "explicacao": "Transições equilibradas mantêm o foco no conteúdo sem distrair o público."
+    }
+  ]
+}

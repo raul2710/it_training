@@ -1,0 +1,105 @@
+{
+  "titulo": "Aula 03 — O que são Dados e por que importam para a IA?",
+  "descricao": "Definir dado, classificar tipos e entender como os dados treinam a IA",
+  "tempo": 12,
+  "dificuldade": "Média",
+  "modulo": "Módulo 5 — Computação em Nuvem e IA",
+  "perguntas": [
+    {
+      "id": 1,
+      "pergunta": "O que é um dado para a IA?",
+      "alternativas": [
+        "Qualquer informação que pode ser registrada e armazenada em um computador",
+        "Apenas números grandes",
+        "Somente imagens",
+        "Uma opinião sem registro"
+      ],
+      "correta": 0,
+      "explicacao": "Dado é toda informação capaz de ser registrada e armazenada para o computador processar."
+    },
+    {
+      "id": 2,
+      "pergunta": "Qual destes NÃO é um dado que uma IA pode usar?",
+      "alternativas": [
+        "O cheiro de uma flor e um sonho não anotado",
+        "A temperatura lida por um termômetro digital",
+        "A nota de um aluno em uma prova",
+        "Um comentário no Instagram"
+      ],
+      "correta": 0,
+      "explicacao": "Informações sem registro (cheiro, sonho não anotado) não geram dados utilizáveis pela IA."
+    },
+    {
+      "id": 3,
+      "pergunta": "Uma foto tirada pelo celular é um dado de qual tipo?",
+      "alternativas": [
+        "Imagem",
+        "Texto",
+        "Número",
+        "Som"
+      ],
+      "correta": 0,
+      "explicacao": "Fotos e radiografias são dados do tipo imagem."
+    },
+    {
+      "id": 4,
+      "pergunta": "Qual é um exemplo de dado do tipo número?",
+      "alternativas": [
+        "Preço de um produto",
+        "Uma música no Spotify",
+        "Uma foto de passaporte",
+        "Um comentário do YouTube"
+      ],
+      "correta": 0,
+      "explicacao": "Valores como preço e temperatura corporal são dados numéricos."
+    },
+    {
+      "id": 5,
+      "pergunta": "Como a IA do YouTube sabe quais vídeos recomendar?",
+      "alternativas": [
+        "Usando dados como histórico de visualizações e pesquisas",
+        "Escolhendo vídeos aleatoriamente",
+        "Pedindo para o usuário decidir",
+        "Ignorando os cliques anteriores"
+      ],
+      "correta": 0,
+      "explicacao": "A recomendação usa dados do histórico de visualizações, pesquisas e inscrições do usuário."
+    },
+    {
+      "id": 6,
+      "pergunta": "O que a ferramenta Google Teachable Machine permite fazer?",
+      "alternativas": [
+        "Treinar sua própria IA com fotos, sons ou poses sem programar",
+        "Editar vídeos profissionais",
+        "Criar sites com inteligência artificial",
+        "Enviar e-mails automaticamente"
+      ],
+      "correta": 0,
+      "explicacao": "O Teachable Machine treina modelos de IA usando fotos, sons ou poses, no navegador."
+    },
+    {
+      "id": 7,
+      "pergunta": "Por que a IA do Quick, Draw! erra quando desenhamos um jeito diferente?",
+      "alternativas": [
+        "Foi treinada com padrões de desenhos; desenhos muito diferentes a confundem",
+        "O jogo não tem inteligência",
+        "Ela apaga seus dados",
+        "O jogo precisa de internet wifi"
+      ],
+      "correta": 0,
+      "explicacao": "A IA aprende padrões comuns entre milhões de desenhos; desvios grandes a confundem."
+    },
+    {
+      "id": 8,
+      "pergunta": "Se a IA for treinada com poucas fotos, o que tende a acontecer?",
+      "alternativas": [
+        "Ela reconhece pior, pois teve poucos exemplos para aprender",
+        "Ela reconhece melhor",
+        "Ela aprende instantaneamente",
+        "Nada muda"
+      ],
+      "correta": 0,
+      "explicacao": "Poucos dados de treino reduzem a capacidade de generalizar e reconhecer corretamente."
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "titulo": "Aula 06 — Como a IA Toma Decisões? Árvores de Decisão",
+  "descricao": "Nó raiz, ramos, folhas, dados de treino e overfitting",
+  "tempo": 15,
+  "dificuldade": "Difícil",
+  "modulo": "Módulo 5 — Computação em Nuvem e IA",
+  "perguntas": [
+    {
+      "id": 1,
+      "pergunta": "O que é uma Árvore de Decisão na IA?",
+      "alternativas": [
+        "Um modelo que toma decisões fazendo perguntas em sequência",
+        "Um gráfico de pizza",
+        "Uma lista de dados",
+        "Um tipo de banco de dados"
+      ],
+      "correta": 0,
+      "explicacao": "Árvore de Decisão decide por meio de perguntas encadeadas até chegar ao resultado."
+    },
+    {
+      "id": 2,
+      "pergunta": "O que é o nó raiz de uma árvore de decisão?",
+      "alternativas": [
+        "A primeira pergunta no topo, de onde toda decisão começa",
+        "O resultado final",
+        "Um caminho intermediário",
+        "Um dado de treino"
+      ],
+      "correta": 0,
+      "explicacao": "O nó raiz é a primeira pergunta da árvore, início de todas as decisões."
+    },
+    {
+      "id": 3,
+      "pergunta": "Como os nós de decisão são representados graficamente?",
+      "alternativas": [
+        "Por losangos (diamantes)",
+        "Por retângulos arredondados",
+        "Por círculos vermelhos",
+        "Por setas verdes"
+      ],
+      "correta": 0,
+      "explicacao": "Nós de decisão usam losangos; folhas (resultados) usam retângulos arredondados."
+    },
+    {
+      "id": 4,
+      "pergunta": "O que é uma folha (leaf) na árvore de decisão?",
+      "alternativas": [
+        "A decisão final, como 'Aprovado' ou 'Negado'",
+        "A primeira pergunta",
+        "Um dado de treino",
+        "Uma pergunta intermediária"
+      ],
+      "correta": 0,
+      "explicacao": "A folha representa o resultado final da árvore."
+    },
+    {
+      "id": 5,
+      "pergunta": "O que é overfitting em uma árvore de decisão?",
+      "alternativas": [
+        "Quando a árvore memoriza os dados de treino e erra em dados novos",
+        "Quando a árvore generaliza bem",
+        "Quando faltam perguntas",
+        "Quando a árvore é muito simples"
+      ],
+      "correta": 0,
+      "explicacao": "Overfitting é o excesso de ajuste aos dados de treino, causando erros em dados novos."
+    },
+    {
+      "id": 6,
+      "pergunta": "Como a IA aprende quais perguntas fazer na árvore?",
+      "alternativas": [
+        "Analisando exemplos históricos, chamados de dados de treino",
+        "Perguntando ao usuário a cada vez",
+        "Escolhendo perguntas aleatórias",
+        "Copiando de outras árvores"
+      ],
+      "correta": 0,
+      "explicacao": "Os dados de treino ensinam a IA a escolher as melhores perguntas de decisão."
+    },
+    {
+      "id": 7,
+      "pergunta": "Pedro tem renda R$ 5.200, sem dívidas em atraso e ótimo histórico. Na árvore de empréstimo, a decisão é:",
+      "alternativas": [
+        "Aprovado",
+        "Negado",
+        "Em análise",
+        "Depende do valor"
+      ],
+      "correta": 0,
+      "explicacao": "Renda acima de R$ 3.000, sem dívidas e bom histórico levam à aprovação."
+    },
+    {
+      "id": 8,
+      "pergunta": "Qual é uma grande vantagem das Árvores de Decisão?",
+      "alternativas": [
+        "São transparentes: é possível ver cada passo da decisão",
+        "Nunca erram",
+        "Não usam dados",
+        "São impossíveis de entender"
+      ],
+      "correta": 0,
+      "explicacao": "A estrutura da árvore é visível, permitindo entender e explicar cada decisão."
+    }
+  ]
+}

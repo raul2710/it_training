@@ -1,0 +1,105 @@
+{
+  "titulo": "Aula 01 — Explorando o Microsoft Word",
+  "descricao": "Abrir o Word, criar documento em branco, salvar arquivo e organizar pastas",
+  "tempo": 10,
+  "dificuldade": "Fácil",
+  "modulo": "Módulo 2 — Microsoft Word",
+  "perguntas": [
+    {
+      "id": 1,
+      "pergunta": "Como você pode abrir o Microsoft Word?",
+      "alternativas": [
+        "Clicar no ícone do Word na área de trabalho ou buscá-lo no menu Iniciar",
+        "Digitar o texto diretamente na tela inicial",
+        "Clicar em Arquivo > Novo documento sem abrir o programa",
+        "Abrir o navegador de internet"
+      ],
+      "correta": 0,
+      "explicacao": "O Word abre clicando no atalho da área de trabalho ou pesquisando \"Word\" no menu Iniciar."
+    },
+    {
+      "id": 2,
+      "pergunta": "Qual opção da tela inicial cria um novo documento em branco?",
+      "alternativas": [
+        "Documento em Branco",
+        "Salvar Como",
+        "Nova Página",
+        "Inserir Tabela"
+      ],
+      "correta": 0,
+      "explicacao": "Na tela inicial, a opção \"Documento em Branco\" cria um novo arquivo vazio para iniciar a escrita."
+    },
+    {
+      "id": 3,
+      "pergunta": "Para salvar o documento com um novo nome e escolher a localização, qual caminho usar?",
+      "alternativas": [
+        "Arquivo > Salvar Como",
+        "Página Inicial > Negrito",
+        "Inserir > Imagens",
+        "Revisão > Ortografia"
+      ],
+      "correta": 0,
+      "explicacao": "O caminho Arquivo > Salvar Como permite definir o nome do arquivo e o local onde ele será guardado."
+    },
+    {
+      "id": 4,
+      "pergunta": "Qual é a extensão padrão de um documento salvo no Word?",
+      "alternativas": [
+        ".docx",
+        ".xlsx",
+        ".pptx",
+        ".pdf"
+      ],
+      "correta": 0,
+      "explicacao": "Documentos do Microsoft Word são salvos com a extensão .docx."
+    },
+    {
+      "id": 5,
+      "pergunta": "Qual atalho abre o explorador de arquivos no Windows?",
+      "alternativas": [
+        "Windows + E",
+        "Windows + D",
+        "Ctrl + Enter",
+        "F7"
+      ],
+      "correta": 0,
+      "explicacao": "O atalho Windows + E abre o explorador de arquivos, usado para navegar e organizar pastas."
+    },
+    {
+      "id": 6,
+      "pergunta": "Como criar uma nova pasta no explorador de arquivos?",
+      "alternativas": [
+        "Clicar com o botão direito em área vazia e escolher Novo > Pasta",
+        "Digitar \"pasta\" no Word",
+        "Pressionar F7 na barra de ferramentas",
+        "Clicar em Arquivo > Imprimir"
+      ],
+      "correta": 0,
+      "explicacao": "No explorador, o clique direito em uma área vazia abre o menu com a opção Novo > Pasta."
+    },
+    {
+      "id": 7,
+      "pergunta": "Após digitar o título no início da página, o que a tecla Enter faz?",
+      "alternativas": [
+        "Vai para a linha seguinte",
+        "Fecha o documento",
+        "Salva o arquivo automaticamente",
+        "Insere uma imagem"
+      ],
+      "correta": 0,
+      "explicacao": "Pressionar Enter encerra a linha atual e move o cursor para a linha de baixo."
+    },
+    {
+      "id": 8,
+      "pergunta": "Por que é útil usar pastas com nomes claros e organizadas?",
+      "alternativas": [
+        "Para facilitar a localização e o gerenciamento dos arquivos",
+        "Para deixar o computador mais rápido",
+        "Para apagar arquivos automaticamente",
+        "Para impedir a instalação de programas"
+      ],
+      "correta": 0,
+      "explicacao": "Pastas temáticas com nomes claros ajudam a encontrar e organizar os arquivos com facilidade."
+    }
+  ]
+}

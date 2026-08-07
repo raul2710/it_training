@@ -1,0 +1,105 @@
+{
+  "titulo": "Aula 01 — Criando uma Apresentação Simples",
+  "descricao": "Criar slides, inserir título, subtítulo, imagem e personalizar o visual",
+  "tempo": 10,
+  "dificuldade": "Fácil",
+  "modulo": "Módulo 4 — Microsoft PowerPoint",
+  "perguntas": [
+    {
+      "id": 1,
+      "pergunta": "Como criar uma nova apresentação no PowerPoint?",
+      "alternativas": [
+        "Escolher \"Apresentação em Branco\" ou um modelo pré-definido",
+        "Clicar em Salvar Como",
+        "Inserir uma tabela no slide",
+        "Pressionar F7"
+      ],
+      "correta": 0,
+      "explicacao": "Na tela inicial, escolha \"Apresentação em Branco\" ou um modelo pré-definido."
+    },
+    {
+      "id": 2,
+      "pergunta": "Qual atalho adiciona um novo slide?",
+      "alternativas": [
+        "Ctrl + M",
+        "Ctrl + K",
+        "Ctrl + B",
+        "F7"
+      ],
+      "correta": 0,
+      "explicacao": "Ctrl + M (ou Página Inicial > Novo Slide) insere um novo slide na apresentação."
+    },
+    {
+      "id": 3,
+      "pergunta": "Onde alterar o tema da apresentação?",
+      "alternativas": [
+        "Na guia Design > Temas",
+        "Na guia Inserir > Imagem",
+        "Na guia Exibir > Régua",
+        "Na guia Arquivo > Imprimir"
+      ],
+      "correta": 0,
+      "explicacao": "Os temas visuais ficam na guia Design, na seção Temas."
+    },
+    {
+      "id": 4,
+      "pergunta": "Como inserir uma imagem no slide?",
+      "alternativas": [
+        "Guia Inserir > Imagem",
+        "Guia Design > Temas",
+        "Guia Transições > Corte",
+        "Guia Animações > Aparecer"
+      ],
+      "correta": 0,
+      "explicacao": "A imagem é inserida pela guia Inserir > Imagem, escolhendo o arquivo no computador."
+    },
+    {
+      "id": 5,
+      "pergunta": "Como escolher o layout de um slide?",
+      "alternativas": [
+        "Página Inicial > Layout",
+        "Inserir > SmartArt",
+        "Exibir > Modo de Apresentação",
+        "Transições > Empurrar"
+      ],
+      "correta": 0,
+      "explicacao": "O layout do slide é definido em Página Inicial > Layout."
+    },
+    {
+      "id": 6,
+      "pergunta": "O que costuma conter o primeiro slide de uma apresentação?",
+      "alternativas": [
+        "Título da apresentação e subtítulo (nome e data)",
+        "Apenas uma tabela com dados",
+        "Somente uma imagem de fundo",
+        "Um gráfico SmartArt"
+      ],
+      "correta": 0,
+      "explicacao": "O slide inicial apresenta o título e o subtítulo, como nome do autor e data."
+    },
+    {
+      "id": 7,
+      "pergunta": "Qual é a extensão de uma apresentação do PowerPoint?",
+      "alternativas": [
+        ".pptx",
+        ".docx",
+        ".xlsx",
+        ".pdf"
+      ],
+      "correta": 0,
+      "explicacao": "Apresentações do PowerPoint são salvas com a extensão .pptx."
+    },
+    {
+      "id": 8,
+      "pergunta": "Como salvar a apresentação com um nome específico?",
+      "alternativas": [
+        "Arquivo > Salvar Como e digitar o nome",
+        "Página Inicial > Novo Slide",
+        "Inserir > Imagem",
+        "Animações > Aparecer"
+      ],
+      "correta": 0,
+      "explicacao": "Arquivo > Salvar Como permite definir o nome e o local de salvamento do arquivo."
+    }
+  ]
+}

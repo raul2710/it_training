@@ -1,0 +1,129 @@
+{
+  "titulo": "Aula 01 — Computação em Nuvem",
+  "descricao": "Definições, modelos de serviço (IaaS, PaaS, SaaS) e tipos de nuvem",
+  "tempo": 12,
+  "dificuldade": "Média",
+  "modulo": "Módulo 5 — Computação em Nuvem e IA",
+  "perguntas": [
+    {
+      "id": 1,
+      "pergunta": "O que é computação em nuvem?",
+      "alternativas": [
+        "Uso de serviços de computação pela internet, sob demanda",
+        "Um computador físico dentro da empresa",
+        "Um programa instalado no disco rígido",
+        "Uma rede local sem acesso à internet"
+      ],
+      "correta": 0,
+      "explicacao": "Computação em nuvem entrega serviços (armazenamento, processamento) pela internet, sob demanda."
+    },
+    {
+      "id": 2,
+      "pergunta": "O que significa \"elasticidade\" na computação em nuvem?",
+      "alternativas": [
+        "Aumentar ou diminuir recursos conforme a necessidade",
+        "Deixar os arquivos fixos e inalteráveis",
+        "Usar apenas recursos locais",
+        "Reduzir a velocidade da internet"
+      ],
+      "correta": 0,
+      "explicacao": "Elasticidade permite escalar recursos para cima ou para baixo de acordo com a demanda."
+    },
+    {
+      "id": 3,
+      "pergunta": "Qual modelo (IaaS, PaaS ou SaaS) corresponde ao Dropbox, um serviço pronto para o usuário?",
+      "alternativas": [
+        "SaaS",
+        "IaaS",
+        "PaaS",
+        "Nenhum"
+      ],
+      "correta": 0,
+      "explicacao": "O Dropbox é um software pronto fornecido pela nuvem, caracterizando o modelo SaaS."
+    },
+    {
+      "id": 4,
+      "pergunta": "No modelo em que o usuário gerencia apenas o software, qual é ele?",
+      "alternativas": [
+        "SaaS",
+        "IaaS",
+        "PaaS",
+        "On-premise"
+      ],
+      "correta": 0,
+      "explicacao": "No SaaS o provedor entrega o software pronto; o usuário gerencia apenas o uso."
+    },
+    {
+      "id": 5,
+      "pergunta": "Qual característica é essencial para um site que deve expandir para milhares de usuários?",
+      "alternativas": [
+        "Elasticidade",
+        "Armazenamento local fixo",
+        "Ausência de internet",
+        "Software instalado localmente"
+      ],
+      "correta": 0,
+      "explicacao": "A elasticidade permite aumentar capacidade conforme cresce o número de acessos."
+    },
+    {
+      "id": 6,
+      "pergunta": "Qual é a principal diferença entre infraestrutura local (on-premise) e nuvem?",
+      "alternativas": [
+        "On-premise mantém tudo na empresa; nuvem usa servidores do provedor pela internet",
+        "Nuvem não usa internet",
+        "On-premise é mais rápida que qualquer nuvem",
+        "Nuvem não pode armazenar dados"
+      ],
+      "correta": 0,
+      "explicacao": "On-premise usa hardware próprio; a nuvem entrega recursos dos servidores do provedor pela internet."
+    },
+    {
+      "id": 7,
+      "pergunta": "Qual tipo de nuvem é acessado por múltiplos clientes e é mantida por um provedor externo?",
+      "alternativas": [
+        "Nuvem pública",
+        "Nuvem privada",
+        "Nuvem híbrida",
+        "Nuvem local"
+      ],
+      "correta": 0,
+      "explicacao": "A nuvem pública é compartilhada entre vários clientes e mantida por um provedor externo."
+    },
+    {
+      "id": 8,
+      "pergunta": "Para uma empresa que manipula dados sigilosos de clientes, qual modelo de implantação é mais recomendado?",
+      "alternativas": [
+        "Nuvem privada, para maior controle e segurança",
+        "Nuvem pública aberta",
+        "Sempre armazenamento físico",
+        "Nuvem pública compartilhada"
+      ],
+      "correta": 0,
+      "explicacao": "A nuvem privada dá mais controle e segurança para dados sensíveis e sigilosos."
+    },
+    {
+      "id": 9,
+      "pergunta": "Qual é o principal benefício econômico da nuvem para empresas?",
+      "alternativas": [
+        "Reduz custos evitando investimento pesado em infraestrutura física",
+        "Elimina toda a necessidade de internet",
+        "Torna o software sempre gratuito",
+        "Substitui todos os funcionários"
+      ],
+      "correta": 0,
+      "explicacao": "Pagamento sob demanda evita investimentos altos em servidores físicos e manutenção."
+    },
+    {
+      "id": 10,
+      "pergunta": "Quais são dois mecanismos de segurança usados por provedores de nuvem?",
+      "alternativas": [
+        "Criptografia e autenticação de dois fatores",
+        "Desktops locais e cabos VGA",
+        "Usuário e senha em papel",
+        "Backup físico manual apenas"
+      ],
+      "correta": 0,
+      "explicacao": "Criptografia e autenticação em múltiplos fatores protegem os dados em nuvem."
+    }
+  ]
+}

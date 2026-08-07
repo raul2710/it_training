@@ -1,0 +1,105 @@
+{
+  "titulo": "Aula 03 — Trabalhando com Tabelas",
+  "descricao": "Criar, mesclar células, adicionar linhas, preencher e estilizar tabelas",
+  "tempo": 10,
+  "dificuldade": "Média",
+  "modulo": "Módulo 2 — Microsoft Word",
+  "perguntas": [
+    {
+      "id": 1,
+      "pergunta": "Qual caminho insere uma tabela no Word?",
+      "alternativas": [
+        "Guia Inserir > Tabela",
+        "Guia Página Inicial > Negrito",
+        "Guia Referências > Sumário",
+        "Guia Exibir > Modo de Leitura"
+      ],
+      "correta": 0,
+      "explicacao": "A tabela é inserida pela guia Inserir, na opção Tabela."
+    },
+    {
+      "id": 2,
+      "pergunta": "O que faz a opção \"Mesclar Células\"?",
+      "alternativas": [
+        "Une duas ou mais células em uma única célula",
+        "Divide uma célula em várias",
+        "Apaga o conteúdo das células",
+        "Colore as células selecionadas"
+      ],
+      "correta": 0,
+      "explicacao": "Mesclar células combina células selecionadas em uma só, útil para unir colunas."
+    },
+    {
+      "id": 3,
+      "pergunta": "Como adicionar linhas abaixo de uma linha existente na tabela?",
+      "alternativas": [
+        "Na aba Layout da tabela, clicar em \"Inserir Abaixo\"",
+        "Na guia Inserir, clicar em Imagens",
+        "Na guia Página Inicial, clicar em Negrito",
+        "Na aba Exibir, clicar em Régua"
+      ],
+      "correta": 0,
+      "explicacao": "Com a tabela selecionada, a aba Layout oferece a opção \"Inserir Abaixo\" para adicionar linhas."
+    },
+    {
+      "id": 4,
+      "pergunta": "Onde aplicar sombreamento (cor de fundo) em uma linha da tabela?",
+      "alternativas": [
+        "Na aba Design de Tabela > Sombreamento",
+        "Na guia Inserir > Tabela",
+        "Na guia Referências > Nota de Rodapé",
+        "Na guia Exibir > Layout de Impressão"
+      ],
+      "correta": 0,
+      "explicacao": "O sombreamento de células ou linhas é aplicado na aba Design de Tabela."
+    },
+    {
+      "id": 5,
+      "pergunta": "O que faz a opção \"Todas as Bordas\" na tabela?",
+      "alternativas": [
+        "Aplica bordas em todas as células da tabela",
+        "Remove todas as linhas da tabela",
+        "Mescla todas as células",
+        "Centraliza o conteúdo da tabela"
+      ],
+      "correta": 0,
+      "explicacao": "\"Todas as Bordas\" desenha linhas ao redor de todas as células, destacando a estrutura da tabela."
+    },
+    {
+      "id": 6,
+      "pergunta": "Onde escolher um estilo pronto para a tabela?",
+      "alternativas": [
+        "Na aba Design de Tabela > Estilos de Tabela",
+        "Na guia Inserir > Tabela",
+        "Na guia Página Inicial > Parágrafo",
+        "Na aba Layout > Inserir Abaixo"
+      ],
+      "correta": 0,
+      "explicacao": "Os estilos predefinidos ficam na seção \"Estilos de Tabela\" da aba Design de Tabela."
+    },
+    {
+      "id": 7,
+      "pergunta": "Quais abas aparecem quando a tabela está selecionada?",
+      "alternativas": [
+        "Design de Tabela e Layout",
+        "Inserir e Exibir",
+        "Referências e Correspondências",
+        "Arquivo e Opções"
+      ],
+      "correta": 0,
+      "explicacao": "Com a tabela selecionada, o Word exibe as abas contextuais Design de Tabela e Layout."
+    },
+    {
+      "id": 8,
+      "pergunta": "Como centralizar o conteúdo das células de uma coluna?",
+      "alternativas": [
+        "Selecionar as células e clicar no ícone de centralizar na guia Página Inicial",
+        "Pressionar Ctrl + Enter em cada célula",
+        "Aplicar sombreamento nas células",
+        "Clicar com o botão direito e mesclar"
+      ],
+      "correta": 0,
+      "explicacao": "O alinhamento central do conteúdo é feito pelo ícone de centralizar na guia Página Inicial."
+    }
+  ]
+}

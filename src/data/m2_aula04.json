@@ -1,0 +1,105 @@
+{
+  "titulo": "Aula 04 — Trabalhando com Listas e Numeração",
+  "descricao": "Criar e personalizar listas com marcadores, numeração e organização do documento",
+  "tempo": 10,
+  "dificuldade": "Média",
+  "modulo": "Módulo 2 — Microsoft Word",
+  "perguntas": [
+    {
+      "id": 1,
+      "pergunta": "Onde fica o botão de \"Marcadores\" no Word?",
+      "alternativas": [
+        "Na guia Página Inicial, no grupo Parágrafo",
+        "Na guia Inserir, no grupo Ilustrações",
+        "Na aba Referências, no grupo Citações",
+        "Na aba Exibir, no grupo Janela"
+      ],
+      "correta": 0,
+      "explicacao": "O botão de marcadores está na guia Página Inicial, dentro do grupo Parágrafo."
+    },
+    {
+      "id": 2,
+      "pergunta": "Como personalizar o símbolo dos marcadores da lista?",
+      "alternativas": [
+        "Clicar com o botão direito no marcador e escolher \"Definir novo marcador\"",
+        "Pressionar F7 para trocar o símbolo",
+        "Inserir uma tabela no lugar da lista",
+        "Salvar o documento como PDF"
+      ],
+      "correta": 0,
+      "explicacao": "Pelo menu de contexto \"Definir novo marcador\" você escolhe um símbolo novo na janela Símbolo."
+    },
+    {
+      "id": 3,
+      "pergunta": "Qual estilo de numeração foi usado na lista numerada do exercício?",
+      "alternativas": [
+        "1, 2, 3",
+        "A, B, C",
+        "I, II, III",
+        "•, •, •"
+      ],
+      "correta": 0,
+      "explicacao": "O exercício aplicou o estilo de numeração simples \"1, 2, 3\"."
+    },
+    {
+      "id": 4,
+      "pergunta": "Como alterar a cor dos números de uma lista numerada?",
+      "alternativas": [
+        "Clicar com o botão direito em um número e escolher Fonte",
+        "Pressionar Ctrl + I no número",
+        "Aplicar sombreamento na lista",
+        "Salvar o documento como PDF"
+      ],
+      "correta": 0,
+      "explicacao": "O menu de contexto > Fonte permite alterar a cor dos números da lista."
+    },
+    {
+      "id": 5,
+      "pergunta": "Como salvar o documento no formato PDF?",
+      "alternativas": [
+        "Arquivo > Salvar Como e escolher o formato PDF",
+        "Página Inicial > Negrito",
+        "Inserir > Tabela",
+        "Exibir > Modo de Leitura"
+      ],
+      "correta": 0,
+      "explicacao": "Em Arquivo > Salvar Como você seleciona o tipo de arquivo PDF (*.pdf) na lista de formatos."
+    },
+    {
+      "id": 6,
+      "pergunta": "O que são listas com marcadores?",
+      "alternativas": [
+        "Itens apresentados com pontos, sem ordem obrigatória",
+        "Itens numerados em sequência exata",
+        "Tabelas com várias colunas",
+        "Imagens inseridas no texto"
+      ],
+      "correta": 0,
+      "explicacao": "Listas com marcadores usam pontos e servem para itens sem necessidade de ordenação."
+    },
+    {
+      "id": 7,
+      "pergunta": "Qual a principal utilidade da lista numerada?",
+      "alternativas": [
+        "Mostrar a ordem ou sequência de etapas",
+        "Ocultar o conteúdo do texto",
+        "Inserir uma imagem na página",
+        "Definir o tamanho da fonte"
+      ],
+      "correta": 0,
+      "explicacao": "A lista numerada indica sequência e ordem, ideal para passos e etapas."
+    },
+    {
+      "id": 8,
+      "pergunta": "Como centralizar o título do documento no topo da página?",
+      "alternativas": [
+        "Selecionar o título e clicar no ícone de centralizar",
+        "Pressionar Ctrl + Enter",
+        "Aplicar F7",
+        "Salvar como PDF"
+      ],
+      "correta": 0,
+      "explicacao": "O título é centralizado selecionando-o e clicando no ícone de centralização da guia Página Inicial."
+    }
+  ]
+}

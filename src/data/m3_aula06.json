@@ -1,0 +1,105 @@
+{
+  "titulo": "Aula 06 — Gráficos no Excel",
+  "descricao": "Criar gráficos de colunas, linhas, pizza e barras",
+  "tempo": 12,
+  "dificuldade": "Média",
+  "modulo": "Módulo 3 — Microsoft Excel",
+  "perguntas": [
+    {
+      "id": 1,
+      "pergunta": "Em qual guia você insere um gráfico no Excel?",
+      "alternativas": [
+        "Guia Inserir",
+        "Guia Dados",
+        "Guia Fórmulas",
+        "Guia Exibir"
+      ],
+      "correta": 0,
+      "explicacao": "Os gráficos são inseridos pela guia Inserir."
+    },
+    {
+      "id": 2,
+      "pergunta": "Qual tipo de gráfico é ideal para comparar vendas por vendedor?",
+      "alternativas": [
+        "Gráfico de Colunas",
+        "Gráfico de Pizza",
+        "Gráfico de Dispersão",
+        "Gráfico de Área"
+      ],
+      "correta": 0,
+      "explicacao": "O gráfico de colunas compara categorias (vendedores) por meio de barras verticais."
+    },
+    {
+      "id": 3,
+      "pergunta": "Qual gráfico mostra a evolução de dados ao longo do tempo?",
+      "alternativas": [
+        "Gráfico de Linhas",
+        "Gráfico de Colunas",
+        "Gráfico de Pizza",
+        "Gráfico de Barras"
+      ],
+      "correta": 0,
+      "explicacao": "O gráfico de linhas é usado para mostrar tendências e evolução ao longo de períodos."
+    },
+    {
+      "id": 4,
+      "pergunta": "Qual gráfico é mais adequado para mostrar a composição de despesas (percentuais)?",
+      "alternativas": [
+        "Gráfico de Pizza",
+        "Gráfico de Colunas",
+        "Gráfico de Linhas",
+        "Gráfico de Barras"
+      ],
+      "correta": 0,
+      "explicacao": "O gráfico de pizza mostra partes de um todo, com fatias proporcionais e porcentagens."
+    },
+    {
+      "id": 5,
+      "pergunta": "Como adicionar os rótulos de dados ao gráfico?",
+      "alternativas": [
+        "Clicar no botão \"+\" (Elementos de Gráfico) e marcar \"Rótulos de Dados\"",
+        "Pressionar F7 sobre o gráfico",
+        "Inserir uma nova planilha",
+        "Aplicar negrito ao gráfico"
+      ],
+      "correta": 0,
+      "explicacao": "Os rótulos são adicionados em Elementos de Gráfico (botão +), marcando Rótulos de Dados."
+    },
+    {
+      "id": 6,
+      "pergunta": "Como alterar o título de um gráfico?",
+      "alternativas": [
+        "Clicar duas vezes no título e digitar o novo",
+        "Pressionar Ctrl + Enter",
+        "Aplicar negrito",
+        "Inserir outra série"
+      ],
+      "correta": 0,
+      "explicacao": "Dê um duplo clique no título do gráfico para editá-lo."
+    },
+    {
+      "id": 7,
+      "pergunta": "Qual departamento teve a barra mais longa no gráfico de tempo de atendimento?",
+      "alternativas": [
+        "Suporte (32 min)",
+        "Financeiro (25 min)",
+        "Vendas (15 min)",
+        "RH (18 min)"
+      ],
+      "correta": 0,
+      "explicacao": "Suporte, com 32 minutos, é o departamento com o maior tempo médio de atendimento."
+    },
+    {
+      "id": 8,
+      "pergunta": "Em um gráfico de barras, as barras ficam:",
+      "alternativas": [
+        "Na horizontal",
+        "Na vertical",
+        "Em círculo",
+        "Em linha diagonal"
+      ],
+      "correta": 0,
+      "explicacao": "No gráfico de barras as barras são horizontais; no de colunas, verticais."
+    }
+  ]
+}

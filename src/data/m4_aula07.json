@@ -1,0 +1,105 @@
+{
+  "titulo": "Aula 07 — Apresentação Multimídia",
+  "descricao": "Inserir e configurar vídeo, áudio e gravação de tela no PowerPoint",
+  "tempo": 15,
+  "dificuldade": "Difícil",
+  "modulo": "Módulo 4 — Microsoft PowerPoint",
+  "perguntas": [
+    {
+      "id": 1,
+      "pergunta": "Onde inserir um vídeo no PowerPoint?",
+      "alternativas": [
+        "Na guia Inserir > Mídia > Vídeo",
+        "Na guia Design > Temas",
+        "Na guia Transições > Empurrar",
+        "Na guia Exibir > Régua"
+      ],
+      "correta": 0,
+      "explicacao": "O vídeo é inserido pela guia Inserir, no grupo Mídia > Vídeo."
+    },
+    {
+      "id": 2,
+      "pergunta": "Como fazer o vídeo iniciar automaticamente ao exibir o slide?",
+      "alternativas": [
+        "Selecionar o vídeo e configurar na guia Reprodução para Iniciar automaticamente",
+        "Pressionar F7",
+        "Aplicar uma transição",
+        "Inserir um áudio"
+      ],
+      "correta": 0,
+      "explicacao": "Na guia Reprodução, a opção Iniciar automaticamente faz o vídeo tocar ao exibir o slide."
+    },
+    {
+      "id": 3,
+      "pergunta": "O que é o modo loop de um vídeo?",
+      "alternativas": [
+        "Reproduz o vídeo repetidamente sem parar ao final",
+        "Pausa o vídeo automaticamente",
+        "Avança para o próximo slide",
+        "Diminui o volume do vídeo"
+      ],
+      "correta": 0,
+      "explicacao": "Loop faz o vídeo recomeçar ao atingir o fim, repetindo enquanto o slide é exibido."
+    },
+    {
+      "id": 4,
+      "pergunta": "Como inserir um áudio no slide?",
+      "alternativas": [
+        "Guia Inserir > Mídia > Áudio > Áudio no meu PC",
+        "Guia Design > Alterar Cores",
+        "Guia Transições > Cubos",
+        "Guia Exibir > Janela"
+      ],
+      "correta": 0,
+      "explicacao": "O áudio é inserido em Inserir > Mídia > Áudio, escolhendo o arquivo do computador."
+    },
+    {
+      "id": 5,
+      "pergunta": "Como fazer o áudio tocar em vários slides?",
+      "alternativas": [
+        "Definir a reprodução para \"Tocar em Todos os slides\" na guia Reprodução",
+        "Inserir um novo áudio em cada slide",
+        "Salvar o arquivo como PDF",
+        "Aplicar uma animação"
+      ],
+      "correta": 0,
+      "explicacao": "A opção \"Tocar em Todos os slides\" mantém o áudio tocando enquanto você navega."
+    },
+    {
+      "id": 6,
+      "pergunta": "Como gravar a tela no PowerPoint?",
+      "alternativas": [
+        "Guia Inserir > Mídia > Gravação de Tela",
+        "Guia Transições > Desfoque",
+        "Guia Animações > Girar",
+        "Guia Exibir > Régua"
+      ],
+      "correta": 0,
+      "explicacao": "A gravação de tela está em Inserir > Mídia > Gravação de Tela."
+    },
+    {
+      "id": 7,
+      "pergunta": "Qual a vantagem de usar vídeos, áudios e gravações de tela?",
+      "alternativas": [
+        "Tornam a apresentação mais eficaz e interessante",
+        "Reduzem o número de slides",
+        "Automatizam as notas de orador",
+        "Eliminam a necessidade de imagens"
+      ],
+      "correta": 0,
+      "explicacao": "Conteúdo multimídia torna a apresentação mais envolvente e clara para o público."
+    },
+    {
+      "id": 8,
+      "pergunta": "O que fazer se houver problema de compatibilidade de formato de mídia?",
+      "alternativas": [
+        "Usar formatos compatíveis, como MP4 e MP3",
+        "Apagar a mídia do slide",
+        "Aplicar uma transição",
+        "Salvar como .pptx"
+      ],
+      "correta": 0,
+      "explicacao": "Formatos como MP4 (vídeo) e MP3 (áudio) garantem compatibilidade entre computadores."
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "titulo": "Aula 03 — Funções Básicas",
+  "descricao": "Funções SOMA, MÉDIA, MÁXIMO e MÍNIMO para cálculo de vendas",
+  "tempo": 12,
+  "dificuldade": "Média",
+  "modulo": "Módulo 3 — Microsoft Excel",
+  "perguntas": [
+    {
+      "id": 1,
+      "pergunta": "Qual função calcula o total de vendas do mês?",
+      "alternativas": [
+        "=SOMA(B2:B11)",
+        "=MÉDIA(B2:B11)",
+        "=MÁXIMO(B2:B11)",
+        "=MÍNIMO(B2:B11)"
+      ],
+      "correta": 0,
+      "explicacao": "A função SOMA adiciona todos os valores do intervalo B2:B11, dando o total."
+    },
+    {
+      "id": 2,
+      "pergunta": "Qual função calcula a média de vendas diárias?",
+      "alternativas": [
+        "=MÉDIA(B2:B11)",
+        "=SOMA(B2:B11)",
+        "=MÁXIMO(B2:B11)",
+        "=MÍNIMO(B2:B11)"
+      ],
+      "correta": 0,
+      "explicacao": "A função MÉDIA retorna a média aritmética do intervalo."
+    },
+    {
+      "id": 3,
+      "pergunta": "Qual função encontra o maior valor de venda do mês?",
+      "alternativas": [
+        "=MÁXIMO(B2:B11)",
+        "=MÍNIMO(B2:B11)",
+        "=MÉDIA(B2:B11)",
+        "=SOMA(B2:B11)"
+      ],
+      "correta": 0,
+      "explicacao": "A função MÁXIMO retorna o maior número do intervalo."
+    },
+    {
+      "id": 4,
+      "pergunta": "Qual função encontra o menor valor de venda do mês?",
+      "alternativas": [
+        "=MÍNIMO(B2:B11)",
+        "=MÁXIMO(B2:B11)",
+        "=SOMA(B2:B11)",
+        "=MÉDIA(B2:B11)"
+      ],
+      "correta": 0,
+      "explicacao": "A função MÍNIMO retorna o menor número do intervalo."
+    },
+    {
+      "id": 5,
+      "pergunta": "Com os valores 150, 200, 180, 220, 250, 190, 210, 230, 240 e 260, qual é o total?",
+      "alternativas": [
+        "R$ 2.130,00",
+        "R$ 213,00",
+        "R$ 260,00",
+        "R$ 150,00"
+      ],
+      "correta": 0,
+      "explicacao": "Somando todos os valores de vendas obtemos R$ 2.130,00."
+    },
+    {
+      "id": 6,
+      "pergunta": "Qual é a média das vendas diárias do exercício?",
+      "alternativas": [
+        "R$ 213,00",
+        "R$ 2.130,00",
+        "R$ 260,00",
+        "R$ 150,00"
+      ],
+      "correta": 0,
+      "explicacao": "A média é o total (2.130) dividido por 10 dias, resultando em R$ 213,00."
+    },
+    {
+      "id": 7,
+      "pergunta": "Quantas células o intervalo B2:B11 possui?",
+      "alternativas": [
+        "10",
+        "5",
+        "12",
+        "2"
+      ],
+      "correta": 0,
+      "explicacao": "O intervalo de B2 até B11 contém 10 células (de 2 a 11)."
+    },
+    {
+      "id": 8,
+      "pergunta": "O que a função MÉDIA faz com uma célula vazia no intervalo?",
+      "alternativas": [
+        "Desconsidera a célula vazia no cálculo",
+        "Considera a célula vazia como zero",
+        "Retorna um erro",
+        "Soma o dobro do valor"
+      ],
+      "correta": 0,
+      "explicacao": "A MÉDIA ignora células vazias ao calcular a média do intervalo."
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "titulo": "Aula 05 — Classificação e Filtros",
+  "descricao": "Classificar dados, filtros básicos, filtros avançados e análise de vendas",
+  "tempo": 12,
+  "dificuldade": "Difícil",
+  "modulo": "Módulo 3 — Microsoft Excel",
+  "perguntas": [
+    {
+      "id": 1,
+      "pergunta": "Onde fica a ferramenta \"Classificar\" no Excel?",
+      "alternativas": [
+        "Guia Dados > Classificar",
+        "Guia Página Inicial > Negrito",
+        "Guia Inserir > Tabela",
+        "Guia Exibir > Congelar"
+      ],
+      "correta": 0,
+      "explicacao": "A classificação dos dados é feita na guia Dados > Classificar."
+    },
+    {
+      "id": 2,
+      "pergunta": "Qual atalho ativa o filtro da tabela?",
+      "alternativas": [
+        "Ctrl + Shift + L",
+        "Ctrl + B",
+        "Ctrl + K",
+        "F7"
+      ],
+      "correta": 0,
+      "explicacao": "O atalho Ctrl + Shift + L (ou Dados > Filtro) adiciona os filtros no cabeçalho."
+    },
+    {
+      "id": 3,
+      "pergunta": "Para classificar por Categoria (A a Z) e depois por Preço (maior para menor), quais critérios usar?",
+      "alternativas": [
+        "1º Categoria, 2º Preço descendente",
+        "1º Preço, 2º Categoria",
+        "Somente por Data",
+        "Somente por Vendedor"
+      ],
+      "correta": 0,
+      "explicacao": "Ordene primeiro por Categoria e depois por Preço, do maior para o menor."
+    },
+    {
+      "id": 4,
+      "pergunta": "Como aplicar um filtro múltiplo (Eletrônico e Quantidade maior que 5)?",
+      "alternativas": [
+        "Filtrar por Categoria e depois aplicar \"Maior que\" na Quantidade",
+        "Apagar as células de Eletrônicos",
+        "Ordenar por preço crescente",
+        "Inserir um gráfico de pizza"
+      ],
+      "correta": 0,
+      "explicacao": "Múltiplos filtros combinam critérios, como Categoria = Eletrônico e Quantidade > 5."
+    },
+    {
+      "id": 5,
+      "pergunta": "O que a Formatação Condicional com \"Realçar Células > Maior que 7\" faz?",
+      "alternativas": [
+        "Destaca em cor as células com valor maior que 7",
+        "Remove as células com valor maior que 7",
+        "Soma as células maiores que 7",
+        "Ordena os dados por quantidade"
+      ],
+      "correta": 0,
+      "explicacao": "A regra realça automaticamente as células cujo valor é maior que 7."
+    },
+    {
+      "id": 6,
+      "pergunta": "Qual símbolo no cabeçalho indica que a coluna possui filtro ativo?",
+      "alternativas": [
+        "Um ícone de funil (▼) no cabeçalho",
+        "Um sino amarelo",
+        "Uma seta verde para baixo",
+        "Um ponto vermelho"
+      ],
+      "correta": 0,
+      "explicacao": "O ícone de funil (▼) no cabeçalho indica que há um filtro disponível/ativo na coluna."
+    },
+    {
+      "id": 7,
+      "pergunta": "Qual função soma a coluna de quantidades (E5:E40)?",
+      "alternativas": [
+        "=SOMA(E5:E40)",
+        "=MÉDIA(E5:E40)",
+        "=MÁXIMO(E5:E40)",
+        "=MÍNIMO(E5:E40)"
+      ],
+      "correta": 0,
+      "explicacao": "A função SOMA adiciona todos os valores de quantidades do intervalo E5:E40."
+    },
+    {
+      "id": 8,
+      "pergunta": "Para que serve classificar os dados em uma análise de negócios?",
+      "alternativas": [
+        "Organizar e identificar os produtos mais vendidos rapidamente",
+        "Apagar os dados que não interessam",
+        "Criar uma nova planilha",
+        "Aumentar o tamanho das fontes"
+      ],
+      "correta": 0,
+      "explicacao": "Classificar organiza os dados para facilitar a identificação de tendências e prioridades."
+    }
+  ]
+}

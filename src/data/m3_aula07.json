@@ -1,0 +1,117 @@
+{
+  "titulo": "Aula 07 — Tabelas Dinâmicas",
+  "descricao": "Criar tabelas dinâmicas, médias por sede, faixas etárias e segmentações",
+  "tempo": 15,
+  "dificuldade": "Difícil",
+  "modulo": "Módulo 3 — Microsoft Excel",
+  "perguntas": [
+    {
+      "id": 1,
+      "pergunta": "Onde criar uma Tabela Dinâmica no Excel?",
+      "alternativas": [
+        "Guia Inserir > Tabela Dinâmica",
+        "Guia Dados > Classificar",
+        "Guia Fórmulas > Autosoma",
+        "Guia Exibir > Congelar Painéis"
+      ],
+      "correta": 0,
+      "explicacao": "A Tabela Dinâmica é inserida pela guia Inserir > Tabela Dinâmica."
+    },
+    {
+      "id": 2,
+      "pergunta": "Para contar funcionários por tipo de contrato, o que colocar em Linhas e Valores?",
+      "alternativas": [
+        "contrato nas Linhas e nome nos Valores",
+        "nome nas Linhas e salário nos Valores",
+        "sede nas Linhas e data nos Valores",
+        "idade nas Linhas e contrato nos Valores"
+      ],
+      "correta": 0,
+      "explicacao": "Para contar por contrato, arraste contrato para Linhas e nome para Valores (Contagem)."
+    },
+    {
+      "id": 3,
+      "pergunta": "Como calcular a média salarial por sede em uma Tabela Dinâmica?",
+      "alternativas": [
+        "Colocar sede em Linhas e salário em Valores, alterando para Média",
+        "Somente colocar salário em Valores",
+        "Usar a função MÁXIMO",
+        "Inserir uma segmentação de salário"
+      ],
+      "correta": 0,
+      "explicacao": "No painel, mude a agregação de \"Soma\" para \"Média\" nas Configurações do Campo de Valor."
+    },
+    {
+      "id": 4,
+      "pergunta": "Qual fórmula calcula a idade de um funcionário no Excel?",
+      "alternativas": [
+        "=INT((HOJE()-[@dt_nasc])/365)",
+        "=SOMA([@salario])",
+        "=MÉDIA([@idade])",
+        "=HOJE()-365"
+      ],
+      "correta": 0,
+      "explicacao": "A fórmula calcula a diferença entre a data atual e a data de nascimento, dividida por 365."
+    },
+    {
+      "id": 5,
+      "pergunta": "Como transformar os dados em uma Tabela do Excel?",
+      "alternativas": [
+        "Selecionar os dados e usar Inserir > Tabela",
+        "Pressionar F7 na seleção",
+        "Aplicar bordas duplas",
+        "Classificar por ordem"
+      ],
+      "correta": 0,
+      "explicacao": "A opção Inserir > Tabela converte a faixa em uma Tabela, marcando \"minha tabela tem cabeçalhos\"."
+    },
+    {
+      "id": 6,
+      "pergunta": "O que é uma segmentação de dados?",
+      "alternativas": [
+        "Um filtro visual que permite filtrar a tabela dinâmica com um clique",
+        "Um gráfico de pizza",
+        "Uma fórmula de soma",
+        "Uma tabela de médias"
+      ],
+      "correta": 0,
+      "explicacao": "A segmentação é um painel com botões para filtrar dados de forma interativa e visual."
+    },
+    {
+      "id": 7,
+      "pergunta": "Como conectar uma segmentação a outras tabelas dinâmicas?",
+      "alternativas": [
+        "Clicar com o botão direito na segmentação e usar Conexões de Relatório",
+        "Inserir uma nova Tabela Dinâmica",
+        "Aplicar Formatação Condicional",
+        "Usar a função MÉDIA"
+      ],
+      "correta": 0,
+      "explicacao": "Em Conexões de Relatório você marca outras tabelas dinâmicas para o filtro valer nelas."
+    },
+    {
+      "id": 8,
+      "pergunta": "O que é um Dashboard no Excel?",
+      "alternativas": [
+        "Uma planilha que reúne gráficos e segmentações para análise visual",
+        "Uma fórmula de cálculo de médias",
+        "Um tipo de gráfico de pizza",
+        "Uma planilha de texto puro"
+      ],
+      "correta": 0,
+      "explicacao": "O dashboard organiza gráficos e filtros em blocos visuais para facilitar a interpretação."
+    },
+    {
+      "id": 9,
+      "pergunta": "Como criar a coluna \"faixa_etaria\" com base na idade?",
+      "alternativas": [
+        "Usar a função SE com condições de idade",
+        "Usar a função SOMA",
+        "Usar a função MÉDIA",
+        "Inserir um gráfico"
+      ],
+      "correta": 0,
+      "explicacao": "A função SE classifica a idade em faixas, como <30, 30-45 e >45."
+    }
+  ]
+}

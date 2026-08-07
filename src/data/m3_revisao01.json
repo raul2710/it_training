@@ -1,0 +1,129 @@
+{
+  "titulo": "Revisão — Computadores, Segurança Digital e Ferramentas de Escritório",
+  "descricao": "Revisão de conceitos de computação, segurança digital, Word e Excel",
+  "tempo": 15,
+  "dificuldade": "Média",
+  "modulo": "Módulo 3 — Microsoft Excel",
+  "perguntas": [
+    {
+      "id": 1,
+      "pergunta": "O que é um computador?",
+      "alternativas": [
+        "Uma máquina eletrônica que processa, armazena e transmite informações",
+        "Um dispositivo apenas para jogos",
+        "Um programa instalado na internet",
+        "Uma rede de conexão entre usuários"
+      ],
+      "correta": 0,
+      "explicacao": "O computador é uma máquina que processa, armazena e transmite informações sob instruções."
+    },
+    {
+      "id": 2,
+      "pergunta": "O que são ameaças digitais?",
+      "alternativas": [
+        "Riscos que podem prejudicar ou roubar dados e dispositivos",
+        "Ferramentas de proteção do sistema",
+        "Aplicativos de escritório",
+        "Técnicas de organização de arquivos"
+      ],
+      "correta": 0,
+      "explicacao": "Ameaças digitais são ações que comprometem a segurança de dados, contas e dispositivos."
+    },
+    {
+      "id": 3,
+      "pergunta": "O que é phishing?",
+      "alternativas": [
+        "Um golpe que engana o usuário para capturar dados pessoais",
+        "Uma ferramenta de antivírus",
+        "Um tipo de senha forte",
+        "Um navegador de internet"
+      ],
+      "correta": 0,
+      "explicacao": "Phishing usa mensagens falsas que imitam instituições para roubar senhas e dados."
+    },
+    {
+      "id": 4,
+      "pergunta": "Quais são dois exemplos de software?",
+      "alternativas": [
+        "Um navegador de internet e o Word",
+        "Processador e memória RAM",
+        "Monitor e teclado",
+        "Fonte de alimentação e monitor"
+      ],
+      "correta": 0,
+      "explicacao": "Software são programas e instruções; navegador e Word são exemplos deles."
+    },
+    {
+      "id": 5,
+      "pergunta": "Como centralizar o título no Microsoft Word?",
+      "alternativas": [
+        "Selecionar o texto e clicar em Centralizar na guia Página Inicial",
+        "Pressionar Ctrl + Enter",
+        "Aplicar F7",
+        "Salvar o documento como PDF"
+      ],
+      "correta": 0,
+      "explicacao": "O título é centralizado selecionando-o e usando o ícone de Centralizar."
+    },
+    {
+      "id": 6,
+      "pergunta": "O que acontece quando justificamos um parágrafo no Word?",
+      "alternativas": [
+        "O texto fica alinhado nas margens esquerda e direita",
+        "O texto é apagado",
+        "As letras viram maiúsculas",
+        "O parágrafo ganha numeração"
+      ],
+      "correta": 0,
+      "explicacao": "Justificar distribui o texto uniformemente tocando as duas margens."
+    },
+    {
+      "id": 7,
+      "pergunta": "Qual fórmula calcula a média das idades no Excel?",
+      "alternativas": [
+        "=MÉDIA(B2:B6)",
+        "=SOMA(B2:B6)",
+        "=MÁXIMO(B2:B6)",
+        "=MÍNIMO(B2:B6)"
+      ],
+      "correta": 0,
+      "explicacao": "A função MÉDIA retorna a média aritmética do intervalo B2:B6."
+    },
+    {
+      "id": 8,
+      "pergunta": "Como mudar a cor do cabeçalho (fundo) no Excel?",
+      "alternativas": [
+        "Selecionar as células e usar o preenchimento de cor na guia Página Inicial",
+        "Inserir um gráfico de pizza",
+        "Pressionar F7",
+        "Salvar como PDF"
+      ],
+      "correta": 0,
+      "explicacao": "O preenchimento (cor de fundo) das células é aplicado pelo ícone de preenchimento na guia Página Inicial."
+    },
+    {
+      "id": 9,
+      "pergunta": "Qual formato de arquivo é usado para salvar no Word e no Excel, respectivamente?",
+      "alternativas": [
+        ".docx e .xlsx",
+        ".pdf e .docx",
+        ".xlsx e .pptx",
+        ".txt e .csv"
+      ],
+      "correta": 0,
+      "explicacao": "O Word salva em .docx e o Excel em .xlsx."
+    },
+    {
+      "id": 10,
+      "pergunta": "Quais são três partes do computador que você pode tocar (hardware)?",
+      "alternativas": [
+        "Mouse, teclado e monitor",
+        "Word, Excel e PowerPoint",
+        "Vírus, spam e phishing",
+        "HTML, CSS e JavaScript"
+      ],
+      "correta": 0,
+      "explicacao": "Mouse, teclado e monitor são componentes físicos (hardware) tangíveis."
+    }
+  ]
+}

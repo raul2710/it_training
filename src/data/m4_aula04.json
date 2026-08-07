@@ -1,0 +1,105 @@
+{
+  "titulo": "Aula 04 — Transições e Animações",
+  "descricao": "Transições entre slides e animações de elementos para deixar a apresentação dinâmica",
+  "tempo": 10,
+  "dificuldade": "Média",
+  "modulo": "Módulo 4 — Microsoft PowerPoint",
+  "perguntas": [
+    {
+      "id": 1,
+      "pergunta": "O que são transições no PowerPoint?",
+      "alternativas": [
+        "Efeitos visuais aplicados na troca de um slide para o outro",
+        "Animações dentro de um mesmo slide",
+        "Fontes e cores do texto",
+        "Tabelas e SmartArt"
+      ],
+      "correta": 0,
+      "explicacao": "Transições são efeitos exibidos ao passar de um slide para o próximo."
+    },
+    {
+      "id": 2,
+      "pergunta": "Onde aplicar uma transição a um slide?",
+      "alternativas": [
+        "Na guia Transições",
+        "Na guia Inserir > Imagem",
+        "Na guia Design > Temas",
+        "Na guia Exibir > Régua"
+      ],
+      "correta": 0,
+      "explicacao": "As transições são aplicadas pela guia Transições, escolhendo o efeito desejado."
+    },
+    {
+      "id": 3,
+      "pergunta": "O que são animações em um slide?",
+      "alternativas": [
+        "Efeitos aplicados aos elementos do slide para aparecerem ou se moverem",
+        "Efeitos na troca de slides",
+        "Cor de fundo do slide",
+        "Estilos de fonte"
+      ],
+      "correta": 0,
+      "explicacao": "Animações aplicam movimento ou aparecimento a textos, imagens e objetos dentro do slide."
+    },
+    {
+      "id": 4,
+      "pergunta": "Qual guia contém as opções de animação dos elementos?",
+      "alternativas": [
+        "Animações",
+        "Transições",
+        "Exibir",
+        "Arquivo"
+      ],
+      "correta": 0,
+      "explicacao": "As animações dos elementos são configuradas na guia Animações."
+    },
+    {
+      "id": 5,
+      "pergunta": "Como fazer cada item de uma lista aparecer um de cada vez?",
+      "alternativas": [
+        "Aplicar a animação a cada item, por exemplo \"Deslizar para cima\"",
+        "Aplicar uma transição de slide",
+        "Inserir uma tabela",
+        "Alterar o tema"
+      ],
+      "correta": 0,
+      "explicacao": "Aplicando animação individual a cada item, ele aparece em sequência."
+    },
+    {
+      "id": 6,
+      "pergunta": "Para que serve o botão \"Visualizar\" em transições e animações?",
+      "alternativas": [
+        "Assistir ao efeito antes de fixá-lo",
+        "Salvar a apresentação",
+        "Inserir uma imagem",
+        "Alterar a fonte"
+      ],
+      "correta": 0,
+      "explicacao": "Visualizar permite conferir como o efeito ficará na apresentação."
+    },
+    {
+      "id": 7,
+      "pergunta": "Por que não se deve exagerar em animações e transições?",
+      "alternativas": [
+        "Excesso pode distrair o público e prejudicar o conteúdo",
+        "Tornam a apresentação mais profissional sempre",
+        "São obrigatórias em todo slide",
+        "Aceleram a apresentação"
+      ],
+      "correta": 0,
+      "explicacao": "Animações em excesso desviam a atenção; o equilíbrio mantém o foco no conteúdo."
+    },
+    {
+      "id": 8,
+      "pergunta": "O que a animação \"Girar\" faz com um elemento?",
+      "alternativas": [
+        "Faz o elemento girar ao entrar na tela",
+        "Desliza o elemento para cima",
+        "Apaga o elemento",
+        "Reproduz um áudio"
+      ],
+      "correta": 0,
+      "explicacao": "O efeito Girar aplica rotação ao elemento durante sua exibição."
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "titulo": "Aula 03 — Trabalhando com Imagens",
+  "descricao": "Imagem de fundo, estilos, efeitos, recorte, alinhamento e transparência",
+  "tempo": 12,
+  "dificuldade": "Média",
+  "modulo": "Módulo 4 — Microsoft PowerPoint",
+  "perguntas": [
+    {
+      "id": 1,
+      "pergunta": "Como usar uma imagem como plano de fundo do slide?",
+      "alternativas": [
+        "Redimensionar a imagem para cobrir o slide e usar Enviar para Trás",
+        "Pressionar Ctrl + M na imagem",
+        "Inserir uma tabela atrás da imagem",
+        "Aplicar a transição Corte"
+      ],
+      "correta": 0,
+      "explicacao": "Redimensione a imagem até cobrir o slide e use Formatar > Enviar para Trás."
+    },
+    {
+      "id": 2,
+      "pergunta": "Como redimensionar uma imagem sem distorcer?",
+      "alternativas": [
+        "Mantendo a tecla Ctrl pressionada ao ajustar o tamanho",
+        "Arrastando apenas a borda lateral",
+        "Clicando duas vezes na imagem",
+        "Aplicando sombra à imagem"
+      ],
+      "correta": 0,
+      "explicacao": "Segurar Ctrl enquanto redimensiona mantém a proporção e evita distorções."
+    },
+    {
+      "id": 3,
+      "pergunta": "Onde aplicar estilos como moldura, sombra ou reflexo na imagem?",
+      "alternativas": [
+        "Na guia Formatar > Estilos de Imagem",
+        "Na guia Inserir > Imagem",
+        "Na guia Transições",
+        "Na guia Apresentação de Slides"
+      ],
+      "correta": 0,
+      "explicacao": "Os estilos prontos ficam na guia Formatar, na seção Estilos de Imagem."
+    },
+    {
+      "id": 4,
+      "pergunta": "Onde ajustar brilho e contraste de uma imagem?",
+      "alternativas": [
+        "Na guia Formatar > Correções",
+        "Na guia Design > Temas",
+        "Na guia Animações > Aparecer",
+        "Na guia Exibir > Régua"
+      ],
+      "correta": 0,
+      "explicacao": "Brilho, contraste e saturação são ajustados na guia Formatar > Correções."
+    },
+    {
+      "id": 5,
+      "pergunta": "Como recortar uma imagem em um formato (ex.: círculo)?",
+      "alternativas": [
+        "Formatar > Cortar > Cortar para Forma",
+        "Inserir > SmartArt",
+        "Página Inicial > Novo Slide",
+        "Transições > Cubos"
+      ],
+      "correta": 0,
+      "explicacao": "A opção Cortar para Forma recorta a imagem no formato escolhido, como círculo ou estrela."
+    },
+    {
+      "id": 6,
+      "pergunta": "Como organizar imagens alinhadas uniformemente no slide?",
+      "alternativas": [
+        "Usar as Ferramentas de Alinhamento na guia Formatar",
+        "Arrastar manualmente sem alinhamento",
+        "Inserir cada imagem em um slide novo",
+        "Aplicar transições diferentes"
+      ],
+      "correta": 0,
+      "explicacao": "As Ferramentas de Alinhamento (Formatar > Alinhar) posicionam as imagens de forma uniforme."
+    },
+    {
+      "id": 7,
+      "pergunta": "Como criar um fundo semitransparente atrás de uma legenda?",
+      "alternativas": [
+        "Inserir uma forma (retângulo) e ajustar a transparência em Formatar Forma",
+        "Aplicar negrito no texto",
+        "Inserir uma imagem de fundo",
+        "Usar a transição Desfoque"
+      ],
+      "correta": 0,
+      "explicacao": "Insira um retângulo, formate a forma e ajuste a transparência para destacar a legenda."
+    },
+    {
+      "id": 8,
+      "pergunta": "O que é importante ao adicionar texto sobre uma imagem?",
+      "alternativas": [
+        "Usar cores contrastantes para garantir legibilidade",
+        "Usar a mesma cor do fundo",
+        "Diminuir o tamanho da fonte",
+        "Centralizar sempre no canto"
+      ],
+      "correta": 0,
+      "explicacao": "Cores contrastantes garantem que o texto sobre a imagem permaneça legível."
+    }
+  ]
+}

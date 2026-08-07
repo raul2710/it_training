@@ -1,0 +1,105 @@
+{
+  "titulo": "Aula 05 — Criando e Formatando uma Tabela",
+  "descricao": "Inserir tabela, mesclar células, aplicar estilos, bordas e alinhamento",
+  "tempo": 12,
+  "dificuldade": "Média",
+  "modulo": "Módulo 4 — Microsoft PowerPoint",
+  "perguntas": [
+    {
+      "id": 1,
+      "pergunta": "Onde inserir uma tabela no PowerPoint?",
+      "alternativas": [
+        "Na guia Inserir > Tabela",
+        "Na guia Design > Temas",
+        "Na guia Transições",
+        "Na guia Animações"
+      ],
+      "correta": 0,
+      "explicacao": "A tabela é inserida pela guia Inserir, definindo colunas e linhas."
+    },
+    {
+      "id": 2,
+      "pergunta": "Como mesclar as células da primeira linha para criar um título?",
+      "alternativas": [
+        "Selecionar as células e clicar em Mesclar Células na guia Layout",
+        "Pressionar Ctrl + M",
+        "Aplicar um tema",
+        "Inserir SmartArt"
+      ],
+      "correta": 0,
+      "explicacao": "Selecionando a linha e usando Mesclar Células na guia Layout, o conteúdo vira um título amplo."
+    },
+    {
+      "id": 3,
+      "pergunta": "Onde escolher um estilo pré-definido para a tabela?",
+      "alternativas": [
+        "Na guia Design > Estilos de Tabela",
+        "Na guia Inserir > Tabela",
+        "Na guia Transições > Cubos",
+        "Na guia Animações > Aparecer"
+      ],
+      "correta": 0,
+      "explicacao": "Os estilos de tabela prontos ficam na guia Design, na seção de Estilos."
+    },
+    {
+      "id": 4,
+      "pergunta": "Onde ajustar o alinhamento (centralizar) do texto nas células?",
+      "alternativas": [
+        "Na guia Layout > Alinhamento",
+        "Na guia Inserir > Imagem",
+        "Na guia Animações > Deslizar",
+        "Na guia Exibir > Régua"
+      ],
+      "correta": 0,
+      "explicacao": "A opção de alinhamento do texto nas células fica na guia Layout da tabela."
+    },
+    {
+      "id": 5,
+      "pergunta": "Como adicionar bordas a todas as células da tabela?",
+      "alternativas": [
+        "Na guia Design > Bordas > Todas as Bordas",
+        "Pressionar Ctrl + B na tabela",
+        "Aplicar sombreamento no título",
+        "Inserir uma nova forma"
+      ],
+      "correta": 0,
+      "explicacao": "Em Design > Bordas, a opção \"Todas as Bordas\" garante linhas visíveis em todas as células."
+    },
+    {
+      "id": 6,
+      "pergunta": "Como destacar o título da tabela?",
+      "alternativas": [
+        "Alterar a cor de fundo da primeira linha e usar fonte de destaque",
+        "Apagar a primeira linha",
+        "Inserir uma imagem no título",
+        "Usar menor fonte possível"
+      ],
+      "correta": 0,
+      "explicacao": "Cor de fundo contrastante e fonte em destaque evidenciam o título da tabela."
+    },
+    {
+      "id": 7,
+      "pergunta": "Por que é importante manter a proporção ao redimensionar uma tabela?",
+      "alternativas": [
+        "Evita deformação dos dados e mantém a aparência equilibrada",
+        "Acelera a apresentação",
+        "Aumenta o número de linhas",
+        "Salva o arquivo automaticamente"
+      ],
+      "correta": 0,
+      "explicacao": "Manter a proporção preserva a organização visual e a legibilidade dos dados."
+    },
+    {
+      "id": 8,
+      "pergunta": "Qual a vantagem de usar tabelas em uma apresentação?",
+      "alternativas": [
+        "Organizam informações de forma clara e comparável",
+        "Substituem totalmente as imagens",
+        "Tornam o texto invisível",
+        "Criam animações automaticamente"
+      ],
+      "correta": 0,
+      "explicacao": "Tabelas organizam linhas e colunas, facilitando a comparação de dados."
+    }
+  ]
+}

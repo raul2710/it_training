@@ -1,0 +1,105 @@
+{
+  "titulo": "Aula 04 — O que é um Algoritmo?",
+  "descricao": "Sequência, decisão, repetição, entrada e saída em algoritmos",
+  "tempo": 12,
+  "dificuldade": "Difícil",
+  "modulo": "Módulo 5 — Computação em Nuvem e IA",
+  "perguntas": [
+    {
+      "id": 1,
+      "pergunta": "O que é um algoritmo?",
+      "alternativas": [
+        "Um conjunto de passos ordenados para resolver um problema",
+        "Apenas um programa de computador",
+        "Um dado armazenado na nuvem",
+        "Uma rede de internet"
+      ],
+      "correta": 0,
+      "explicacao": "Algoritmo é uma sequência ordenada de passos que resolve um problema, como uma receita."
+    },
+    {
+      "id": 2,
+      "pergunta": "O que são os dados de entrada de um algoritmo?",
+      "alternativas": [
+        "Dados ou valores que o algoritmo recebe para processar",
+        "O resultado produzido ao final",
+        "A ordem dos passos",
+        "Os erros do programa"
+      ],
+      "correta": 0,
+      "explicacao": "Entrada é o que o algoritmo recebe, como os ingredientes de uma receita, para processar."
+    },
+    {
+      "id": 3,
+      "pergunta": "O que é a saída de um algoritmo?",
+      "alternativas": [
+        "O resultado produzido após a execução dos passos",
+        "Os dados recebidos no início",
+        "A condição de repetição",
+        "O caminho percorrido"
+      ],
+      "correta": 0,
+      "explicacao": "Saída é o resultado final, como o bolo pronto no fim da receita."
+    },
+    {
+      "id": 4,
+      "pergunta": "Uma estrutura que verifica uma condição e segue caminhos diferentes é:",
+      "alternativas": [
+        "Decisão (Se/Senão)",
+        "Sequência",
+        "Repetição (Loop)",
+        "Entrada"
+      ],
+      "correta": 0,
+      "explicacao": "Decisão avalia uma condição e, conforme verdadeira ou falsa, segue caminhos diferentes."
+    },
+    {
+      "id": 5,
+      "pergunta": "O que é uma repetição (loop)?",
+      "alternativas": [
+        "Um bloco de passos que se repete enquanto uma condição for verdadeira",
+        "Passos executados uma única vez",
+        "A ordenação dos passos",
+        "O resultado final"
+      ],
+      "correta": 0,
+      "explicacao": "Repetição executa um bloco várias vezes enquanto a condição for verdadeira."
+    },
+    {
+      "id": 6,
+      "pergunta": "Acordar, escovar os dentes e depois tomar café, sempre nessa ordem, é um exemplo de:",
+      "alternativas": [
+        "Sequência",
+        "Decisão",
+        "Repetição",
+        "Saída"
+      ],
+      "correta": 0,
+      "explicacao": "Passos executados um após o outro, em ordem fixa, caracterizam uma sequência."
+    },
+    {
+      "id": 7,
+      "pergunta": "O semáforo alternando vermelho, amarelo e verde indefinidamente é um exemplo de:",
+      "alternativas": [
+        "Repetição (loop)",
+        "Sequência",
+        "Decisão",
+        "Entrada de dados"
+      ],
+      "correta": 0,
+      "explicacao": "A troca contínua de cores sem fim é uma repetição (loop) infinita."
+    },
+    {
+      "id": 8,
+      "pergunta": "O Instagram verifica se o usuário curtiu mais de 50% dos posts de um perfil para decidir o feed. Isso é uma estrutura de:",
+      "alternativas": [
+        "Decisão",
+        "Sequência",
+        "Repetição",
+        "Saída"
+      ],
+      "correta": 0,
+      "explicacao": "Verificar uma condição e tomar um caminho diferente é uma decisão."
+    }
+  ]
+}

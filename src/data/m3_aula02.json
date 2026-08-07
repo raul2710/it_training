@@ -1,0 +1,117 @@
+{
+  "titulo": "Aula 02 — Inserindo e Formatando Dados",
+  "descricao": "Tipos de dados, formatação de moeda, data, alinhamento, bordas e gráficos",
+  "tempo": 12,
+  "dificuldade": "Média",
+  "modulo": "Módulo 3 — Microsoft Excel",
+  "perguntas": [
+    {
+      "id": 1,
+      "pergunta": "Qual atalho formata as células como moeda?",
+      "alternativas": [
+        "Ctrl + Shift + $",
+        "Ctrl + Shift + 3",
+        "F7",
+        "Ctrl + B"
+      ],
+      "correta": 0,
+      "explicacao": "Ctrl + Shift + $ aplica o formato de moeda (R$) às células selecionadas."
+    },
+    {
+      "id": 2,
+      "pergunta": "Qual atalho aplica o formato de data às células selecionadas?",
+      "alternativas": [
+        "Ctrl + Shift + 3",
+        "Ctrl + Shift + $",
+        "Ctrl + N",
+        "Ctrl + I"
+      ],
+      "correta": 0,
+      "explicacao": "O atalho Ctrl + Shift + 3 aplica o formato de data ao conteúdo selecionado."
+    },
+    {
+      "id": 3,
+      "pergunta": "Como centralizar o título da tabela de forma mesclada?",
+      "alternativas": [
+        "Selecionar as células e clicar em Mesclar e Centralizar",
+        "Pressionar Ctrl + Enter",
+        "Inserir um gráfico de barras",
+        "Aplicar bordas duplas"
+      ],
+      "correta": 0,
+      "explicacao": "A opção \"Mesclar e Centralizar\" une as células e centraliza o conteúdo, criando um título."
+    },
+    {
+      "id": 4,
+      "pergunta": "Onde você aplica preenchimento (cor de fundo) aos cabeçalhos?",
+      "alternativas": [
+        "Formato de Célula > Preenchimento",
+        "Inserir > Gráfico de Barras",
+        "Dados > Classificar",
+        "Exibir > Congelar Painéis"
+      ],
+      "correta": 0,
+      "explicacao": "O preenchimento de fundo é definido em Formato de Célula > Preenchimento."
+    },
+    {
+      "id": 5,
+      "pergunta": "O que faz a função mesclar células em um título de tabela?",
+      "alternativas": [
+        "Une várias células em uma única, criando um título amplo",
+        "Apaga o título da tabela",
+        "Soma os valores das células",
+        "Ordena os dados por letra"
+      ],
+      "correta": 0,
+      "explicacao": "Mesclar células combina células vizinhas em uma única célula maior, ideal para títulos."
+    },
+    {
+      "id": 6,
+      "pergunta": "Qual atalho ajusta a largura das colunas automaticamente?",
+      "alternativas": [
+        "Alt + H + O + I",
+        "Ctrl + Shift + $",
+        "Ctrl + K",
+        "Ctrl + B"
+      ],
+      "correta": 0,
+      "explicacao": "O atalho Alt + H + O + I ajusta automaticamente a largura das colunas selecionadas."
+    },
+    {
+      "id": 7,
+      "pergunta": "Como criar um gráfico de barras para a quantidade por produto?",
+      "alternativas": [
+        "Selecionar os dados e usar Inserir > Gráfico de Barras",
+        "Pressionar F7 na tabela",
+        "Aplicar bordas duplas",
+        "Salvar como PDF"
+      ],
+      "correta": 0,
+      "explicacao": "Com os dados selecionados, Inserir > Gráfico de Barras gera o gráfico desejado."
+    },
+    {
+      "id": 8,
+      "pergunta": "Qual a importância de um gráfico de barras na análise de estoque?",
+      "alternativas": [
+        "Permite comparar visualmente a quantidade dos produtos",
+        "Calcula a média das vendas automaticamente",
+        "Remove os dados duplicados",
+        "Altera a cor das células"
+      ],
+      "correta": 0,
+      "explicacao": "O gráfico de barras facilita comparar volumes e identificar produto com mais estoque."
+    },
+    {
+      "id": 9,
+      "pergunta": "Qual é o formato de moeda aplicado à coluna de preços?",
+      "alternativas": [
+        "Moeda (R$)",
+        "Porcentagem (%)",
+        "Texto",
+        "Científico"
+      ],
+      "correta": 0,
+      "explicacao": "A coluna de preços é formatada como moeda (R$) para exibir os valores monetários."
+    }
+  ]
+}

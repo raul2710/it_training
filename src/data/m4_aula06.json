@@ -1,0 +1,105 @@
+{
+  "titulo": "Aula 06 — Criando um Gráfico SmartArt",
+  "descricao": "Inserir SmartArt, preencher etapas de um processo e aplicar estilos e efeitos",
+  "tempo": 10,
+  "dificuldade": "Média",
+  "modulo": "Módulo 4 — Microsoft PowerPoint",
+  "perguntas": [
+    {
+      "id": 1,
+      "pergunta": "Onde inserir um gráfico SmartArt no PowerPoint?",
+      "alternativas": [
+        "Na guia Inserir > SmartArt",
+        "Na guia Transições > Cubos",
+        "Na guia Design > Temas",
+        "Na guia Exibir > Régua"
+      ],
+      "correta": 0,
+      "explicacao": "O SmartArt é inserido pela guia Inserir, escolhendo a categoria e o layout."
+    },
+    {
+      "id": 2,
+      "pergunta": "Qual categoria é mais adequada para representar um processo de etapas?",
+      "alternativas": [
+        "Processo",
+        "Relacionamento",
+        "Matriz",
+        "Pirâmide"
+      ],
+      "correta": 0,
+      "explicacao": "A categoria Processo (ex.: Processo Básico) mostra etapas sequenciais."
+    },
+    {
+      "id": 3,
+      "pergunta": "Onde digitar o texto de cada etapa do SmartArt?",
+      "alternativas": [
+        "No painel de texto ao lado do gráfico",
+        "Na guia Transições",
+        "Na célula de uma tabela",
+        "Na barra de status"
+      ],
+      "correta": 0,
+      "explicacao": "O painel de texto permite preencher cada etapa do gráfico SmartArt."
+    },
+    {
+      "id": 4,
+      "pergunta": "Como escolher um estilo visual para o SmartArt?",
+      "alternativas": [
+        "Na guia Design > Estilos de SmartArt",
+        "Na guia Inserir > SmartArt",
+        "Na guia Animações > Girar",
+        "Na guia Arquivo > Salvar"
+      ],
+      "correta": 0,
+      "explicacao": "Os estilos prontos ficam na guia Design, na seção Estilos de SmartArt."
+    },
+    {
+      "id": 5,
+      "pergunta": "Como alterar as cores do gráfico SmartArt?",
+      "alternativas": [
+        "Na guia Design > Alterar Cores",
+        "Na guia Inserir > Imagem",
+        "Na guia Transições > Desfoque",
+        "Na guia Exibir > Régua"
+      ],
+      "correta": 0,
+      "explicacao": "A paleta de cores é alterada na guia Design, em Alterar Cores."
+    },
+    {
+      "id": 6,
+      "pergunta": "Onde aplicar sombra e brilho ao SmartArt?",
+      "alternativas": [
+        "Na guia Formatar > Efeitos de Forma",
+        "Na guia Animações > Aparecer",
+        "Na guia Design > Temas",
+        "Na guia Página Inicial > Fonte"
+      ],
+      "correta": 0,
+      "explicacao": "Efeitos de Forma (sombra, brilho) são aplicados na guia Formatar."
+    },
+    {
+      "id": 7,
+      "pergunta": "Por que o SmartArt é útil em apresentações?",
+      "alternativas": [
+        "Torna processos e informações visuais mais fáceis de entender",
+        "Substitui totalmente o texto",
+        "Insere vídeos automaticamente",
+        "Apaga tabelas da apresentação"
+      ],
+      "correta": 0,
+      "explicacao": "O SmartArt comunica processos e listas visualmente, melhorando a compreensão."
+    },
+    {
+      "id": 8,
+      "pergunta": "Como dar um título ao slide antes de inserir o SmartArt?",
+      "alternativas": [
+        "Clicar na caixa de texto do slide e digitar o título",
+        "Pressionar F7",
+        "Inserir uma transição",
+        "Aplicar um tema automático"
+      ],
+      "correta": 0,
+      "explicacao": "O título é digitado diretamente na caixa de texto do slide."
+    }
+  ]
+}

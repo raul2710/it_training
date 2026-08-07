@@ -1,0 +1,105 @@
+{
+  "titulo": "Aula 05 — O que é Viés (Bias) na IA?",
+  "descricao": "Tipos de viés, dados desequilibrados e como reduzir injustiças",
+  "tempo": 12,
+  "dificuldade": "Difícil",
+  "modulo": "Módulo 5 — Computação em Nuvem e IA",
+  "perguntas": [
+    {
+      "id": 1,
+      "pergunta": "Uma IA só tem viés se for programada de propósito para ser injusta?",
+      "alternativas": [
+        "Não, o viés pode surgir dos próprios dados de treino",
+        "Sim, é preciso intenção",
+        "Sim, sempre é culpa do programador",
+        "Não existe viés em IA"
+      ],
+      "correta": 0,
+      "explicacao": "O viés geralmente vem de dados de treino desequilibrados ou históricos, sem intenção direta."
+    },
+    {
+      "id": 2,
+      "pergunta": "O que é o viés histórico na IA?",
+      "alternativas": [
+        "Quando os dados refletem injustiças que já existem na sociedade",
+        "Quando a IA inventa respostas",
+        "Quando a IA está desatualizada",
+        "Quando faltam dados de treino"
+      ],
+      "correta": 0,
+      "explicacao": "Viés histórico ocorre quando os dados reproduzem discriminações do passado."
+    },
+    {
+      "id": 3,
+      "pergunta": "No estudo do MIT, qual grupo tinha a MAIOR taxa de erro no reconhecimento facial?",
+      "alternativas": [
+        "Mulheres negras (35%)",
+        "Homens brancos (1%)",
+        "Mulheres brancas (7%)",
+        "Homens negros (12%)"
+      ],
+      "correta": 0,
+      "explicacao": "Mulheres negras tiveram 35% de erro, o maior entre os grupos do estudo."
+    },
+    {
+      "id": 4,
+      "pergunta": "Qual grupo tinha a MENOR taxa de erro no estudo do MIT?",
+      "alternativas": [
+        "Homens brancos (1%)",
+        "Mulheres negras (35%)",
+        "Mulheres brancas (7%)",
+        "Homens negros (12%)"
+      ],
+      "correta": 0,
+      "explicacao": "Homens brancos tiveram apenas 1% de erro, o menor índice."
+    },
+    {
+      "id": 5,
+      "pergunta": "Um banco treina sua IA com 50 anos de dados em que homens tiveram mais acesso ao crédito. Isso é um viés de:",
+      "alternativas": [
+        "Histórico",
+        "Desenvolvedor",
+        "Dados",
+        "Algoritmo"
+      ],
+      "correta": 0,
+      "explicacao": "Reflete injustiças passadas da sociedade, caracterizando o viés histórico."
+    },
+    {
+      "id": 6,
+      "pergunta": "Como uma equipe diversa no desenvolvimento ajuda na IA?",
+      "alternativas": [
+        "Reduz o viés ao considerar diferentes perspectivas e grupos",
+        "Aumenta a velocidade do treino",
+        "Substitui a necessidade de dados",
+        "Não influencia em nada"
+      ],
+      "correta": 0,
+      "explicacao": "Diversidade na equipe ajuda a identificar e corrigir vieses antes deles se consolidarem."
+    },
+    {
+      "id": 7,
+      "pergunta": "Para reduzir o viés em uma IA de diagnóstico de pele com 90% de imagens de pele clara, o melhor é:",
+      "alternativas": [
+        "Adicionar mais dados de todos os tons de pele ao treino",
+        "Usar apenas as imagens existentes",
+        "Retirar as imagens de pele clara",
+        "Testar só em um grupo"
+      ],
+      "correta": 0,
+      "explicacao": "Um conjunto de treino balanceado com diversos tons de pele reduz o viés."
+    },
+    {
+      "id": 8,
+      "pergunta": "Apenas os desenvolvedores têm responsabilidade sobre o viés nos sistemas de IA?",
+      "alternativas": [
+        "Não, a responsabilidade é compartilhada com empresas e sociedade",
+        "Sim, somente desenvolvedores",
+        "Nunca existe responsabilidade",
+        "Só os usuários"
+      ],
+      "correta": 0,
+      "explicacao": "Reduzir vieses é responsabilidade coletiva de quem desenvolve, de quem usa e da sociedade."
+    }
+  ]
+}

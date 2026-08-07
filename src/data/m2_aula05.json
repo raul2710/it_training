@@ -1,0 +1,105 @@
+{
+  "titulo": "Aula 05 — Inserindo e Formatando Imagens",
+  "descricao": "Inserir, redimensionar, recortar, posicionar e estilizar imagens no documento",
+  "tempo": 10,
+  "dificuldade": "Média",
+  "modulo": "Módulo 2 — Microsoft Word",
+  "perguntas": [
+    {
+      "id": 1,
+      "pergunta": "Como inserir uma imagem que está salva no computador?",
+      "alternativas": [
+        "Guia Inserir > Imagens > Este dispositivo",
+        "Guia Página Inicial > Negrito",
+        "Guia Referências > Sumário",
+        "Guia Exibir > Régua"
+      ],
+      "correta": 0,
+      "explicacao": "A opção Inserir > Imagens > \"Este dispositivo\" permite escolher uma imagem do computador."
+    },
+    {
+      "id": 2,
+      "pergunta": "Como redimensionar uma imagem no Word?",
+      "alternativas": [
+        "Selecionar a imagem e arrastar um canto pela seta dupla",
+        "Pressionar Ctrl + Enter na imagem",
+        "Aplicar F7 à seleção",
+        "Clicar com o botão direito e apagar a imagem"
+      ],
+      "correta": 0,
+      "explicacao": "Arrastando o cursor (seta dupla) em um dos cantos da imagem você aumenta ou diminui o tamanho."
+    },
+    {
+      "id": 3,
+      "pergunta": "Onde está a ferramenta \"Cortar\" da imagem?",
+      "alternativas": [
+        "Na guia Formatar Imagem > Cortar",
+        "Na guia Página Inicial > Parágrafo",
+        "Na aba Referências > Nota de Rodapé",
+        "Na guia Exibir > Janela"
+      ],
+      "correta": 0,
+      "explicacao": "A opção Cortar fica na guia Formatar Imagem e permite remover partes indesejadas da figura."
+    },
+    {
+      "id": 4,
+      "pergunta": "Qual opção de disposição de texto permite o texto fluir ao redor da imagem?",
+      "alternativas": [
+        "Quadrado ou Através",
+        "Alinhamento à esquerda",
+        "Negrito central",
+        "Modo de Leitura"
+      ],
+      "correta": 0,
+      "explicacao": "Os layouts Quadrado e Através posicionam o texto ao redor da imagem."
+    },
+    {
+      "id": 5,
+      "pergunta": "Onde inserir uma legenda para a imagem?",
+      "alternativas": [
+        "Na guia Referências > Inserir Legenda",
+        "Na guia Inserir > Tabela",
+        "Na guia Página Inicial > Cor",
+        "Na aba Exibir > Régua"
+      ],
+      "correta": 0,
+      "explicacao": "A legenda da imagem é adicionada pela guia Referências, na opção Inserir Legenda."
+    },
+    {
+      "id": 6,
+      "pergunta": "Como aplicar um estilo de imagem (borda, sombra ou efeito)?",
+      "alternativas": [
+        "Selecionar a imagem e escolher um estilo na guia Formatar Imagem",
+        "Pressionar F7 sobre a imagem",
+        "Inserir uma tabela ao lado",
+        "Salvar o documento como PDF"
+      ],
+      "correta": 0,
+      "explicacao": "A guia Formatar Imagem traz galerias de estilos prontos com bordas, sombras e efeitos."
+    },
+    {
+      "id": 7,
+      "pergunta": "Qual método compartilhar o documento com o professor?",
+      "alternativas": [
+        "Enviar por e-mail ou usar armazenamento em nuvem, como Google Drive ou OneDrive",
+        "Imprimir em papel e fotografar",
+        "Apagar o arquivo após salvar",
+        "Deixar o documento na lixeira"
+      ],
+      "correta": 0,
+      "explicacao": "O compartilhamento pode ser feito por e-mail ou por serviços de nuvem, enviando o link (Drive/OneDrive)."
+    },
+    {
+      "id": 8,
+      "pergunta": "Para criar um novo documento antes de inserir a imagem, qual passo?",
+      "alternativas": [
+        "Arquivo > Novo > Documento em Branco",
+        "Inserir > Imagens > Este dispositivo",
+        "Referências > Sumário",
+        "Exibir > Modo de Leitura"
+      ],
+      "correta": 0,
+      "explicacao": "Um documento novo é criado por Arquivo > Novo > Documento em Branco."
+    }
+  ]
+}

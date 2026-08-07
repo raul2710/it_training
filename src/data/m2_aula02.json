@@ -1,0 +1,117 @@
+{
+  "titulo": "Aula 02 — Formatação de Texto",
+  "descricao": "Centralizar, justificar, ajustar espaçamento entre linhas e destacar palavras-chave",
+  "tempo": 10,
+  "dificuldade": "Média",
+  "modulo": "Módulo 2 — Microsoft Word",
+  "perguntas": [
+    {
+      "id": 1,
+      "pergunta": "Onde estão os botões de alinhamento do texto?",
+      "alternativas": [
+        "Na guia Página Inicial, no grupo Parágrafo",
+        "Na guia Inserir, no grupo Ilustrações",
+        "Na aba Exibir, no grupo Janela",
+        "Na guia Referências, no grupo Sumário"
+      ],
+      "correta": 0,
+      "explicacao": "As opções de alinhamento (esquerda, centro, direita e justificado) ficam na guia Página Inicial."
+    },
+    {
+      "id": 2,
+      "pergunta": "O que faz a opção \"Justificar\" em um parágrafo?",
+      "alternativas": [
+        "Alinha o texto nas margens esquerda e direita",
+        "Centraliza o texto no meio da página",
+        "Coloca o texto em letras maiúsculas",
+        "Aumenta o espaçamento entre as palavras"
+      ],
+      "correta": 0,
+      "explicacao": "Justificar distribui o texto uniformemente tocando as margens esquerda e direita, criando visual organizado."
+    },
+    {
+      "id": 3,
+      "pergunta": "Qual botão de formatação é representado pela letra \"B\"?",
+      "alternativas": [
+        "Negrito",
+        "Itálico",
+        "Sublinhado",
+        "Cor da fonte"
+      ],
+      "correta": 0,
+      "explicacao": "O botão \"B\" aplica o negrito, destacando as palavras selecionadas."
+    },
+    {
+      "id": 4,
+      "pergunta": "Onde encontrar a opção de espaçamento entre linhas?",
+      "alternativas": [
+        "Na guia Layout, na parte de Espaçamento",
+        "Na guia Inserir, em Imagens",
+        "Na aba Exibir, em Layout de Impressão",
+        "Na aba Referências, em Índice"
+      ],
+      "correta": 0,
+      "explicacao": "O espaçamento entre linhas e de parágrafos é ajustado na guia Layout do Word."
+    },
+    {
+      "id": 5,
+      "pergunta": "Como centralizar um título no Word?",
+      "alternativas": [
+        "Selecionar o texto e clicar no ícone de alinhamento central",
+        "Digitar a palavra \"centro\" antes do texto",
+        "Pressionar Ctrl + Enter",
+        "Clicar com o botão direito e salvar"
+      ],
+      "correta": 0,
+      "explicacao": "Após selecionar o texto, o ícone de centralizar na guia Página Inicial centraliza o título na página."
+    },
+    {
+      "id": 6,
+      "pergunta": "Que efeito tem definir o espaçamento entre linhas para 1,5?",
+      "alternativas": [
+        "Deixa o texto mais legível, com mais espaço entre as linhas",
+        "Apaga todas as linhas do texto",
+        "Centraliza o texto automaticamente",
+        "Remove os espaços entre as palavras"
+      ],
+      "correta": 0,
+      "explicacao": "O espaçamento 1,5 aumenta o espaço vertical entre as linhas, melhorando a leitura."
+    },
+    {
+      "id": 7,
+      "pergunta": "Qual botão é usado para destacar palavras em itálico?",
+      "alternativas": [
+        "O botão \"I\"",
+        "O botão \"B\"",
+        "O botão \"U\"",
+        "O ícone de pincel"
+      ],
+      "correta": 0,
+      "explicacao": "O botão \"I\" aplica itálico, inclinando o texto selecionado."
+    },
+    {
+      "id": 8,
+      "pergunta": "Como salvar o documento formatado com um nome específico?",
+      "alternativas": [
+        "Arquivo > Salvar Como e digitar o nome do arquivo",
+        "Página Inicial > Negrito",
+        "Inserir > Tabela",
+        "Exibir > Modo de Leitura"
+      ],
+      "correta": 0,
+      "explicacao": "Em Arquivo > Salvar Como você define o nome e o local de salvamento do documento."
+    },
+    {
+      "id": 9,
+      "pergunta": "Qual alinhamento é recomendado para textos formais e profissionais?",
+      "alternativas": [
+        "Justificado",
+        "À esquerda",
+        "Somente em itálico",
+        "Com letras maiúsculas"
+      ],
+      "correta": 0,
+      "explicacao": "O alinhamento justificado distribui o texto uniformemente entre as margens, dando aparência profissional."
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "titulo": "Aula 04 — Formatação Condicional",
+  "descricao": "Barras de dados, conjuntos de ícones e análise visual de desempenho",
+  "tempo": 12,
+  "dificuldade": "Difícil",
+  "modulo": "Módulo 3 — Microsoft Excel",
+  "perguntas": [
+    {
+      "id": 1,
+      "pergunta": "Onde fica a ferramenta de Formatação Condicional?",
+      "alternativas": [
+        "Guia Página Inicial",
+        "Guia Inserir",
+        "Guia Dados",
+        "Guia Exibir"
+      ],
+      "correta": 0,
+      "explicacao": "A Formatação Condicional está na guia Página Inicial do Excel."
+    },
+    {
+      "id": 2,
+      "pergunta": "O que faz a opção \"Barras de Dados\"?",
+      "alternativas": [
+        "Mostra barras proporcionais ao valor de cada célula",
+        "Substitui os números por texto",
+        "Apaga os valores negativos",
+        "Insere um gráfico de pizza"
+      ],
+      "correta": 0,
+      "explicacao": "As barras de dados exibem o valor proporcional à célula, permitindo visualizar proporções."
+    },
+    {
+      "id": 3,
+      "pergunta": "No gradiente verde-vermelho, o que representa um valor negativo?",
+      "alternativas": [
+        "Uma barra vermelha",
+        "Uma barra verde",
+        "Uma barra azul",
+        "Nenhuma barra"
+      ],
+      "correta": 0,
+      "explicacao": "Valores negativos são representados pela barra vermelha no gradiente verde-vermelho."
+    },
+    {
+      "id": 4,
+      "pergunta": "Qual vendedor teve a barra verde mais longa no exercício?",
+      "alternativas": [
+        "Fernanda (R$ 2.200 acima da meta)",
+        "Ana (R$ 200 acima da meta)",
+        "Gustavo (R$ 500 acima da meta)",
+        "Bruna (R$ 1.000 acima da meta)"
+      ],
+      "correta": 0,
+      "explicacao": "Fernanda, com a maior diferença positiva (R$ 2.200 acima da meta), tem a barra mais longa."
+    },
+    {
+      "id": 5,
+      "pergunta": "Para que servem os ícones de status (Conjunto de Ícones)?",
+      "alternativas": [
+        "Classificar rapidamente o desempenho de cada valor",
+        "Esconder os números da planilha",
+        "Deixar a planilha mais colorida sem objetivo",
+        "Deletar os dados negativos"
+      ],
+      "correta": 0,
+      "explicacao": "Os ícones classificam visualmente o desempenho por categoria (verde, amarelo, vermelho)."
+    },
+    {
+      "id": 6,
+      "pergunta": "Qual vendedor recebeu o ícone verde por diferença maior ou igual a R$ 1.000?",
+      "alternativas": [
+        "Bruna (R$ 1.000)",
+        "Carlos (-R$ 200)",
+        "Diego (-R$ 1.500)",
+        "Ana (R$ 200)"
+      ],
+      "correta": 0,
+      "explicacao": "Bruna, com diferença de R$ 1.000, atinge o critério do ícone verde (>= 1.000)."
+    },
+    {
+      "id": 7,
+      "pergunta": "Qual vendedor teve o pior desempenho no exercício?",
+      "alternativas": [
+        "Diego, pela barra vermelha mais longa",
+        "Fernanda, pelo ícone verde",
+        "Ana, pela barra verde",
+        "Gustavo, pela barra verde média"
+      ],
+      "correta": 0,
+      "explicacao": "Diego tem a maior diferença negativa (-R$ 1.500), mostrando o pior desempenho."
+    },
+    {
+      "id": 8,
+      "pergunta": "Um novo vendedor vendeu R$ 4.900 com meta de R$ 5.000. Qual ícone ele receberia?",
+      "alternativas": [
+        "Vermelho (diferença negativa)",
+        "Verde (>= 1.000)",
+        "Amarelo (>= 0 e < 1.000)",
+        "Nenhum"
+      ],
+      "correta": 0,
+      "explicacao": "A diferença de -R$ 100 é negativa, portanto recebe o ícone vermelho."
+    }
+  ]
+}

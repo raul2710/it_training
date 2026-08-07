@@ -1,0 +1,105 @@
+{
+  "titulo": "Aula 07 — Cabeçalhos e Rodapés",
+  "descricao": "Inserir cabeçalho, rodapé, numeração de páginas e data automática",
+  "tempo": 10,
+  "dificuldade": "Média",
+  "modulo": "Módulo 2 — Microsoft Word",
+  "perguntas": [
+    {
+      "id": 1,
+      "pergunta": "Como inserir um cabeçalho no documento?",
+      "alternativas": [
+        "Guia Inserir > Cabeçalho",
+        "Guia Página Inicial > Negrito",
+        "Guia Referências > Sumário",
+        "Guia Exibir > Régua"
+      ],
+      "correta": 0,
+      "explicacao": "O cabeçalho é adicionado pela guia Inserir, na opção Cabeçalho."
+    },
+    {
+      "id": 2,
+      "pergunta": "Como inserir a numeração de páginas no rodapé?",
+      "alternativas": [
+        "Guia Inserir > Número de Página > Final da Página",
+        "Guia Página Inicial > Numeração da lista",
+        "Guia Referências > Marcar Entrada",
+        "Guia Exibir > Layout de Impressão"
+      ],
+      "correta": 0,
+      "explicacao": "A numeração automática de páginas é inserida por Inserir > Número de Página > Final da Página."
+    },
+    {
+      "id": 3,
+      "pergunta": "O que é a \"data automática\" no rodapé?",
+      "alternativas": [
+        "Uma data que se atualiza automaticamente sempre que o documento é aberto",
+        "Uma data fixa que nunca muda",
+        "Um número de página em negrito",
+        "Uma legenda de imagem"
+      ],
+      "correta": 0,
+      "explicacao": "Marcando \"Atualizar Automaticamente\", a data se ajusta sozinha ao abrir o documento."
+    },
+    {
+      "id": 4,
+      "pergunta": "Como adicionar uma linha horizontal abaixo do texto do cabeçalho?",
+      "alternativas": [
+        "Guia Página Inicial > Bordas > Linha Horizontal",
+        "Guia Inserir > Tabela",
+        "Guia Referências > Nota de Rodapé",
+        "Guia Exibir > Régua"
+      ],
+      "correta": 0,
+      "explicacao": "A linha horizontal é adicionada pela opção Bordas, escolhendo Linha Horizontal na guia Página Inicial."
+    },
+    {
+      "id": 5,
+      "pergunta": "Para que servem cabeçalhos e rodapés em documentos profissionais?",
+      "alternativas": [
+        "Repetir informações (título, número de página, data) em todas as páginas",
+        "Apagar o conteúdo do documento",
+        "Inserir imagens animadas",
+        "Aumentar o tamanho das letras"
+      ],
+      "correta": 0,
+      "explicacao": "Cabeçalhos e rodapés repetem informações em todas as páginas, dando organização profissional."
+    },
+    {
+      "id": 6,
+      "pergunta": "Qual atalho cria uma nova página no Word?",
+      "alternativas": [
+        "Ctrl + Enter",
+        "Ctrl + K",
+        "F7",
+        "Ctrl + N"
+      ],
+      "correta": 0,
+      "explicacao": "Ctrl + Enter insere uma quebra de página, iniciando uma página nova."
+    },
+    {
+      "id": 7,
+      "pergunta": "Como centralizar o texto do cabeçalho?",
+      "alternativas": [
+        "Selecionar o texto e clicar em Centralizar na guia Página Inicial",
+        "Pressionar Ctrl + Enter",
+        "Aplicar F7",
+        "Inserir um rodapé"
+      ],
+      "correta": 0,
+      "explicacao": "Para centralizar, selecione o texto do cabeçalho e use o ícone de Centralizar da guia Página Inicial."
+    },
+    {
+      "id": 8,
+      "pergunta": "Onde fica a opção \"Data e Hora\" para inserir data no rodapé?",
+      "alternativas": [
+        "Guia Inserir > Data e Hora",
+        "Guia Referências > Citação",
+        "Guia Página Inicial > Fonte",
+        "Guia Exibir > Janela"
+      ],
+      "correta": 0,
+      "explicacao": "A opção Data e Hora fica na guia Inserir e permite escolher o formato da data."
+    }
+  ]
+}

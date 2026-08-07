@@ -1,0 +1,105 @@
+{
+  "titulo": "Aula 02 — Usando IA com Pensamento Crítico",
+  "descricao": "Chatbots, qualidade das respostas e como formular bons prompts",
+  "tempo": 12,
+  "dificuldade": "Média",
+  "modulo": "Módulo 5 — Computação em Nuvem e IA",
+  "perguntas": [
+    {
+      "id": 1,
+      "pergunta": "Quais são exemplos de ferramentas de IA generativa citadas no exercício?",
+      "alternativas": [
+        "ChatGPT, Google Gemini e Microsoft Copilot",
+        "Word, Excel e PowerPoint",
+        "Google Drive e OneDrive",
+        "WhatsApp e Instagram"
+      ],
+      "correta": 0,
+      "explicacao": "ChatGPT, Gemini e Copilot são ferramentas de IA usadas para gerar textos e resumos."
+    },
+    {
+      "id": 2,
+      "pergunta": "Ao usar IA para gerar um resumo, o que o aluno deve avaliar?",
+      "alternativas": [
+        "Se está correto, claro e se a IA inventou algo",
+        "Apenas se o texto é longo",
+        "Se usa muitas palavras difíceis",
+        "A velocidade de digitação"
+      ],
+      "correta": 0,
+      "explicacao": "Deve-se verificar correção, clareza e possíveis invenções (alucinações) da IA."
+    },
+    {
+      "id": 3,
+      "pergunta": "Por que nem sempre a IA está atualizada ou certa?",
+      "alternativas": [
+        "Seus dados de treinamento podem estar defasados ou incompletos",
+        "Ela sempre tem acesso à internet ao vivo",
+        "Ela nunca erra",
+        "Ela aprende sozinha em tempo real"
+      ],
+      "correta": 0,
+      "explicacao": "A IA aprende com dados que podem estar desatualizados, exigindo conferência em fontes confiáveis."
+    },
+    {
+      "id": 4,
+      "pergunta": "Qual é um exemplo de prompt ruim?",
+      "alternativas": [
+        "\"Fala aí sobre internet\" — muito vago",
+        "\"Explique em linguagem simples como funciona o Google Drive com exemplos\"",
+        "\"Liste 5 cuidados ao usar Wi-Fi público e explique cada um\"",
+        "\"Crie um e-mail formal pedindo uma reunião\""
+      ],
+      "correta": 0,
+      "explicacao": "Prompts vagos e sem contexto geram respostas genéricas e pouco úteis."
+    },
+    {
+      "id": 5,
+      "pergunta": "O que torna um prompt bom?",
+      "alternativas": [
+        "Ser específico, claro e com contexto suficiente",
+        "Ser o mais curto possível",
+        "Pedir várias tarefas de uma vez",
+        "Usar linguagem vaga"
+      ],
+      "correta": 0,
+      "explicacao": "Prompts claros e específicos geram respostas mais úteis e direcionadas."
+    },
+    {
+      "id": 6,
+      "pergunta": "Como verificar se uma resposta da IA é confiável?",
+      "alternativas": [
+        "Comparar com fontes oficiais ou confiáveis",
+        "Confiar sempre no que ela diz",
+        "Pedir outra resposta igual",
+        "Aumentar o tamanho do prompt"
+      ],
+      "correta": 0,
+      "explicacao": "Comparar com o IBGE, sites oficiais e fontes confiáveis valida a resposta da IA."
+    },
+    {
+      "id": 7,
+      "pergunta": "Qual é a principal lição sobre usar IA?",
+      "alternativas": [
+        "Quanto melhor eu pergunto, melhor a IA responde",
+        "A IA substitui todo o raciocínio humano",
+        "A IA nunca comete erros",
+        "A IA só funciona sem internet"
+      ],
+      "correta": 0,
+      "explicacao": "A qualidade do prompt influencia diretamente a qualidade da resposta."
+    },
+    {
+      "id": 8,
+      "pergunta": "O que é senso crítico ao usar IA?",
+      "alternativas": [
+        "Avaliar, verificar e questionar as respostas geradas",
+        "Aceitar tudo sem questionar",
+        "Copiar respostas sem ler",
+        "Evitar usar qualquer ferramenta"
+      ],
+      "correta": 0,
+      "explicacao": "Pensamento crítico envolve avaliar e conferir as respostas da IA."
+    }
+  ]
+}
