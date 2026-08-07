@@ -1,0 +1,146 @@
+{
+  "id": "c_m3_aula03",
+  "modulo": "Módulo 3 — Microsoft Excel",
+  "titulo": "Funções Básicas",
+  "subtitulo": "Como criar fórmulas e usar as funções SOMA, MÉDIA, MÁXIMO e MÍNIMO para calcular no Excel.",
+  "tempo": 10,
+  "secoes": [
+    {
+      "titulo": "O que é uma função?",
+      "blocos": [
+        {
+          "tipo": "texto",
+          "texto": "Uma função é uma fórmula pronta do Excel que realiza cálculos automaticamente. As funções sempre começam com o sinal de igual (=) e recebem informações chamadas de argumentos, que ficam dentro dos parênteses. Por exemplo, =SOMA(A1:A5) soma os valores de A1 até A5."
+        },
+        {
+          "tipo": "destacado",
+          "texto": "Todo cálculo no Excel começa com o sinal de igual (=). Sem ele, o Excel trata o conteúdo como texto."
+        }
+      ]
+    },
+    {
+      "titulo": "Criando uma fórmula simples",
+      "blocos": [
+        {
+          "tipo": "passos",
+          "itens": [
+            { "titulo": "Selecione a célula", "descricao": "onde o resultado deve aparecer." },
+            { "titulo": "Digite =", "descricao": "para iniciar a fórmula." },
+            { "titulo": "Selecione as células", "descricao": "o intervalo que participa do cálculo." },
+            { "titulo": "Pressione Enter", "descricao": "para ver o resultado." }
+          ]
+        },
+        {
+          "tipo": "texto",
+          "texto": "Além das funções, você pode fazer cálculos diretos com os operadores + (soma), - (subtração), * (multiplicação) e / (divisão). Por exemplo, =A1*B1 multiplica os valores de A1 e B1."
+        },
+        {
+          "tipo": "destacado",
+          "texto": "Dica: o Excel mostra a soma média e a contagem das células selecionadas na barra de status."
+        }
+      ]
+    },
+    {
+      "titulo": "Referências de células",
+      "blocos": [
+        {
+          "tipo": "texto",
+          "texto": "As referências indicam quais células a fórmula deve usar. Elas podem ser relativas, absolutas ou mistas, o que muda o comportamento quando a fórmula é copiada para outras células."
+        },
+        {
+          "tipo": "cards",
+          "itens": [
+            { "titulo": "Relativa", "descricao": "como A1, ajusta-se ao copiar para outras células." },
+            { "titulo": "Absoluta", "descricao": "como $A$1, fica fixa ao copiar." },
+            { "titulo": "Mista", "descricao": "como $A1 ou A$1, fixa apenas a coluna ou a linha." }
+          ]
+        },
+        {
+          "tipo": "destacado",
+          "texto": "Para transformar uma referência em absoluta, pressione F4 depois de digitar a célula."
+        }
+      ]
+    },
+    {
+      "titulo": "A função SOMA",
+      "blocos": [
+        {
+          "tipo": "texto",
+          "texto": "A função SOMA adiciona todos os valores de um intervalo ou lista. É a função mais usada no Excel e serve para somar totais de vendas, despesas e qualquer lista de números."
+        },
+        {
+          "tipo": "texto",
+          "texto": "Sintaxe: =SOMA(número1; número2; ...) ou =SOMA(A2:A10). O intervalo A2:A10 soma todos os valores da coluna A, da linha 2 até a linha 10."
+        },
+        {
+          "tipo": "destacado",
+          "texto": "Exemplo: =SOMA(B2:B6) soma os cinco primeiros valores da coluna B."
+        }
+      ]
+    },
+    {
+      "titulo": "A função MÉDIA",
+      "blocos": [
+        {
+          "tipo": "texto",
+          "texto": "A função MÉDIA calcula a média aritmética de um intervalo de valores, somando tudo e dividindo pela quantidade de números. Sintaxe: =MÉDIA(A2:A10)."
+        },
+        {
+          "tipo": "destacado",
+          "texto": "Exemplo: =MÉDIA(B2:B6) calcula a média dos cinco valores selecionados."
+        }
+      ]
+    },
+    {
+      "titulo": "As funções MÁXIMO e MÍNIMO",
+      "blocos": [
+        {
+          "tipo": "texto",
+          "texto": "A função MÁXIMO retorna o maior valor de um intervalo, enquanto MÍNIMO retorna o menor. São úteis para encontrar, por exemplo, a maior e a menor venda do mês. Sintaxes: =MÁXIMO(A2:A10) e =MÍNIMO(A2:A10)."
+        },
+        {
+          "tipo": "cards",
+          "itens": [
+            { "titulo": "MÁXIMO", "descricao": "retorna o maior valor do intervalo." },
+            { "titulo": "MÍNIMO", "descricao": "retorna o menor valor do intervalo." }
+          ]
+        },
+        {
+          "tipo": "destacado",
+          "texto": "Quando o Excel não encontra a função sozinho, você pode começar a digitar =MA e o programa sugere as opções."
+        }
+      ]
+    },
+    {
+      "titulo": "Exemplo prático",
+      "blocos": [
+        {
+          "tipo": "texto",
+          "texto": "Imagine uma tabela de vendas mensais na coluna B, da linha 2 até a linha 7. Usando as funções, você pode descobrir o total, a média, o maior e o menor valor vendido."
+        },
+        {
+          "tipo": "lista",
+          "itens": [
+            "=SOMA(B2:B7) para o total de vendas.",
+            "=MÉDIA(B2:B7) para a média mensal.",
+            "=MÁXIMO(B2:B7) para a maior venda.",
+            "=MÍNIMO(B2:B7) para a menor venda."
+          ]
+        },
+        {
+          "tipo": "destacado",
+          "texto": "Pratique: monte sua própria tabela de números e aplique as quatro funções de uma vez."
+        }
+      ]
+    },
+    {
+      "titulo": "Conclusão",
+      "blocos": [
+        {
+          "tipo": "destacado",
+          "texto": "Com as funções SOMA, MÉDIA, MÁXIMO e MÍNIMO você consegue calcular bem os dados de uma planilha. Na próxima aula, veremos a formatação condicional para destacar informações automaticamente."
+        }
+      ]
+    }
+  ]
+}
