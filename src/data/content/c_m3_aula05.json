@@ -1,0 +1,141 @@
+{
+  "id": "c_m3_aula05",
+  "modulo": "Módulo 3 — Microsoft Excel",
+  "titulo": "Classificação e Filtros no Excel",
+  "subtitulo": "Como organizar dados com classificação e selecionar apenas o que importa com filtros básicos e avançados.",
+  "tempo": 10,
+  "secoes": [
+    {
+      "titulo": "Classificação e filtro: o que são?",
+      "blocos": [
+        {
+          "tipo": "texto",
+          "texto": "Classificar e filtrar dados são duas formas de organizar uma planilha. Classificar ordena as informações (como de A a Z ou do menor para o maior), enquanto filtrar mostra apenas os dados que atendem a uma condição, escondendo o restante sem apagar nada."
+        },
+        {
+          "tipo": "destacado",
+          "texto": "Curiosidade: o Excel pode classificar até 1 milhão de linhas em segundos!"
+        }
+      ]
+    },
+    {
+      "titulo": "Classificação básica",
+      "blocos": [
+        {
+          "tipo": "texto",
+          "texto": "Para classificar, selecione uma célula da coluna e use as opções \"Classificar de A a Z\" ou \"Classificar de Z a A\" na guia Dados. Você pode ordenar por texto, números, datas e muito mais."
+        },
+        {
+          "tipo": "passos",
+          "itens": [
+            { "titulo": "Selecione uma célula", "descricao": "na coluna que deseja ordenar." },
+            { "titulo": "Abra a guia Dados", "descricao": "e procure o grupo Classificar e Filtrar." },
+            { "titulo": "Escolha a ordem", "descricao": "A a Z, Z a A, ou do menor para o maior." }
+          ]
+        },
+        {
+          "tipo": "destacado",
+          "texto": "Dica: selecione o intervalo inteiro para que todos os dados da linha acompanhem a classificação."
+        }
+      ]
+    },
+    {
+      "titulo": "Classificação personalizada",
+      "blocos": [
+        {
+          "tipo": "texto",
+          "texto": "A classificação personalizada permite ordenar por critérios específicos, como cor de célula, ícones ou por várias colunas ao mesmo tempo. É útil para ordenar por prioridade, por exemplo."
+        },
+        {
+          "tipo": "lista",
+          "itens": [
+            "Ordenar por status: Urgente, Normal e Baixa Prioridade.",
+            "Ordenar por várias colunas de uma vez, como região e depois valor.",
+            "Criar listas personalizadas, como dias da semana, em Opções do Excel > Avançado > Listas Personalizadas."
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Filtros básicos",
+      "blocos": [
+        {
+          "tipo": "passos",
+          "itens": [
+            { "titulo": "Ative o filtro", "descricao": "em Dados > Filtro ou pressione Ctrl + Shift + L." },
+            { "titulo": "Clique na seta", "descricao": "do cabeçalho da coluna." },
+            { "titulo": "Escolha o critério", "descricao": "texto, número, data ou cor para filtrar." }
+          ]
+        },
+        {
+          "tipo": "destacado",
+          "texto": "Use \"Filtrar por Cor\" ou \"Filtrar por Texto Contendo...\" para buscas mais específicas."
+        }
+      ]
+    },
+    {
+      "titulo": "Filtros avançados",
+      "blocos": [
+        {
+          "tipo": "texto",
+          "texto": "Os filtros avançados combinam vários critérios ao mesmo tempo, usando os operadores E e OU. Por exemplo, mostrar apenas vendas acima de R$ 1.000 na região Sul."
+        },
+        {
+          "tipo": "cards",
+          "itens": [
+            { "titulo": "E", "descricao": "todos os critérios devem ser atendidos ao mesmo tempo." },
+            { "titulo": "OU", "descricao": "basta que um dos critérios seja atendido." }
+          ]
+        },
+        {
+          "tipo": "destacado",
+          "texto": "Filtros avançados também podem extrair dados para outra planilha com a opção \"Copiar para outro local\"."
+        }
+      ]
+    },
+    {
+      "titulo": "Casos de uso no trabalho",
+      "blocos": [
+        {
+          "tipo": "lista",
+          "itens": [
+            "Filtrar clientes por faixa de renda.",
+            "Extrair produtos com estoque crítico.",
+            "Filtrar datas específicas, como os últimos 30 dias.",
+            "Classificar vendedores pelo maior faturamento."
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Erros comuns e soluções",
+      "blocos": [
+        {
+          "tipo": "texto",
+          "texto": "O erro mais comum é corromper a classificação ao mesclar células. Células mescladas podem espalhar os dados na hora de ordenar e confundir as linhas."
+        },
+        {
+          "tipo": "lista",
+          "itens": [
+            "Evite mesclar células em tabelas de dados.",
+            "Transforme os dados em Tabela Excel com o atalho Ctrl + T.",
+            "Confira se o intervalo selecionado cobre todas as colunas antes de classificar."
+          ]
+        },
+        {
+          "tipo": "destacado",
+          "texto": "Usar Tabelas Excel (Ctrl + T) evita a maioria dos erros de classificação e filtro."
+        }
+      ]
+    },
+    {
+      "titulo": "Conclusão",
+      "blocos": [
+        {
+          "tipo": "destacado",
+          "texto": "Classificação e filtros deixam os dados organizados e fáceis de analisar. Na próxima aula, veremos como transformar esses dados em gráficos."
+        }
+      ]
+    }
+  ]
+}
