@@ -1,0 +1,104 @@
+{
+  "id": "c_m3_aula02",
+  "modulo": "Módulo 3 — Microsoft Excel",
+  "titulo": "Inserindo e Formatando Dados",
+  "subtitulo": "Como inserir dados, escolher os tipos corretos e formatar células para deixar a planilha profissional.",
+  "tempo": 10,
+  "secoes": [
+    {
+      "titulo": "Tipos de dados no Excel",
+      "blocos": [
+        {
+          "tipo": "texto",
+          "texto": "No Excel, cada célula pode conter diferentes tipos de dados. Usar o tipo certo é essencial porque interfere nas contas e formatações. Os principais tipos são texto, número, data, hora, moeda e porcentagem."
+        },
+        {
+          "tipo": "cards",
+          "itens": [
+            { "titulo": "Texto", "descricao": "palavras e frases, como nomes e endereços." },
+            { "titulo": "Número", "descricao": "valores numéricos usados em cálculos." },
+            { "titulo": "Data e hora", "descricao": "datas e horários reconhecidos pelo programa." },
+            { "titulo": "Moeda", "descricao": "valores com o símbolo de dinheiro, como R$." }
+          ]
+        },
+        {
+          "tipo": "destacado",
+          "texto": "Dica: quando um número aparece com um símbolo de alerta verde, o Excel está avisando que ele pode estar formatado como texto."
+        }
+      ]
+    },
+    {
+      "titulo": "Inserindo dados na planilha",
+      "blocos": [
+        {
+          "tipo": "passos",
+          "itens": [
+            { "titulo": "Selecione a célula", "descricao": "onde deseja inserir o dado." },
+            { "titulo": "Digite o valor", "descricao": "e pressione Enter para confirmar." },
+            { "titulo": "Preencha as demais células", "descricao": "repita o processo para completar sua tabela." }
+          ]
+        },
+        {
+          "tipo": "lista",
+          "itens": [
+            "Use Tab para mover para a célula à direita.",
+            "Use enter para mover para a célula de baixo.",
+            "O preenchimento automático (alça de preenchimento) copia ou completa sequências rapidamente."
+          ]
+        },
+        {
+          "tipo": "destacado",
+          "texto": "Boa prática: sempre defina um cabeçalho para cada coluna, para identificar o que cada dado representa."
+        }
+      ]
+    },
+    {
+      "titulo": "Formatando células",
+      "blocos": [
+        {
+          "tipo": "texto",
+          "texto": "A formatação deixa a planilha mais bonita e fácil de ler. Você pode mudar a fonte, o tamanho, as cores, as bordas e o alinhamento das células, tanto pela guia Página Inicial quanto pela caixa \"Formatar Células\"."
+        },
+        {
+          "tipo": "passos",
+          "itens": [
+            { "titulo": "Selecione as células", "descricao": "que deseja formatar." },
+            { "titulo": "Abra Formatar Células", "descricao": "com o botão direito ou pelo atalho Ctrl + 1." },
+            { "titulo": "Escolha as opções", "descricao": "fonte, borda, preenchimento, alinhamento e número." }
+          ]
+        },
+        {
+          "tipo": "destacado",
+          "texto": "Atalho: Ctrl + 1 abre a caixa de formatação de células."
+        }
+      ]
+    },
+    {
+      "titulo": "Deixando a planilha profissional",
+      "blocos": [
+        {
+          "tipo": "cards",
+          "itens": [
+            { "titulo": "Cabeçalho", "descricao": "destaque a primeira linha com negrito e cor." },
+            { "titulo": "Bordas", "descricao": "use linhas para separar os dados." },
+            { "titulo": "Preenchimento", "descricao": "pinte células para destacar informações." },
+            { "titulo": "Alinhamento", "descricao": "alinhe os números à direita e os textos à esquerda." }
+          ]
+        },
+        {
+          "tipo": "destacado",
+          "texto": "Menos é mais: uma formatação limpa deixa a leitura e a análise dos dados muito mais fáceis."
+        }
+      ]
+    },
+    {
+      "titulo": "Conclusão",
+      "blocos": [
+        {
+          "tipo": "destacado",
+          "texto": "Inserir dados com o tipo certo e formatar as células corretamente torna a planilha clara e profissional. Na próxima aula, aprenderemos as funções básicas para calcular com o Excel."
+        }
+      ]
+    }
+  ]
+}
