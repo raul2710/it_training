@@ -9,7 +9,7 @@ import { computeScore } from '../quiz/score.js';
 import { storage } from '../storage.js';
 import { router } from '../router.js';
 import { icons } from '../icons.js';
-import { $, LETTERS, escapeHtml, formatTime } from '../utils.js';
+import { $, $$, LETTERS, escapeHtml, formatTime } from '../utils.js';
 
 const KEY_OPTIONS = ['1', '2', '3', '4', '5', '6', '7', '8', '9'];
 
@@ -40,7 +40,6 @@ export function quizPage(params) {
     <div class="quiz__topbar animate-fade-in">
       <div>
         <h1 class="quiz__title">${escapeHtml(lesson.titulo)} — ${escapeHtml(lesson.descricao)}</h1>
-        <p class="quiz__student">${icons.user} ${escapeHtml(studentName)}</p>
       </div>
       <div class="quiz__timer" aria-label="Tempo decorrido">
         ${icons.clock}<span data-timer>00:00</span>
@@ -115,7 +114,16 @@ export function quizPage(params) {
   const selectAnswer = (index) => {
     if (index < 0 || index >= engine.current.alternativas.length) return;
     engine.select(index);
-    renderQuestion();
+
+    $$('[data-option]', main).forEach((btn) => {
+      const isSelected = Number(btn.dataset.option) === index;
+      btn.classList.toggle('option--selected', isSelected);
+      btn.setAttribute('aria-checked', String(isSelected));
+      $('.option__check', btn).innerHTML = isSelected ? icons.check : '';
+    });
+
+    $('[data-answered]', main).textContent = `${engine.answeredCount} de ${engine.total} respondidas`;
+    $('[data-next]', main).disabled = false;
   };
 
   const finalize = () => {

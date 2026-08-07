@@ -34,11 +34,6 @@
   margin-bottom: var(--space-1);
 }
 
-.quiz__student {
-  color: var(--color-text-muted);
-  font-size: var(--fs-sm);
-}
-
 .quiz__timer {
   display: inline-flex;
   align-items: center;

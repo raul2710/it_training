@@ -6,15 +6,15 @@ export function createTimer(onTick = null) {
   let elapsed = 0;
   let intervalId = null;
 
-  const tick = () => {
-    elapsed += 1;
-    if (typeof onTick === 'function') onTick(elapsed);
-  };
+  const timer = {
+    onTick,
 
-  return {
     start() {
       if (intervalId !== null) return;
-      intervalId = setInterval(tick, 1000);
+      intervalId = setInterval(() => {
+        elapsed += 1;
+        if (typeof this.onTick === 'function') this.onTick(elapsed);
+      }, 1000);
     },
 
     stop() {
@@ -31,4 +31,6 @@ export function createTimer(onTick = null) {
       return elapsed;
     }
   };
+
+  return timer;
 }
