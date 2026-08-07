@@ -1,0 +1,143 @@
+{
+  "id": "c_m3_aula01",
+  "modulo": "Módulo 3 — Microsoft Excel",
+  "titulo": "Introdução ao Microsoft Excel",
+  "subtitulo": "O que é o Excel, sua interface, como criar planilhas, inserir dados e usar recursos básicos.",
+  "tempo": 10,
+  "secoes": [
+    {
+      "titulo": "O que é o Microsoft Excel?",
+      "blocos": [
+        {
+          "tipo": "texto",
+          "texto": "O Microsoft Excel é um programa de planilhas eletrônicas desenvolvido pela Microsoft, usado para organizar, calcular e analisar dados. Ele é amplamente utilizado no mercado para criar tabelas, controles financeiros, relatórios e gráficos, em áreas como administração, finanças, vendas e recursos humanos."
+        },
+        {
+          "tipo": "destacado",
+          "texto": "Curiosidade: o Excel foi lançado em 1985 e o nome vem de \"excellent\", em uma disputa com o concorrente Lotus 1-2-3."
+        }
+      ]
+    },
+    {
+      "titulo": "Por que aprender Excel?",
+      "blocos": [
+        {
+          "tipo": "cards",
+          "itens": [
+            { "titulo": "Facilita contas", "descricao": "calcula rapidamente somas, médias e porcentagens." },
+            { "titulo": "Organiza dados", "descricao": "mantém informações organizadas em linhas e colunas." },
+            { "titulo": "Cria relatórios", "descricao": "monta análises visuais com tabelas e gráficos." }
+          ]
+        },
+        {
+          "tipo": "destacado",
+          "texto": "Saber Excel é uma das habilidades mais pedidas nas vagas de emprego atuais."
+        }
+      ]
+    },
+    {
+      "titulo": "A interface do Excel",
+      "blocos": [
+        {
+          "tipo": "cards",
+          "itens": [
+            { "titulo": "Faixa de Opções", "descricao": "contém guias como Página Inicial, Inserir e Fórmulas." },
+            { "titulo": "Barra de Fórmulas", "descricao": "mostra e edita o conteúdo ou a fórmula da célula." },
+            { "titulo": "Planilha", "descricao": "a área de células onde você digita os dados." },
+            { "titulo": "Barra de Status", "descricao": "exibe informações como soma e contagem das células selecionadas." }
+          ]
+        },
+        {
+          "tipo": "destacado",
+          "texto": "Cada arquivo do Excel é chamado de \"Pasta de Trabalho\" e pode conter várias planilhas."
+        }
+      ]
+    },
+    {
+      "titulo": "Células, linhas e colunas",
+      "blocos": [
+        {
+          "tipo": "texto",
+          "texto": "Toda a área de trabalho é dividida em células, que são a intersecção entre uma coluna (letra) e uma linha (número). Por exemplo, a célula A1 fica na coluna A e na linha 1. O endereço de cada célula é chamado de referência e é usado para cálculos e fórmulas."
+        },
+        {
+          "tipo": "cards",
+          "itens": [
+            { "titulo": "Colunas", "descricao": "identificadas por letras (A, B, C...)." },
+            { "titulo": "Linhas", "descricao": "identificadas por números (1, 2, 3...)." },
+            { "titulo": "Célula", "descricao": "o cruzamento de coluna e linha, como B3." }
+          ]
+        },
+        {
+          "tipo": "destacado",
+          "texto": "A barra de fórmulas mostra a referência da célula selecionada no campo \"Nome\"."
+        }
+      ]
+    },
+    {
+      "titulo": "Criando uma nova planilha",
+      "blocos": [
+        {
+          "tipo": "passos",
+          "itens": [
+            { "titulo": "Abra o Excel", "descricao": "para iniciar o programa." },
+            { "titulo": "Clique em Nova Pasta de Trabalho", "descricao": "ou pressione Ctrl + N." },
+            { "titulo": "Escolha uma planilha", "descricao": "na parte inferior para começar a digitar." }
+          ]
+        },
+        {
+          "tipo": "destacado",
+          "texto": "Para renomear uma planilha, clique duas vezes na aba dela e digite o novo nome."
+        }
+      ]
+    },
+    {
+      "titulo": "Inserindo e editando dados",
+      "blocos": [
+        {
+          "tipo": "passos",
+          "itens": [
+            { "titulo": "Selecione uma célula", "descricao": "dando um clique simples com o mouse." },
+            { "titulo": "Digite o conteúdo", "descricao": "e pressione Enter para confirmar." },
+            { "titulo": "Edite o que já existe", "descricao": "clique duplo na célula ou use a barra de fórmulas." }
+          ]
+        },
+        {
+          "tipo": "lista",
+          "itens": [
+            "Use as setas do teclado para navegar entre as células.",
+            "Pressione F2 para editar o conteúdo da célula selecionada.",
+            "Para apagar, selecione a célula e pressione Delete."
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Atalhos importantes",
+      "blocos": [
+        {
+          "tipo": "cards",
+          "itens": [
+            { "titulo": "Ctrl + N", "descricao": "cria uma nova pasta de trabalho." },
+            { "titulo": "Ctrl + S", "descricao": "salva o arquivo." },
+            { "titulo": "Ctrl + B", "descricao": "aplica negrito." },
+            { "titulo": "Ctrl + Z", "descricao": "desfaz a última ação." }
+          ]
+        },
+        {
+          "tipo": "destacado",
+          "texto": "Salvar com frequência (Ctrl + S) evita perder seu trabalho."
+        }
+      ]
+    },
+    {
+      "titulo": "Conclusão",
+      "blocos": [
+        {
+          "tipo": "destacado",
+          "texto": "O Excel é uma ferramenta poderosa para organizar e analisar dados. Nesta aula você aprendeu os fundamentos: o que é, a interface, as células e como criar e editar uma planilha. Na próxima aula veremos como inserir e formatar os dados."
+        }
+      ]
+    }
+  ]
+}
