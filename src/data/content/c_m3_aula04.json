@@ -1,0 +1,137 @@
+{
+  "id": "c_m3_aula04",
+  "modulo": "Módulo 3 — Microsoft Excel",
+  "titulo": "Formatação Condicional",
+  "subtitulo": "Como usar regras para destacar automaticamente células com cores, ícones e barras de dados.",
+  "tempo": 10,
+  "secoes": [
+    {
+      "titulo": "O que é formatação condicional?",
+      "blocos": [
+        {
+          "tipo": "texto",
+          "texto": "A formatação condicional aplica cores, ícones ou barras de dados com base em regras definidas por você. Ela destaca automaticamente informações importantes, como valores altos, datas vencidas ou situações de alerta, sem precisar formatar célula por célula."
+        },
+        {
+          "tipo": "destacado",
+          "texto": "Curiosidade: a formatação condicional foi introduzida no Excel 2007."
+        }
+      ]
+    },
+    {
+      "titulo": "Por que usar formatação condicional?",
+      "blocos": [
+        {
+          "tipo": "cards",
+          "itens": [
+            { "titulo": "Visualização", "descricao": "facilita ver padrões e tendências." },
+            { "titulo": "Profissionalismo", "descricao": "torna as planilhas mais organizadas." },
+            { "titulo": "Eficiência", "descricao": "evita ter que analisar cada célula." }
+          ]
+        },
+        {
+          "tipo": "destacado",
+          "texto": "Barras de dados, escalas de cores e ícones deixam a análise muito mais rápida."
+        }
+      ]
+    },
+    {
+      "titulo": "Tipos de formatação",
+      "blocos": [
+        {
+          "tipo": "cards",
+          "itens": [
+            { "titulo": "Barras de dados", "descricao": "mostram a magnitude dos valores dentro da célula." },
+            { "titulo": "Escalas de cores", "descricao": "variam a cor conforme o valor." },
+            { "titulo": "Ícones", "descricao": "indicam status com setas, círculos e sinalizações." }
+          ]
+        },
+        {
+          "tipo": "texto",
+          "texto": "As barras de dados são ótimas para comparar vendas entre meses, as escalas de cores destacam valores altos e baixos, e os conjuntos de ícones mostram rapidamente se um número subiu ou caiu."
+        }
+      ]
+    },
+    {
+      "titulo": "Criando regras básicas",
+      "blocos": [
+        {
+          "tipo": "passos",
+          "itens": [
+            { "titulo": "Selecione o intervalo", "descricao": "de células que receberão a formatação." },
+            { "titulo": "Vá em Página Inicial", "descricao": "e clique em Formatação Condicional." },
+            { "titulo": "Escolha uma regra", "descricao": "pré-definida ou crie uma nova." }
+          ]
+        },
+        {
+          "tipo": "destacado",
+          "texto": "Exemplo: usar \"Acima da Média\" para destacar células com valores maiores que a média do intervalo."
+        }
+      ]
+    },
+    {
+      "titulo": "Regras personalizadas",
+      "blocos": [
+        {
+          "tipo": "texto",
+          "texto": "Quando as regras prontas não bastam, use a opção \"Nova Regra\" para criar formatações personalizadas com suas próprias condições, como valores entre dois números ou textos específicos."
+        },
+        {
+          "tipo": "lista",
+          "itens": [
+            "Destacar células com valores entre 50 e 100.",
+            "Aplicar ícones para indicar status, como concluído ou pendente.",
+            "Combinar várias regras para análises mais complexas."
+          ]
+        },
+        {
+          "tipo": "destacado",
+          "texto": "Use Gerenciar Regras para editar, excluir ou ajustar a ordem das regras existentes."
+        }
+      ]
+    },
+    {
+      "titulo": "Casos de uso no mercado",
+      "blocos": [
+        {
+          "tipo": "cards",
+          "itens": [
+            { "titulo": "Vendas", "descricao": "análise de desempenho da equipe." },
+            { "titulo": "Projetos", "descricao": "controle de prazos e status." },
+            { "titulo": "Finanças", "descricao": "identificação de valores fora do comum." }
+          ]
+        },
+        {
+          "tipo": "destacado",
+          "texto": "Curiosidade: dá para aplicar até 64.000 regras por planilha e a formatação condicional é muito usada em dashboards."
+        }
+      ]
+    },
+    {
+      "titulo": "Dicas e atalhos",
+      "blocos": [
+        {
+          "tipo": "lista",
+          "itens": [
+            "Ctrl + 1 abre a caixa de formatação de células.",
+            "Use F1 para acessar a ajuda do Excel.",
+            "Ctrl + Z desfaz qualquer erro de formatação."
+          ]
+        },
+        {
+          "tipo": "destacado",
+          "texto": "A formatação condicional também pode criar mapas de calor (heatmaps) em suas planilhas."
+        }
+      ]
+    },
+    {
+      "titulo": "Conclusão",
+      "blocos": [
+        {
+          "tipo": "destacado",
+          "texto": "A formatação condicional destaca automaticamente o que importa em uma planilha. Na próxima aula, veremos como classificar e filtrar dados para organizar suas análises."
+        }
+      ]
+    }
+  ]
+}
