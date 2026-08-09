@@ -1,0 +1,121 @@
+{
+  "id": "c_m4_aula03",
+  "modulo": "Módulo 4 — Microsoft PowerPoint",
+  "titulo": "Trabalhando com Imagens",
+  "subtitulo": "Como inserir, redimensionar e formatar imagens, e os principais formatos de arquivo de imagem.",
+  "tempo": 10,
+  "secoes": [
+    {
+      "titulo": "A importância das imagens",
+      "blocos": [
+        {
+          "tipo": "texto",
+          "texto": "O uso de imagens torna uma apresentação mais visual e impactante. Ao ilustrar pontos importantes com imagens, você facilita a compreensão do público e deixa sua mensagem mais envolvente."
+        },
+        {
+          "tipo": "destacado",
+          "texto": "As imagens devem ter boa qualidade para garantir clareza. Sempre verifique os direitos autorais das imagens que usa."
+        }
+      ]
+    },
+    {
+      "titulo": "Inserindo imagens",
+      "blocos": [
+        {
+          "tipo": "passos",
+          "itens": [
+            { "titulo": "Clique em Inserir", "descricao": "na guia da barra de ferramentas." },
+            { "titulo": "Escolha Imagens", "descricao": "para abrir as opções." },
+            { "titulo": "Selecione Este Dispositivo ou Imagens Online", "descricao": "conforme a origem da imagem." },
+            { "titulo": "Encontre e insira", "descricao": "a imagem desejada e clique em Inserir." }
+          ]
+        },
+        {
+          "tipo": "destacado",
+          "texto": "Dica: o PowerPoint permite adicionar imagens do computador ou da internet. Verifique a resolução para não ficar pixelada."
+        }
+      ]
+    },
+    {
+      "titulo": "Redimensionando e ajustando imagens",
+      "blocos": [
+        {
+          "tipo": "passos",
+          "itens": [
+            { "titulo": "Clique na imagem", "descricao": "para selecioná-la." },
+            { "titulo": "Arraste as alças de canto", "descricao": "para redimensionar." },
+            { "titulo": "Segure Ctrl", "descricao": "para manter a proporção ao redimensionar." }
+          ]
+        },
+        {
+          "tipo": "destacado",
+          "texto": "Evite distorcer a imagem e mantenha o equilíbrio e o alinhamento dela com o texto no slide."
+        }
+      ]
+    },
+    {
+      "titulo": "Formatando imagens",
+      "blocos": [
+        {
+          "tipo": "texto",
+          "texto": "O PowerPoint oferece várias ferramentas para modificar a aparência das suas imagens e deixar a apresentação mais profissional."
+        },
+        {
+          "tipo": "passos",
+          "itens": [
+            { "titulo": "Selecione a imagem", "descricao": "que deseja formatar." },
+            { "titulo": "Aba Formatar", "descricao": "explore os ajustes de Correção, Brilho e Contraste." },
+            { "titulo": "Aplique efeitos", "descricao": "como bordas, sombras ou efeitos especiais." }
+          ]
+        },
+        {
+          "tipo": "destacado",
+          "texto": "Use efeitos sutis e mantenha um estilo consistente em todas as imagens para uma aparência profissional."
+        }
+      ]
+    },
+    {
+      "titulo": "Formatos de imagem I",
+      "blocos": [
+        {
+          "tipo": "cards",
+          "itens": [
+            { "titulo": "JPEG", "descricao": "comum para fotografias; comprime reduz tamanho, mas pode perder qualidade." },
+            { "titulo": "PNG", "descricao": "alta qualidade sem perder detalhes e suporta fundo transparente." }
+          ]
+        },
+        {
+          "tipo": "destacado",
+          "texto": "O JPEG foi desenvolvido em 1992 e é muito usado na internet. Use PNG quando precisar de fundo transparente, como em logos."
+        }
+      ]
+    },
+    {
+      "titulo": "Formatos de imagem II",
+      "blocos": [
+        {
+          "tipo": "cards",
+          "itens": [
+            { "titulo": "GIF", "descricao": "suporta animações simples e é bom para gráficos básicos." },
+            { "titulo": "SVG", "descricao": "formato vetorial que redimensiona sem perder qualidade." },
+            { "titulo": "BMP", "descricao": "alta qualidade sem compressão, mas gera arquivos grandes." },
+            { "titulo": "TIFF", "descricao": "para impressos profissionais e imagens de alta qualidade." }
+          ]
+        },
+        {
+          "tipo": "destacado",
+          "texto": "Experimente diversos formatos: PNG para transparência, JPEG para fotos, SVG para ícones e BMP/TIFF para impressão de alta definição."
+        }
+      ]
+    },
+    {
+      "titulo": "Conclusão",
+      "blocos": [
+        {
+          "tipo": "destacado",
+          "texto": "Inserir, redimensionar e formatar imagens deixa a apresentação mais visual e envolvente. Escolha imagens de boa qualidade, bem posicionadas e no formato certo para transmitir sua mensagem sem distrair o público."
+        }
+      ]
+    }
+  ]
+}
