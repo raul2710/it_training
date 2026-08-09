@@ -1,0 +1,155 @@
+{
+  "id": "c_m4_aula01",
+  "modulo": "Módulo 4 — Microsoft PowerPoint",
+  "titulo": "Criando uma Apresentação Simples",
+  "subtitulo": "O que é o PowerPoint, sua interface, como criar, salvar e compartilhar uma apresentação simples.",
+  "tempo": 10,
+  "secoes": [
+    {
+      "titulo": "O que é o Microsoft PowerPoint?",
+      "blocos": [
+        {
+          "tipo": "texto",
+          "texto": "O Microsoft PowerPoint é um software de apresentações criado pela Microsoft em 1987. Ele permite criar apresentações visuais usadas em escolas, empresas e eventos, combinando textos, imagens, tabelas e mídias para contar uma história de forma clara e atraente."
+        },
+        {
+          "tipo": "destacado",
+          "texto": "Curiosidade: o nome inicial era \"Presenter\", mas foi alterado para \"PowerPoint\" por questões de registro."
+        }
+      ]
+    },
+    {
+      "titulo": "Por que usar o PowerPoint?",
+      "blocos": [
+        {
+          "tipo": "cards",
+          "itens": [
+            { "titulo": "Visual", "descricao": "apresenta informações de forma engajante e cheia de impacto." },
+            { "titulo": "Versátil", "descricao": "serve para aulas, palestras, reuniões e demonstrações." },
+            { "titulo": "Modelos", "descricao": "modelos prontos permitem criar apresentações rapidamente." }
+          ]
+        },
+        {
+          "tipo": "destacado",
+          "texto": "É uma das ferramentas de apresentação mais utilizadas em todo o mundo."
+        }
+      ]
+    },
+    {
+      "titulo": "A interface do PowerPoint",
+      "blocos": [
+        {
+          "tipo": "cards",
+          "itens": [
+            { "titulo": "Faixa de Opções", "descricao": "contém guias como Página Inicial, Inserir, Design e Animações." },
+            { "titulo": "Painel de Slides", "descricao": "mostra os slides em miniatura para facilitar a navegação." },
+            { "titulo": "Área de Trabalho", "descricao": "onde o slide atual é editado." },
+            { "titulo": "Barra de Status", "descricao": "exibe o número total de slides e informações do modo de exibição." }
+          ]
+        },
+        {
+          "tipo": "destacado",
+          "texto": "A interface é similar entre Word, Excel e PowerPoint, o que facilita o aprendizado de todas as ferramentas."
+        }
+      ]
+    },
+    {
+      "titulo": "Criando sua primeira apresentação",
+      "blocos": [
+        {
+          "tipo": "passos",
+          "itens": [
+            { "titulo": "Abra o PowerPoint", "descricao": "para iniciar o programa." },
+            { "titulo": "Escolha Apresentação em Branco", "descricao": "ou selecione um modelo pré-definido." },
+            { "titulo": "Insira o título e o subtítulo", "descricao": "no primeiro slide da apresentação." }
+          ]
+        },
+        {
+          "tipo": "lista",
+          "itens": [
+            "Escolha fontes legíveis, como Arial ou Calibri.",
+            "Limite o texto a ideias principais, evitando excesso de informação.",
+            "Salve assim que começar com Ctrl + S."
+          ]
+        },
+        {
+          "tipo": "destacado",
+          "texto": "Boas práticas: nomeie o arquivo de forma clara, como \"Trabalho_Historia.pptx\"."
+        }
+      ]
+    },
+    {
+      "titulo": "Salvando e compartilhando",
+      "blocos": [
+        {
+          "tipo": "passos",
+          "itens": [
+            { "titulo": "Clique em Arquivo > Salvar Como", "descricao": "para escolher o local do arquivo." },
+            { "titulo": "Escolha o local", "descricao": "OneDrive, PC ou outro destino." },
+            { "titulo": "Nomeie e salve", "descricao": "para finalizar." }
+          ]
+        },
+        {
+          "tipo": "texto",
+          "texto": "Para compartilhar, use Arquivo > Compartilhar e escolha enviar por e-mail ou gerar um link. O OneDrive permite acessar a apresentação de qualquer dispositivo."
+        },
+        {
+          "tipo": "destacado",
+          "texto": "Curiosidade: o PowerPoint pode exportar apresentações em PDF ou vídeo. Ative o salvamento automático para evitar perdas."
+        }
+      ]
+    },
+    {
+      "titulo": "Ferramentas e atalhos úteis",
+      "blocos": [
+        {
+          "tipo": "cards",
+          "itens": [
+            { "titulo": "Ctrl + C / V", "descricao": "copiar e colar conteúdo." },
+            { "titulo": "Ctrl + D", "descricao": "duplica slides ou objetos." },
+            { "titulo": "Ctrl + M", "descricao": "cria um novo slide." },
+            { "titulo": "Modo de Apresentação", "descricao": "revisa o conteúdo antes de exibir." }
+          ]
+        },
+        {
+          "tipo": "lista",
+          "itens": [
+            "Inserir Texto: Inserir > Caixa de Texto.",
+            "Formatar Texto: aba Página Inicial.",
+            "Inserir Imagens: Inserir > Imagem."
+          ]
+        },
+        {
+          "tipo": "destacado",
+          "texto": "Curiosidade: a primeira versão do PowerPoint rodava em computadores Macintosh."
+        }
+      ]
+    },
+    {
+      "titulo": "Como personalizar a apresentação",
+      "blocos": [
+        {
+          "tipo": "lista",
+          "itens": [
+            "Adicione um tema em Design > Temas.",
+            "Altere o layout do slide em Página Inicial > Layout.",
+            "Insira transições em Transições > Escolha um Estilo."
+          ]
+        },
+        {
+          "tipo": "destacado",
+          "texto": "Use cores consistentes para manter a identidade visual e evite exagerar em transições e animações. O PowerPoint também tem o recurso \"Designer\", que sugere layouts automaticamente."
+        }
+      ]
+    },
+    {
+      "titulo": "Conclusão",
+      "blocos": [
+        {
+          "tipo": "destacado",
+          "texto": "O PowerPoint é uma ferramenta poderosa para criar apresentações visuais e envolventes. Nesta aula você aprendeu o que ele é, a interface, como criar, salvar e compartilhar uma apresentação simples e os principais atalhos."
+        }
+      ]
+    }
+  ]
+}
