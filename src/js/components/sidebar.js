@@ -32,6 +32,10 @@ export function createSidebar({ active = '' } = {}) {
     </div>
   `;
 
-  wrapper.append(overlay, sidebar);
-  return wrapper;
+  wrapper.appendChild(sidebar);
+
+  const fragment = document.createDocumentFragment();
+  fragment.appendChild(overlay);
+  fragment.appendChild(wrapper);
+  return fragment;
 }
