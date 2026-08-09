@@ -1,0 +1,124 @@
+{
+  "id": "c_m4_aula02",
+  "modulo": "Módulo 4 — Microsoft PowerPoint",
+  "titulo": "Formatação de Texto",
+  "subtitulo": "Como inserir caixas de texto, formatar fontes, usar alinhamentos e aplicar efeitos no PowerPoint.",
+  "tempo": 10,
+  "secoes": [
+    {
+      "titulo": "A importância do texto",
+      "blocos": [
+        {
+          "tipo": "texto",
+          "texto": "O texto é fundamental em uma apresentação, pois oferece clareza e explica o conteúdo visual, como imagens e gráficos. No PowerPoint, é essencial formatar o texto corretamente para que ele seja legível e atraente para o público."
+        },
+        {
+          "tipo": "lista",
+          "itens": [
+            "Títulos devem ser grandes e bem visíveis.",
+            "O texto do corpo precisa ser legível, com fonte simples e tamanho adequado.",
+            "Revise a ortografia e a gramática antes de apresentar."
+          ]
+        },
+        {
+          "tipo": "destacado",
+          "texto": "Curiosidade: fontes como Arial, Calibri e Verdana são populares porque são legíveis mesmo em telas pequenas e têm um design limpo."
+        }
+      ]
+    },
+    {
+      "titulo": "Inserindo caixas de texto",
+      "blocos": [
+        {
+          "tipo": "texto",
+          "texto": "Uma das formas de adicionar texto no PowerPoint é por meio das caixas de texto, que são áreas onde você digita as informações que deseja destacar ou explicar."
+        },
+        {
+          "tipo": "passos",
+          "itens": [
+            { "titulo": "Clique em Inserir", "descricao": "na barra de ferramentas." },
+            { "titulo": "Escolha Caixa de Texto", "descricao": "no menu de opções." },
+            { "titulo": "Clique e arraste", "descricao": "para criar a caixa onde o texto aparecerá." },
+            { "titulo": "Digite o conteúdo", "descricao": "no slide." }
+          ]
+        },
+        {
+          "tipo": "destacado",
+          "texto": "Use caixas de texto separadas para títulos, subtítulos e corpo, mantendo a organização do slide."
+        }
+      ]
+    },
+    {
+      "titulo": "Formatação básica de texto",
+      "blocos": [
+        {
+          "tipo": "passos",
+          "itens": [
+            { "titulo": "Selecione o texto", "descricao": "que deseja formatar." },
+            { "titulo": "Página Inicial", "descricao": "use as opções de fonte para mudar estilo e tamanho." },
+            { "titulo": "Altere a cor", "descricao": "para ajustar o texto conforme necessário." }
+          ]
+        },
+        {
+          "tipo": "lista",
+          "itens": [
+            "Evite usar muitas fontes diferentes para manter a consistência.",
+            "Cores contrastantes melhoram a legibilidade do texto."
+          ]
+        },
+        {
+          "tipo": "destacado",
+          "texto": "A formatação destaca informações importantes e deixa o texto mais atraente e compreensível."
+        }
+      ]
+    },
+    {
+      "titulo": "Trabalhando com alinhamento",
+      "blocos": [
+        {
+          "tipo": "texto",
+          "texto": "O alinhamento do texto melhora a estética e a legibilidade do slide, podendo ser ajustado conforme o tipo de conteúdo apresentado."
+        },
+        {
+          "tipo": "cards",
+          "itens": [
+            { "titulo": "Esquerda", "descricao": "ideal para listas e textos explicativos." },
+            { "titulo": "Centralizada", "descricao": "melhor para títulos e cabeçalhos." },
+            { "titulo": "Direita", "descricao": "usado com menos frequência, mas útil em alguns casos." },
+            { "titulo": "Justificada", "descricao": "distribui o texto entre as margens esquerda e direita." }
+          ]
+        },
+        {
+          "tipo": "destacado",
+          "texto": "Usar o alinhamento adequado deixa o texto bem distribuído e claro para o público."
+        }
+      ]
+    },
+    {
+      "titulo": "Estilos e efeitos de texto",
+      "blocos": [
+        {
+          "tipo": "passos",
+          "itens": [
+            { "titulo": "Selecione o texto", "descricao": "que receberá o efeito." },
+            { "titulo": "Abra a aba Formato de Forma", "descricao": "para escolher as opções." },
+            { "titulo": "Escolha o efeito", "descricao": "de preenchimento, contorno ou efeitos especiais." }
+          ]
+        },
+        {
+          "tipo": "destacado",
+          "texto": "Use efeitos discretos para um toque profissional. Muitos efeitos deixam a apresentação carregada e desviam a atenção do conteúdo."
+        }
+      ]
+    },
+    {
+      "titulo": "Conclusão",
+      "blocos": [
+        {
+          "tipo": "destacado",
+          "texto": "Inserir e formatar textos, usar diferentes alinhamentos e aplicar efeitos tornam a apresentação clara, organizada e atraente. O segredo é manter o texto objetivo e sem sobrecarregar o público. Revise a ortografia antes de apresentar!"
+        }
+      ]
+    }
+  ]
+}
