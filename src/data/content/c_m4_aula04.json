@@ -1,0 +1,131 @@
+{
+  "id": "c_m4_aula04",
+  "modulo": "Módulo 4 — Microsoft PowerPoint",
+  "titulo": "Transições e Animações",
+  "subtitulo": "Como aplicar transições entre slides e animações em objetos para dar movimento à apresentação.",
+  "tempo": 10,
+  "secoes": [
+    {
+      "titulo": "Transições e animações: o que são?",
+      "blocos": [
+        {
+          "tipo": "texto",
+          "texto": "As transições e animações são ferramentas do PowerPoint que tornam a apresentação mais interessante, adicionando movimento entre os slides e nos elementos de cada slide, mantendo a atenção do público."
+        },
+        {
+          "tipo": "cards",
+          "itens": [
+            { "titulo": "Transições", "descricao": "efeito de mudança de um slide para o outro." },
+            { "titulo": "Animações", "descricao": "efeitos aplicados a objetos dentro do slide, como texto ou imagens." }
+          ]
+        },
+        {
+          "tipo": "destacado",
+          "texto": "Use transições sutis para um toque profissional ou mais ousadas para um impacto criativo, mas sem exagerar para não desviar a atenção do conteúdo."
+        }
+      ]
+    },
+    {
+      "titulo": "Aplicando transições",
+      "blocos": [
+        {
+          "tipo": "passos",
+          "itens": [
+            { "titulo": "Selecione o slide", "descricao": "ao qual deseja aplicar a transição." },
+            { "titulo": "Aba Transições", "descricao": "abra a guia de transições." },
+            { "titulo": "Escolha um efeito", "descricao": "na galeria de opções." },
+            { "titulo": "Ajuste as configurações", "descricao": "como duração e efeitos adicionais." },
+            { "titulo": "Aplicar a Todos", "descricao": "para usar a mesma transição em todos os slides." }
+          ]
+        },
+        {
+          "tipo": "destacado",
+          "texto": "Use transições simples em apresentações formais, como o efeito Desvanecer."
+        }
+      ]
+    },
+    {
+      "titulo": "Configurações de transição",
+      "blocos": [
+        {
+          "tipo": "texto",
+          "texto": "Você pode personalizar a transição de cada slide para se ajustar ao estilo da sua apresentação, controlando duração, som e o avanço dos slides."
+        },
+        {
+          "tipo": "cards",
+          "itens": [
+            { "titulo": "Duração", "descricao": "controle se a transição é mais lenta ou mais rápida." },
+            { "titulo": "Som", "descricao": "adicione sons durante a transição, usando-os com moderação." },
+            { "titulo": "Avançar Slide", "descricao": "após um tempo ou apenas com um clique." }
+          ]
+        },
+        {
+          "tipo": "destacado",
+          "texto": "A duração ideal de uma transição fica entre 0,5 e 1 segundo, mantendo o ritmo sem fazer o público esperar demais."
+        }
+      ]
+    },
+    {
+      "titulo": "Animações em objetos",
+      "blocos": [
+        {
+          "tipo": "passos",
+          "itens": [
+            { "titulo": "Selecione o objeto", "descricao": "texto, imagem ou gráfico que será animado." },
+            { "titulo": "Aba Animações", "descricao": "acesse a guia de animações." },
+            { "titulo": "Escolha o efeito", "descricao": "como \"Aparecer\" ou \"Deslizar para dentro\"." },
+            { "titulo": "Ajuste o gatilho", "descricao": "direção, velocidade e momento em que a animação ocorre." }
+          ]
+        },
+        {
+          "tipo": "destacado",
+          "texto": "Animar pontos-chave ajuda a manter o público engajado, mas use animações com moderação para não confundir a sequência."
+        }
+      ]
+    },
+    {
+      "titulo": "Tipos de animação",
+      "blocos": [
+        {
+          "tipo": "cards",
+          "itens": [
+            { "titulo": "Entrada", "descricao": "faz o objeto aparecer na tela, como \"Aparecer\" ou \"Deslizar\"." },
+            { "titulo": "Ênfase", "descricao": "aplicada quando o objeto já está visível, como \"Pulsar\" ou \"Girar\"." },
+            { "titulo": "Saída", "descricao": "faz o objeto sair da tela, como \"Desaparecer\" ou \"Mover\"." },
+            { "titulo": "Trajetória", "descricao": "move um objeto de um ponto a outro por um caminho." }
+          ]
+        },
+        {
+          "tipo": "destacado",
+          "texto": "Animações de entrada chamam a atenção para novos pontos; animações de ênfase destacam ideias importantes."
+        }
+      ]
+    },
+    {
+      "titulo": "Configurações de animação",
+      "blocos": [
+        {
+          "tipo": "cards",
+          "itens": [
+            { "titulo": "Iniciar", "descricao": "determina se a animação começa ao clicar, automaticamente ou após outra." },
+            { "titulo": "Duração", "descricao": "ajusta o tempo de cada animação." },
+            { "titulo": "Atraso", "descricao": "adianta ou retarda o início da animação." }
+          ]
+        },
+        {
+          "tipo": "destacado",
+          "texto": "Sincronize as animações para que o público acompanhe a sequência de ideias. Evite animações desnecessárias."
+        }
+      ]
+    },
+    {
+      "titulo": "Conclusão",
+      "blocos": [
+        {
+          "tipo": "destacado",
+          "texto": "Transições movem o slide com fluidez, e animações tornam os elementos mais dinâmicos. Ambas devem ser usadas com equilíbrio, sempre com o foco no conteúdo principal e não nas distrações."
+        }
+      ]
+    }
+  ]
+}
