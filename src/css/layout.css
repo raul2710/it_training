@@ -397,7 +397,7 @@ body.sidebar-collapsed .main-content {
 }
 
 .module-card__body {
-  padding: 0 var(--space-5) var(--space-5);
+  padding: var(--space-5) var(--space-5) var(--space-5);
   border-top: 1px solid var(--color-border);
 }
 
