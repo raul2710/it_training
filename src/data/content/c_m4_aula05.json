@@ -1,0 +1,149 @@
+{
+  "id": "c_m4_aula05",
+  "modulo": "Módulo 4 — Microsoft PowerPoint",
+  "titulo": "Criando e Formatando uma Tabela",
+  "subtitulo": "Como inserir, formatar e organizar tabelas no PowerPoint para apresentar dados de forma clara.",
+  "tempo": 10,
+  "secoes": [
+    {
+      "titulo": "O que são tabelas no PowerPoint?",
+      "blocos": [
+        {
+          "tipo": "texto",
+          "texto": "As tabelas são estruturas que organizam informações em linhas e colunas, úteis para exibir dados de forma clara e organizada. Elas facilitam a visualização de dados comparativos e tornam a apresentação mais profissional e fácil de entender."
+        },
+        {
+          "tipo": "destacado",
+          "texto": "Use tabelas em vez de listas quando precisar comparar valores ou apresentar dados estruturados."
+        }
+      ]
+    },
+    {
+      "titulo": "Inserindo uma tabela",
+      "blocos": [
+        {
+          "tipo": "passos",
+          "itens": [
+            { "titulo": "Aba Inserir", "descricao": "clique na guia Inserir." },
+            { "titulo": "Clique em Tabela", "descricao": "para abrir as opções." },
+            { "titulo": "Escolha linhas e colunas", "descricao": "a quantidade desejada." },
+            { "titulo": "Confirme", "descricao": "para inserir a tabela no slide." }
+          ]
+        },
+        {
+          "tipo": "destacado",
+          "texto": "Dica: você também pode desenhar uma tabela manualmente usando a opção \"Desenhar Tabela\"."
+        }
+      ]
+    },
+    {
+      "titulo": "Formatando tabelas",
+      "blocos": [
+        {
+          "tipo": "cards",
+          "itens": [
+            { "titulo": "Estilos de Tabela", "descricao": "aplica estilos prontos de cores e bordas." },
+            { "titulo": "Bordas", "descricao": "personaliza espessura, cor e estilo das bordas." },
+            { "titulo": "Preenchimento", "descricao": "altera a cor de fundo das células." },
+            { "titulo": "Alinhamento", "descricao": "ajusta o alinhamento do texto nas células." }
+          ]
+        },
+        {
+          "tipo": "destacado",
+          "texto": "Exemplo prático: aplique um estilo de tabela e deixe o texto alinhado ao centro para um visual limpo."
+        }
+      ]
+    },
+    {
+      "titulo": "Inserindo e excluindo linhas e colunas",
+      "blocos": [
+        {
+          "tipo": "passos",
+          "itens": [
+            { "titulo": "Clique com o botão direito", "descricao": "em uma célula da tabela." },
+            { "titulo": "Escolha Inserir", "descricao": "e selecione linhas acima/abaixo ou colunas à esquerda/direita." },
+            { "titulo": "Ou escolha Excluir", "descricao": "e selecione linhas ou colunas para remover." }
+          ]
+        },
+        {
+          "tipo": "destacado",
+          "texto": "Dica: use a tecla Tab para adicionar uma nova linha ao final da tabela."
+        }
+      ]
+    },
+    {
+      "titulo": "Mesclando e dividindo células",
+      "blocos": [
+        {
+          "tipo": "passos",
+          "itens": [
+            { "titulo": "Selecione as células", "descricao": "que deseja mesclar." },
+            { "titulo": "Aba Layout", "descricao": "clique em Mesclar Células." }
+          ]
+        },
+        {
+          "tipo": "texto",
+          "texto": "Para dividir uma célula, selecione-a e, na guia Layout, clique em Dividir Células. Mesclando é possível criar um título centralizado na tabela."
+        }
+      ]
+    },
+    {
+      "titulo": "Ajustando tamanho e posição",
+      "blocos": [
+        {
+          "tipo": "lista",
+          "itens": [
+            "Arraste as bordas da tabela para redimensioná-la.",
+            "Use as opções de Altura da Linha e Largura da Coluna na guia Layout.",
+            "Arraste a tabela para movê-la no slide.",
+            "Use as guias de alinhamento para centralizar a tabela."
+          ]
+        },
+        {
+          "tipo": "destacado",
+          "texto": "Mantenha a proporção ao redimensionar para evitar distorções."
+        }
+      ]
+    },
+    {
+      "titulo": "Adicionando dados e estilizando",
+      "blocos": [
+        {
+          "tipo": "passos",
+          "itens": [
+            { "titulo": "Clique na célula", "descricao": "e digite o conteúdo desejado." },
+            { "titulo": "Guia Página Inicial", "descricao": "altere fontes, tamanhos e cores do texto." },
+            { "titulo": "Estilos Rápidos", "descricao": "aplique formatação de texto pronta." }
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Boas práticas no uso de tabelas",
+      "blocos": [
+        {
+          "tipo": "lista",
+          "itens": [
+            "Mantenha a simplicidade: evite tabelas muito complexas.",
+            "Use cores moderadamente para destacar o importante.",
+            "Garanta a legibilidade com texto claro.",
+            "Use alinhamento consistente para facilitar a leitura."
+          ]
+        },
+        {
+          "tipo": "destacado",
+          "texto": "Tabelas são poderosas para dispor dados. Explore outras funcionalidades, como gráficos e animações, para apresentá-los de outras formas."
+        }
+      ]
+    },
+    {
+      "titulo": "Conclusão",
+      "blocos": [
+        {
+          "tipo": "destacado",
+          "texto": "As tabelas são ferramentas eficientes para organizar e apresentar dados no PowerPoint. Com as opções de formatação, mesclagem e boas práticas, você deixa sua apresentação clara e profissional."
+        }
+      ]
+    }
+  ]
+}
