@@ -1,0 +1,150 @@
+{
+  "id": "c_m4_aula07",
+  "modulo": "Módulo 4 — Microsoft PowerPoint",
+  "titulo": "Apresentação Multimídia",
+  "subtitulo": "Como inserir vídeos e áudios, configurar a reprodução e usar recursos avançados no PowerPoint.",
+  "tempo": 10,
+  "secoes": [
+    {
+      "titulo": "Por que usar vídeos e áudios?",
+      "blocos": [
+        {
+          "tipo": "texto",
+          "texto": "Os vídeos e áudios tornam a apresentação mais dinâmica e profissional. Eles ajudam a envolver a audiência e a explicar conceitos complexos de forma mais clara."
+        },
+        {
+          "tipo": "cards",
+          "itens": [
+            { "titulo": "Engajar", "descricao": "conteúdo multimídia prende a atenção do público." },
+            { "titulo": "Explicar", "descricao": "conceitos complexos ficam mais fáceis de entender." },
+            { "titulo": "Atmosfera", "descricao": "trilhas sonoras criam o clima da apresentação." }
+          ]
+        },
+        {
+          "tipo": "destacado",
+          "texto": "Exemplos de uso: vídeos explicativos, depoimentos em áudio e trilhas sonoras para criar ambiente."
+        }
+      ]
+    },
+    {
+      "titulo": "Inserindo vídeos",
+      "blocos": [
+        {
+          "tipo": "passos",
+          "itens": [
+            { "titulo": "Selecione o slide", "descricao": "onde deseja inserir o vídeo." },
+            { "titulo": "Aba Inserir", "descricao": "clique no menu superior." },
+            { "titulo": "Escolha Vídeo", "descricao": "\"Vídeo no Meu Computador\" ou \"Vídeo Online\"." },
+            { "titulo": "Ajuste o vídeo", "descricao": "defina o tamanho e a posição no slide." }
+          ]
+        },
+        {
+          "tipo": "destacado",
+          "texto": "Use vídeos curtos e relevantes, em formatos compatíveis como MP4 ou WMV, para não distrair o público."
+        }
+      ]
+    },
+    {
+      "titulo": "Configurando a reprodução de vídeos",
+      "blocos": [
+        {
+          "tipo": "passos",
+          "itens": [
+            { "titulo": "Selecione o vídeo", "descricao": "e vá para a guia Reprodução." },
+            { "titulo": "Escolha o início", "descricao": "\"Automático\" ou \"Ao Clicar\"." },
+            { "titulo": "Tela inteira", "descricao": "marque \"Reproduzir em Tela Inteira\" se desejar." },
+            { "titulo": "Corte", "descricao": "use \"Cortar Vídeo\" para remover partes desnecessárias." }
+          ]
+        },
+        {
+          "tipo": "destacado",
+          "texto": "Teste a reprodução antes da apresentação. Para vídeos online, certifique-se de ter uma conexão estável."
+        }
+      ]
+    },
+    {
+      "titulo": "Inserindo áudios",
+      "blocos": [
+        {
+          "tipo": "passos",
+          "itens": [
+            { "titulo": "Selecione o slide", "descricao": "onde deseja inserir o áudio." },
+            { "titulo": "Aba Inserir", "descricao": "clique no menu superior." },
+            { "titulo": "Escolha Áudio", "descricao": "\"Áudio no Meu Computador\" ou \"Gravar Áudio\"." },
+            { "titulo": "Ajuste o ícone", "descricao": "defina tamanho e posição do ícone de áudio." }
+          ]
+        },
+        {
+          "tipo": "destacado",
+          "texto": "Prefira formatos compatíveis, como MP3 ou WAV, e áudios claros e com boa qualidade."
+        }
+      ]
+    },
+    {
+      "titulo": "Configurando a reprodução de áudios",
+      "blocos": [
+        {
+          "tipo": "passos",
+          "itens": [
+            { "titulo": "Clique no ícone de áudio", "descricao": "e vá para a guia Reprodução." },
+            { "titulo": "Escolha o início", "descricao": "\"Automático\" ou \"Ao Clicar\"." },
+            { "titulo": "Em todos os slides", "descricao": "marque \"Reproduzir em Todas as Slides\" se quiser." },
+            { "titulo": "Corte", "descricao": "use \"Cortar Áudio\" para remover partes." }
+          ]
+        },
+        {
+          "tipo": "destacado",
+          "texto": "Ajuste o volume para não interferir na fala do apresentador e prefira trilhas suaves."
+        }
+      ]
+    },
+    {
+      "titulo": "Recursos avançados",
+      "blocos": [
+        {
+          "tipo": "texto",
+          "texto": "Você pode adicionar efeitos de entrada e saída para vídeos e áudios, usar transições suaves e sincronizar a mídia com animações de texto ou imagens."
+        },
+        {
+          "tipo": "cards",
+          "itens": [
+            { "titulo": "Sincronização", "descricao": "controle o timing com \"Iniciar com Anterior\" ou \"Após Anterior\"." },
+            { "titulo": "Efeitos", "descricao": "entrada e saída deixam a mídia mais fluida." },
+            { "titulo": "Gravação de Tela", "descricao": "Inserir > Mídia > Gravação de Tela para capturar a tela." }
+          ]
+        },
+        {
+          "tipo": "destacado",
+          "texto": "Menos é mais: evite exagerar em efeitos e pratique a sincronização para que tudo funcione."
+        }
+      ]
+    },
+    {
+      "titulo": "Dicas antes e depois da apresentação",
+      "blocos": [
+        {
+          "tipo": "lista",
+          "itens": [
+            "Antes: teste todos os vídeos e áudios no equipamento que será usado.",
+            "Verifique se os arquivos de mídia estão corretamente vinculados.",
+            "Durante: tenha um plano B caso a mídia não funcione.",
+            "Após: salve o arquivo com as mídias incorporadas."
+          ]
+        },
+        {
+          "tipo": "destacado",
+          "texto": "Desafio: crie uma apresentação de 3 slides com vídeos e áudios sincronizados para a turma."
+        }
+      ]
+    },
+    {
+      "titulo": "Conclusão",
+      "blocos": [
+        {
+          "tipo": "destacado",
+          "texto": "Vídeos e áudios tornam as apresentações mais dinâmicas e envolventes. Com a inserção de mídias locais ou online, configuração da reprodução e testes, você garante uma apresentação profissional."
+        }
+      ]
+    }
+  ]
+}
