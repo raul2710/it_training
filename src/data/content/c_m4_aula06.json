@@ -1,0 +1,141 @@
+{
+  "id": "c_m4_aula06",
+  "modulo": "Módulo 4 — Microsoft PowerPoint",
+  "titulo": "Criando um Gráfico SmartArt",
+  "subtitulo": "O que é o SmartArt, seus tipos e como inserir, formatar e personalizar diagramas visuais no PowerPoint.",
+  "tempo": 10,
+  "secoes": [
+    {
+      "titulo": "O que é SmartArt?",
+      "blocos": [
+        {
+          "tipo": "texto",
+          "texto": "O SmartArt é uma ferramenta do PowerPoint que permite criar gráficos e diagramas visuais. Ele é ideal para representar processos, hierarquias, ciclos e relações, transformando informações complexas em visuais claros e atraentes."
+        },
+        {
+          "tipo": "destacado",
+          "texto": "O SmartArt facilita a compreensão do público ao transformar conteúdo complexo em diagramas simples e bonitos."
+        }
+      ]
+    },
+    {
+      "titulo": "Tipos de SmartArt",
+      "blocos": [
+        {
+          "tipo": "cards",
+          "itens": [
+            { "titulo": "Listas", "descricao": "exibem informações em tópicos." },
+            { "titulo": "Processos", "descricao": "mostram etapas sequenciais." },
+            { "titulo": "Ciclos", "descricao": "representam processos contínuos." },
+            { "titulo": "Hierarquias", "descricao": "ideal para organogramas e equipes." },
+            { "titulo": "Relacionamentos", "descricao": "ilustram conexões entre conceitos." },
+            { "titulo": "Matrizes", "descricao": "comparam informações em quadrantes." },
+            { "titulo": "Pirâmides", "descricao": "mostram proporções ou níveis de importância." }
+          ]
+        },
+        {
+          "tipo": "destacado",
+          "texto": "Escolha o tipo de SmartArt que melhor se adapta ao conteúdo que você precisa comunicar."
+        }
+      ]
+    },
+    {
+      "titulo": "Inserindo SmartArt",
+      "blocos": [
+        {
+          "tipo": "passos",
+          "itens": [
+            { "titulo": "Aba Inserir", "descricao": "clique na opção SmartArt." },
+            { "titulo": "Escolha a categoria", "descricao": "como Processos ou Hierarquias, e selecione um layout." },
+            { "titulo": "Clique em OK", "descricao": "para inserir o gráfico no slide." },
+            { "titulo": "Preencha os textos", "descricao": "nos espaços reservados do gráfico." }
+          ]
+        },
+        {
+          "tipo": "destacado",
+          "texto": "Use o painel de texto à esquerda do gráfico para adicionar ou editar as informações rapidamente."
+        }
+      ]
+    },
+    {
+      "titulo": "Formatando SmartArt",
+      "blocos": [
+        {
+          "tipo": "cards",
+          "itens": [
+            { "titulo": "Estilos de SmartArt", "descricao": "aplica estilos prontos de cores e efeitos." },
+            { "titulo": "Cores", "descricao": "altera a paleta de cores do gráfico." },
+            { "titulo": "Layouts", "descricao": "muda o layout do SmartArt sem perder o conteúdo." },
+            { "titulo": "Formas", "descricao": "adiciona, remove ou reorganiza formas." }
+          ]
+        },
+        {
+          "tipo": "destacado",
+          "texto": "Exemplo prático: aplique um estilo de SmartArt e altere as cores para combinar com o tema da apresentação."
+        }
+      ]
+    },
+    {
+      "titulo": "Personalizando SmartArt",
+      "blocos": [
+        {
+          "tipo": "passos",
+          "itens": [
+            { "titulo": "Clique em uma forma", "descricao": "existente no gráfico." },
+            { "titulo": "Aba Design", "descricao": "clique em Adicionar Forma e escolha Antes ou Depois." },
+            { "titulo": "Para remover", "descricao": "selecione a forma e pressione Delete." }
+          ]
+        },
+        {
+          "tipo": "destacado",
+          "texto": "Dica: use a guia Formatar para personalizar formas individuais, como cor de fundo e bordas."
+        }
+      ]
+    },
+    {
+      "titulo": "Aplicando efeitos visuais",
+      "blocos": [
+        {
+          "tipo": "cards",
+          "itens": [
+            { "titulo": "Sombra", "descricao": "adiciona profundidade às formas." },
+            { "titulo": "Reflexo", "descricao": "cria um reflexo abaixo das formas." },
+            { "titulo": "Brilho", "descricao": "aplica um brilho suave ao redor das formas." },
+            { "titulo": "3D", "descricao": "transforma o gráfico em um visual tridimensional." }
+          ]
+        },
+        {
+          "tipo": "destacado",
+          "texto": "Exemplo prático: aplique um efeito de sombra e brilho para destacar o gráfico."
+        }
+      ]
+    },
+    {
+      "titulo": "Boas práticas no uso de SmartArt",
+      "blocos": [
+        {
+          "tipo": "lista",
+          "itens": [
+            "Mantenha a simplicidade: evite gráficos muito complexos.",
+            "Use cores moderadamente para destacar informações.",
+            "Garanta a legibilidade com texto claro.",
+            "Escolha o layout certo para o conteúdo."
+          ]
+        },
+        {
+          "tipo": "destacado",
+          "texto": "O SmartArt é um recurso poderoso para criar diagramas. Explore diferentes tipos em vários contextos para dominá-lo."
+        }
+      ]
+    },
+    {
+      "titulo": "Conclusão",
+      "blocos": [
+        {
+          "tipo": "destacado",
+          "texto": "O SmartArt transforma informações em gráficos e diagramas claros. Com a escolha certa do tipo, formatação e efeitos moderados, você melhora a comunicação visual das suas apresentações."
+        }
+      ]
+    }
+  ]
+}
