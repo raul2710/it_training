@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://raul2710.github.io/it_training/sitemap.xml

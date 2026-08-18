@@ -9,19 +9,19 @@ export function homePage() {
   const app = document.createElement('div');
   app.className = 'home';
   app.innerHTML = `
-    <div class="auth-card card animate-pop">
-      <img class="auth-card__logo" src="${BRANDING.logo}" alt="${escapeHtml(BRANDING.name)}" />
-      <h1 class="auth-card__title">${escapeHtml(BRANDING.name)}</h1>
-      <p class="auth-card__tagline">Responda os questionários das aulas, confira seu desempenho e evolua.</p>
+    <div class="name-card card animate-pop">
+      <img class="name-card__logo" src="${BRANDING.logo}" alt="${escapeHtml(BRANDING.name)}" />
+      <h1 class="name-card__title">${escapeHtml(BRANDING.name)}</h1>
+      <p class="name-card__tagline">Responda os questionários das aulas, confira seu desempenho e evolua.</p>
 
-      <form class="auth-card__form" data-form novalidate>
+      <form class="name-card__form" data-form novalidate>
         <label class="field">
           <span class="field__label" for="student-name">Qual é o seu nome?</span>
           <input class="input input--lg" id="student-name" type="text" name="name"
-            placeholder="Digite seu nome" autocomplete="name" maxlength="40" required />
+            placeholder="Digite seu nome" maxlength="40" required />
           <span class="field__hint">Seu nome fica salvo apenas nesta sessão — fechar a aba apaga tudo.</span>
         </label>
-        <button class="btn btn--primary btn--lg btn--block" type="submit">Entrar ${icons.arrowRight}</button>
+        <button class="btn btn--primary btn--lg btn--block" type="submit">Começar ${icons.arrowRight}</button>
       </form>
     </div>
   `;
